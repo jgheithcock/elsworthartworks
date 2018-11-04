@@ -1,0 +1,173 @@
+html {
+  height: 100%;
+}
+body {
+  font-family: Futura, 'Trebuchet MS', sans-serif;
+  min-height: 100%;
+  text-align:center;
+  color: #eee;
+  background: black image_url('support/dark_bkgnd.jpg');
+  
+  margin:0;
+  padding:0;
+}
+h1,h2,h3,h4 {
+  text-align:left;
+  font-variant: small-caps;
+  font-weight: 500;
+  color:#bbb;
+}
+h1 {color: white; font-size: 1.5em;}
+h2 { font-size: 1.1em; text-transform: uppercase; }
+h3 { font-size: 1em; /* text-transform: uppercase; */}
+a {
+  color: rgba(#ccc, .9);
+  text-decoration: none;
+
+  &:visited {
+    color: rgba(#bbb, .7);
+  }
+  &:focus,
+  &:hover {
+    color: rgba(white, 1);
+  }
+}
+a.active {
+  /* styles for link to the current page */
+  color: white;
+  &:visited,
+  &:focus,
+  &:hover {
+    color: white;
+  }
+}
+
+main {
+  margin: 0 auto;
+  max-width: 800px;
+  min-height:100vh;
+  background: image_url('support/gray_bkgnd.jpg');
+}
+header {
+  text-align: center;
+  padding-top:1em;
+  nav {
+    background: image_url('support/light_bkgnd.jpg');
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+    a {
+      font-size: .8em;
+      text-transform: uppercase;
+      text-shadow: 0px -1px 2px #333;
+      display: inline-block; /* to force padding */
+      padding: 1em 1em .8em 0;
+    }
+  }
+}
+footer {
+  text-align: center;
+  padding: 1em 0;
+  /* if we want to pin footer to bottom, use the following. The downside is I'd like this to be the minimum, but it scrolls over the body if too small
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  */
+}
+article {
+  padding: 1em; /* using margin clips the gradient */
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ffffff+100&0.25+0,0+50,0+100 */
+  background: -moz-radial-gradient(top, ellipse cover, rgba(255,255,255,0.25) 0%, rgba(255,255,255,0) 50%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
+  background: -webkit-radial-gradient(top, ellipse cover, rgba(255,255,255,0.25) 0%,rgba(255,255,255,0) 50%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: radial-gradient(ellipse at top, rgba(255,255,255,0.25) 0%,rgba(255,255,255,0) 50%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  /* no gradient for ie */
+  h1 {
+    margin-top:0;
+    margin-bottom:0;
+  }
+}
+section {
+  display:inline-block;
+}
+.album_list section {
+  width: 50%;
+  margin: 0 -2px 1em -2px; /* -2px to adjust for 50% width */
+  @media screen and (max-width: 800px) {
+      width:100%;
+      margin: 1em 0;
+  }
+  h1,h2,h3,h4 {
+    text-align:center;
+  }
+  h3 { margin-top: 2em; }
+  figure {
+    height: 400px;
+    line-height: 330px;
+    margin-top: 0;
+    img {
+      max-width: 100%;
+      max-height:400px;
+      box-shadow: inset 0px 0px 30px 0px rgba(0,0,0,0.9), 0px 0px 7px 0px rgba(0, 0, 0, 0.9);
+      padding: 10px;
+      vertical-align:bottom; /* Needed to pull the image down to center */
+    }
+  }
+}
+.single_image {
+    img {
+        max-width:100%;
+        box-shadow: inset 0px 0px 30px 0px rgba(0,0,0,0.9), 0px 0px 7px 0px rgba(0, 0, 0, 0.9);
+        padding: 10px;
+    }
+    h3, h4 {
+        text-align:center;
+    }
+}
+.about {
+  text-align: left;
+  h3, h4 { text-transform: uppercase; font-size:1em;}
+  section {
+    text-align:left;
+    .timeline {
+      th {
+        text-align:right;
+        vertical-align:top;
+      }
+    }
+  }
+  .contact_info {
+    width:100%;
+    h3 { margin-top: 0;}
+    h4 {margin-top:1em; margin-bottom: .25em; text-transform:uppercase; font-size: 1em;}
+    img {width: 50%;}
+    .sidebar {
+      vertical-align: top;
+      margin-left: 2em;
+      width: 40%;
+      display:inline-block;
+      p { margin-top:.5em; margin-bottom: .25em; }
+    }
+  }
+}
+.clients {
+  text-align:left;
+  figure {
+    display: flex;
+    img {
+      height:170px;
+      border: 2px solid black;
+    }
+  }
+  .caption {
+    text-align: center;
+    font-style: italic;
+  }
+}
+.shows {
+    text-align:left;
+    .date {
+        display:inline-block;
+        width: 12em;
+        text-align: right;
+    }
+}

@@ -1,0 +1,16 @@
+---
+title: Elsworth Artworks
+body_class: album_list
+---
+
+<% contents.each do |item| %>
+  <% unless defined? parent_item %>
+    <% next unless (item[:parent].to_s.empty?) # skip items that have a parent defined %>
+  <% end %>
+<section>
+  <figure>
+    <%= link_to image_tag(img_path(item), {:alt => item[:title]}), item_path(item) %>
+  </figure>
+  <h3><%= item[:title] %></h3>
+</section>
+<% end %>

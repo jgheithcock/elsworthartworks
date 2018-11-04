@@ -1,0 +1,16 @@
+---
+title: Elsworth Artworks
+body_class: album_list
+---
+<%# current_page.data.subtitle = "#{category}"%>
+<%# :category => "oil", :album => "Doorknockers" %>
+<% albums = contents.group_by {|item| item[:album].downcase.to_sym} %>
+<% albums.each do |album, list| %>
+<section>
+  <figure>
+     <% item = list[0] %>
+    <%= link_to image_tag(img_path(item), {:alt => item[:title]}), album_path(item) %>
+  </figure>
+  <h3><%= album %></h3>
+</section>
+<% end %>

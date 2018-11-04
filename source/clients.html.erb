@@ -1,0 +1,65 @@
+---
+title: Elsworth Artworks
+subtitle: Clients and Patrons
+body_class: clients
+images:
+  - drawings/wineries/v_sattui_1080.jpg
+  - drawings/wineries/sequoia_grove_1080.jpg
+  - drawings/wineries/travigne_1080.jpg
+  - drawings/wineries/sutter_home_1080.jpg
+clients:
+  - patron:
+    name: Tra Vigne Restaurant
+    link: drawings/wineries/travigne
+  - patron:
+    name: V. Sattui Winery
+    link: drawings/wineries/v_sattui
+  - patron:
+    name: Sequoia Grove Winery
+    link: drawings/wineries/sequoia_grove
+  - patron:
+    name: Sutter Home Winery
+    link: drawings/wineries/sutter_home
+  - patron:
+    name: Charles Krug Winery
+    link: drawings/wineries/charles_krug
+  - patron:
+    name: Jill Mahoney-Banks
+  - patron:
+    name: Sharlee Merner Bradley
+  - patron:
+    name: Fran Cain
+  - patron:
+    name: Chinn Chinese Medicine
+  - patron:
+    name: Brian Dunagan
+  - patron:
+    name: Laurie Gill
+  - patron:
+    name: Sharleen Houston
+  - patron:
+    name: Sensei Jerrell Smith
+  - patron:
+    name: Sheri Scott
+  - patron:
+    name: Windswept Cottage, Gualala, CA
+  - patron:
+    name: Mary Zarekari Dentistry
+---
+<figure>
+<% current_page.data.images.each do |image| %>
+<%= image_tag image %>
+<% end %>
+</figure>
+<p class="caption">Many thanks to all of my clients and patrons, both listed here and otherwise!</p>
+<section>
+<% current_page.data.clients.each do |patron| %>
+<p>
+  <% if patron[:link] %>
+  <%= link_to(patron[:name], patron[:link]) %>
+  <% else %>
+  <%= patron[:name] %>
+  <% end %>
+</p>
+<% end %>
+</section>

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <% title = current_page.data.title ||= "Elsworth Artworks" %>
+    <% title += ": #{current_page.data.subtitle}" if current_page.data.subtitle %>
+    
+    <% if current_page.data.include_open_graph %>
+    <meta property="og:title" content="#{title}"/>
+    <meta property="og:description" content=""/>
+    <meta property="og:image" content="..."/>
+    <meta property="og:image:width" content="630"/>
+    <meta property="og:image:height" content="330"/>
+    <% end %>
+    
+    <title><%= title %></title>
+    <!-- link rel="/apple-touch-icon" sizes="180x180" href="apple-touch-icon-180x180-precomposed.png" -->
+    <!-- link rel="/apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152-precomposed.png" -->
+    <link rel="/apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144-precomposed.png">
+    <!-- link rel="/apple-touch-icon" href="apple-touch-icon-precomposed.png" -->
+    <link rel="shortcut icon" href="/favicon.png">
+    <link rel="icon" type="image/ico" href="/favicon.ico">
+    <% if defined? prev_item %>
+    <link rel="prev" href="<%= item_path(prev_item) %>">
+    <% end %>
+    <% if defined? next_item %>
+    <link rel="next" href="<%= item_path(next_item) %>">
+    <% end %>
+    <%= stylesheet_link_tag "site" %>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <%= javascript_include_tag "site" %>
+  </head>
+  <body class="<%= current_page.data.body_class || "" %>">
+    <main>
+    <%= partial "header" %>
+    <article>
+      <h1><%= nav_link(current_page.data.title, "/") %></h1>
+      <% if current_page.data.subtitle %>
+      <h2><%= current_page.data.subtitle %></h2>
+      <% else %>
+      <h2>
+          <%= nav_link(category, category_path(category)) if defined? category %>
+          <%= ": " + nav_link(album, album_path({category: category, album_escaped: album_escaped})) if defined? album %>
+          <% if defined? parent_item %>
+              <%= ": " + nav_link(parent_item[:title], item_path(parent_item)) %>
+              <%= ": " + nav_link("Progress", progress_path(parent_item)) %>
+          <% end %>
+          <% if defined? item %>
+              <%= ": " + nav_link(item[:title], item_path(item)) %>
+          <% end %>
+      </h2>
+      <% end %>
+      <%= yield %>
+    </article>
+    <%= partial "footer" %>
+    </main>
+  </body>
+</html>

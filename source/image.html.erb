@@ -1,0 +1,37 @@
+---
+title: Elsworth Artworks
+body_class: single_image
+---
+
+<%# current_page.data.subtitle = "#{category.to_s.titlecase}: #{album.to_s.titlecase}: #{item[:title]}" %>
+<%# e.g. category => "oil", album => "Doorknockers" %>
+
+<div>
+  <figure>
+    <%= link_to( image_tag(img_path(item), {:alt => item[:title]}), img_path(item) ) %>
+  </figure>
+  <h3>
+      <% if item_path(prev_item) != "" then %>
+          <%= link_to("&lt;", item_path(prev_item), {:rel => "prev", :class => 'prev_link'}) %>
+      <% end %>
+      <span>
+          <% if item[:date] then %>
+          <%= "#{item[:title]}, #{item[:date]}" %>
+          <% else %>
+          <%= "#{item[:title]}" %>
+          <% end %>
+      <span>
+      <% if item_path(next_item) != "" then %>
+          <%= link_to("&gt;", item_path(next_item), {:rel => "next", :class => 'next_link'}) %>
+      <% end %>
+  </h3>
+  <% if item[:width]%>
+  <h3><%= "#{item[:media]}, #{item[:width]}&Prime; x #{item[:height]}&Prime;" %></h3>
+  <% else %>
+  <h3><%= "#{item[:media]}" %></h3>
+  <% end %>
+</div>
+
+<% if item[:has_children] %>
+<%= link_to( "View progress of '#{item[:title]}'", progress_path(item) ) %>
+<% end %>

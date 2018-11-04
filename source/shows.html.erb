@@ -1,0 +1,78 @@
+---
+title: Elsworth Artworks
+subtitle: Shows
+body_class: shows
+current_shows:
+  - show:
+    name: John Muir Hospital-Gallery at Aspen Center with other Lafayette Artists
+    dates: Nov 4 to Dec 13, 2018
+past_shows:
+  - show:
+    name: San Ramon City Hall with Linda Huffman
+    dates: Mar 17 to May 17, 2018
+  - show:
+    name: The aRt Cottage, Concord CA
+    dates: Apr, 2018
+    link: http://artscottage.blogspot.com/p/next-show_4.html
+  - show:
+    name: Fresh Works VIII at the Harrington Gallery in the Firehouse Arts Center
+    dates: Apr 28 to Jun 2, 2018
+    link: http://www.firehousearts.org/gallery/current-exhibits/
+  - show:
+    name: Boundary Oaks Golf Course with Linda Huffman
+    dates: Nov 15 to Feb 15, 2018
+  - show:
+    name: Solo show at Walnut Creek City Hall
+    dates: 2017 # June 16 to August 14
+  - show:
+    name: Magical Realism at Arts Benicia
+    dates: 2017 # June 3 to July 9th
+    link: https://artsbenicia.org/magical-realism/
+    image:
+  - show:
+    name: Fresh Works VII at the Harrington Gallery in the Firehouse Arts Center
+    dates: 2017 # May 6 to June 3
+    link: http://www.firehousearts.org/gallery/current-exhibits/
+    image:
+  - show:
+    name: The aRt Cottage, Concord CA
+    dates: 2017
+    link: http://www.artcottage.info/p/past-shows.html
+  - show:
+    name: The Lindsay Museum, Walnut Creek CA
+    dates: 2017
+    link: https://lindsaywildlife.org/
+  - show:
+    name: The Danville Theatre Art Gallery
+    dates: 2016
+    link: http://www.danville.ca.gov/Things-To-Do/Art-and-Culture/Village-Theatre-Art-Gallery/Upcoming-Exhibits/
+  - show:
+    name: The aRt Cottage
+    dates: 2016
+    link: http://www.artcottage.info/p/past-shows.html
+  - show:
+    name: The Bedford Gallery
+    dates: 2015
+    link: http://www.bedfordgallery.org/exhibitions/past
+  - show:
+    name: The aRt Cottage
+    dates: 2015
+    link: http://www.artcottage.info/p/past-shows.html
+---
+<section>
+  <h3>Current and Upcoming</h3>
+<% current_page.data.current_shows.each do |show| %>
+  <p>
+      <span class="date"><%= show[:dates] %></span> - <%= link_to_if(show[:name], show[:link]) %>
+  </p>
+<% end %>
+</section>
+
+<section>
+  <h3>Past</h3>
+<% current_page.data.past_shows.each do |show| %>
+  <p>
+      <span class="date"><%= show[:dates] %></span> - <%= link_to_if(show[:name], show[:link]) %>
+  </p>
+<% end %>
+</section>
