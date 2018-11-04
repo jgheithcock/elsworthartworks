@@ -2,7 +2,7 @@
 title: Elsworth Artworks
 subtitle: About Me
 body_class: about
-statement: 
+statement: "I like my paintings to evoke the idea of the passing of time through subtle suggestions of movement. For instance, when I paint a tree I would like you to imagine the branches dancing in the wind, just as I see them in my mind. Perhaps when you look at a gnarled tree trunk in my paintings you might think of the evolving beauty of it's enduring life span. It is all about having more than just two or even three dimensions in a two-dimensional work."
 timeline:
   "1964": Born in Lausanne, Switzerland to Sharlee Merner Elsworth (Doctor of Linguistics), from Toronto, Canada and Piedmont, California, and A. Kenton Elsworth (computer engineer at Livermore Labs and Sperry Rand), from Stockton, California and Berkeley, California.
   "1964 ": "Moves to Boston." # ### I'd remove this
@@ -18,7 +18,7 @@ timeline:
   "2000": Gives birth to daughter Morgan Elsworth Heithcock.
   "2001": Moves to Lafayette, California.
   "2009": House burns down, losing everything including all artwork done.
-  Present: Has become the Phoenix, rising from the ashes, the same but very different.
+  Present: Now an award winning artist with over a dozen solo and group shows, she has become the Phoenix, rising from the ashes, the same but very different.
 ---
 <section class="contact_info">
 <%= image_tag("/images/oil/doorknockers/mirror_knocker_1080.jpg", :alt => "Eye of the Knocker") %>
@@ -38,6 +38,8 @@ Lafayette, CA 94549</p>
 
 <section>
 <h3>All About Me</h3>
+<p><%= current_page.data.statement %></p>
+<h3>Biography</h3>
 <table class="timeline" cellpadding="4" cellspacing="4">
 <% current_page.data.timeline.each do |year, item| %>
 <tr>
