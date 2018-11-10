@@ -1,0 +1,29 @@
+
+<section>
+  <p><%= data.site_info.statement %></p>
+</section>
+
+<section class="contact_info">
+  <%= image_tag(data.site_info.contact.image.url, :alt => data.site_info.contact.image.title) %>
+  <div class="sidebar">
+    <h3>Contact Information</h3>
+    <h4>Email</h4>
+    <p><%= data.site_info.contact.email%></p>
+    <h4>Telephone</h4>
+    <p><%= data.site_info.contact.phone%></p>
+    <h4>Address</h4>
+    <p><%= data.site_info.contact.address%> </p>
+  </div>
+</section>
+
+
+<section>
+  <h3>Biography</h3>
+  <table class="timeline" cellpadding="4" cellspacing="4">
+  <% data.site_info.timeline.each do |year, item| %>
+  <tr>
+  <th><%= year %></th><td><%= item %></td>
+  </tr>
+  <% end %>
+  </table>
+</section>

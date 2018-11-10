@@ -2,49 +2,6 @@
 title: Elsworth Artworks
 subtitle: About Me
 body_class: about
-statement: "I like my paintings to evoke the idea of the passing of time through subtle suggestions of movement. For instance, when I paint a tree I would like you to imagine the branches dancing in the wind, just as I see them in my mind. Perhaps when you look at a gnarled tree trunk in my paintings you might think of the evolving beauty of it's enduring life span. It is all about having more than just two or even three dimensions in a two-dimensional work."
-timeline:
-  "1964": Born in Lausanne, Switzerland to Sharlee Merner Elsworth (Doctor of Linguistics), from Toronto, Canada and Piedmont, California, and A. Kenton Elsworth (computer engineer at Livermore Labs and Sperry Rand), from Stockton, California and Berkeley, California.
-  "1964 ": "Moves to Boston." # ### I'd remove this
-  "1965": Moves to Santa Cruz de Tenerife, Canary Islands, Spain.
-  "1974": Father dies of lung cancer.
-  "1977": Moves to Menlo Park, California to attend Menlo-Atherton High school, fostering for a year with the Kalhammer family.
-  "1978": Attends the Shipley Boarding School in Pennsylvania, graduating in 1981.
-  "1980": Attends Figure Drawing classes at the Pennsylvania School for the Arts in Philadelphia.
-  "1981": Attends the University of Wisconsin at Madison.
-  "1983": Attends the California College of Arts and Crafts in Oakland, California, graduating BFA in 1985.
-  "1985": to 1998 works as waitress at The Hungry Hunter in Oakland, The Santa Fe Bar and Grill in Berkeley, Shenanigans in Oakland, Tra Vigne in St. Helena (Napa Valley), The California Cafe in Yountville (Napa Valley), and as banquet waiter at Beringer Winery and Tasting Room manager at Dunnewood Winery.
-  "1991": Marries JG Heithcock who was then a waiter at Shenanigans, and since worked as a computer engineer at Apple and Dantz, and now is CEO at Retrospect.
-  "2000": Gives birth to daughter Morgan Elsworth Heithcock.
-  "2001": Moves to Lafayette, California.
-  "2009": House burns down, losing everything including all artwork done.
-  Present: Now an award winning artist with over a dozen solo and group shows, she has become the Phoenix, rising from the ashes, the same but very different.
 ---
-<section class="contact_info">
-<%= image_tag("/images/oil/doorknockers/mirror_knocker_1080.jpg", :alt => "Eye of the Knocker") %>
-<div class="sidebar">
-<h3>Contact Information</h3>
-<h4>Email</h4>
-<p>suzy @ elsworthartworks.com</p>
-<h4>Telephone</h4>
-<p>925 - 938 - 7899</p>
-<h4>Address</h4>
-<p>Elsworth Artworks<br>
-Suzy Elsworth-Heithcock<br>
-44 Westwind Road<br>
-Lafayette, CA 94549</p>
-</div>
-</section>
 
-<section>
-<h3>All About Me</h3>
-<p><%= current_page.data.statement %></p>
-<h3>Biography</h3>
-<table class="timeline" cellpadding="4" cellspacing="4">
-<% current_page.data.timeline.each do |year, item| %>
-<tr>
-<th><%= year %></th><td><%= item %></td>
-</tr>
-<% end %>
-</table>
-</section>
+<%= partial "bio_and_contact" %>
