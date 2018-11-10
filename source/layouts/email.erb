@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <% title = current_page.data.title ||= "Elsworth Artworks" %>
+    <% title += ": #{current_page.data.subtitle}" if current_page.data.subtitle %>
+    
+    <title><%= title %></title>
+    <link rel="/apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    <link rel="icon" type="image/ico" href="/favicon.ico">
+    <%= stylesheet_link_tag "email" %>
+  </head>
+  <body class="<%= current_page.data.body_class || "" %>">
+    <main>
+    <article>
+      <h1><%= current_page.data.title %></h1>
+      <% if current_page.data.subtitle %>
+      <h2><%= current_page.data.subtitle %></h2>
+      <% end %>
+      <%= yield %>
+    </article>
+    <%= partial "footer" %>
+    </main>
+  </body>
+</html>

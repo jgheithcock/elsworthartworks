@@ -1,0 +1,56 @@
+---
+title: Suzy Elsworth-Heithcock
+subtitle: About Me
+body_class: about
+layout: email
+---
+
+<%= partial "bio_and_contact" %>
+
+<%# From articles/index.html %>
+<section>
+<h3>Articles</h3>
+  <% data.site_info.articles.each do |article| %>
+  <p><%= article.author %> (<%= article.date %>).
+    <%= link_to article.title, article.url %>
+    <%= article.publication %>, <%= link_to article.pub_title, article.pub_url %>.
+  </p>
+  <% end %>
+</section>
+
+<section>
+<h3>Pieces</h3>
+<% config[:all_images][:oil].each do |piece| %>
+<%# piece = 
+   {:category=>"oil",
+    :album=>"Landscapes",
+    :title=>"Monterey Visitor", 
+    :has_children=>nil, 
+    :parent=>nil, 
+    :image=>"monterey_visitor.jpg", 
+    :date=>"2018", 
+    :media=>"Oil on Masonite", 
+    :width=>"24", 
+    :height=>"36", 
+    :tags=>"Oil", 
+    :notes=>"Photo", 
+    :album_escaped=>"landscapes", 
+    :basename=>"monterey_visitor"}%>
+
+<% next if piece[:parent] # is a supporting image %>
+<h4><em><%= piece[:title] %></em></h4>
+<p><span class="info">
+    <% if piece[:date] %>
+        <%= piece[:date] %>, 
+    <% end %>
+    <% if piece[:media] %>
+        <%= piece[:media] %><% end %><%# odd formatting to not have any white space before comma
+        %><% if piece[:width] && piece[:height] %>,
+        <%= piece[:width] %>" x <%= piece[:height] %>"
+    <% end %></span><br>
+<% img_url = img_path(piece) %>
+<img src="<%= img_url %>" alt="<%= piece[:title] %>" width="400">
+</p>
+</div>
+<% end %>
+</section>
