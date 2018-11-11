@@ -1,9 +1,10 @@
+@import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700";
+
 html {
   height: 100%;
 }
-body {
-  min-height: 100%;
-  text-align:center;
+body, section {
+  font-family:"Noto Serif","DejaVu Serif",serif;
   font-size:1.0625rem;
   font-weight: 400;
   line-height:1.6;
@@ -25,6 +26,11 @@ h1 { font-size: 2.1rem;}
 h2 { font-size: 2.0rem; }
 h3 { font-size: 1.9rem;}
 h4 { font-size: 1.7rem;}
+
+td, th, p {
+  font-family: "Noto Serif","DejaVu Serif",serif; 
+  font-size:1.0625rem;
+}
 a {
   color: #ba3925;
   text-decoration: none;

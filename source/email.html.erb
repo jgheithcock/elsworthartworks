@@ -37,8 +37,26 @@ layout: email
     :album_escaped=>"landscapes", 
     :basename=>"monterey_visitor"}%>
 
-<% next if piece[:parent] # is a supporting image %>
-<h4><em><%= piece[:title] %></em></h4>
+<%
+    next if piece[:parent] # is a supporting image
+
+    img_url = img_path(piece)
+    item_url = item_path(piece)
+    img_width = piece[:width].to_i
+    if (img_width > 0)
+        # map 72 inches to 600px, 8 inches to 200px
+        min_inches = 8
+        max_inches = 72
+        min_width = 200
+        max_width = 400 # will be added to min_width
+        img_width = min_inches if (img_width < min_inches)
+        img_width = max_inches if (img_width > max_inches)
+        scaled_width = min_width + max_width * (img_width - min_inches) / (max_inches - min_inches)
+    else
+        scaled_width = "400"
+    end
+ %>
+<h4><em><a href="<%= item_url %>"><%= piece[:title] %></a></em></h4>
 <p><span class="info">
     <% if piece[:date] %>
         <%= piece[:date] %>, 
@@ -48,9 +66,7 @@ layout: email
         %><% if piece[:width] && piece[:height] %>,
         <%= piece[:width] %>" x <%= piece[:height] %>"
     <% end %></span><br>
-<% img_url = img_path(piece) %>
-<img src="<%= img_url %>" alt="<%= piece[:title] %>" width="400">
+<a href="<%= item_url %>"><img src="<%= img_url %>" alt="<%= piece[:title] %>" width="<%= scaled_width %>px"></a>
 </p>
-</div>
 <% end %>
 </section>
