@@ -94,20 +94,20 @@ Oil,Landscapes,Madrone Dryad,TRUE,,madrone_dryad.tif,2017,Oil on Masonite,16,20,
 oil,Landscapes,Secret Garden of Earthly Delights,,,Secret Garden of Earthly Delights.jpg,2017,Oil on Masonite,20,16,,,landscapes,secret_garden_of_earthly_delights
 oil,Landscapes,Spengler Path,TRUE,,spengler_path.tif,2017,Oil on Masonite,16,20,,,landscapes,spengler_path
 Oil,Landscapes,Shadows on My Path,TRUE,,shadows_on_my_path.tif,2016,Oil on Masonite,32,48,"Oil, Landscape",Custom Photographic,landscapes,shadows_on_my_path
-Oil,Landscapes,The Wind in My Branches,TRUE,,the_wind_in_my_branches.tif,2016,Oil on Masonite,4,3,"Oil, Landscape",Custom Photographic,landscapes,the_wind_in_my_branches
-Oil,Landscapes,The Wind in My Branches v1,,the_wind_in_my_branches,the_wind_in_my_branches_v1.tif,2016,Oil on Masonite,4,3,"Oil, Landscape",Custom Photographic,landscapes,the_wind_in_my_branches_v1
-Oil,Landscapes,Amalfi Coast,,,amalfi_coast.tif,2015,Oil on Masonite,2,5,"Oil, Italy, Landscape",Custom Photographic,landscapes,amalfi_coast
+Oil,Landscapes,The Wind in My Branches,TRUE,,the_wind_in_my_branches.tif,2016,Oil on Masonite,48,36,"Oil, Landscape",Custom Photographic,landscapes,the_wind_in_my_branches
+Oil,Landscapes,The Wind in My Branches v1,,the_wind_in_my_branches,the_wind_in_my_branches_v1.tif,2016,Oil on Masonite,48,36,"Oil, Landscape",Custom Photographic,landscapes,the_wind_in_my_branches_v1
+Oil,Landscapes,Amalfi Coast,,,amalfi_coast.tif,2015,Oil on Masonite,24,60,"Oil, Italy, Landscape",Custom Photographic,landscapes,amalfi_coast
 Oil,Landscapes,Briones Through My Window,,,briones_through_my_window.png,2015,Oil on Masonite,72,48,"Oil, Landscape",Custom Photographic,landscapes,briones_through_my_window
-Oil,Landscapes,Sunset,TRUE,,sunset.tif,2015,Oil on Masonite,5,2,"Oil, Landscape",Photo (large),landscapes,sunset
+Oil,Landscapes,Sunset,TRUE,,sunset.tif,2015,Oil on Masonite,60,24,"Oil, Landscape",Photo (large),landscapes,sunset
 oil,Landscapes,Eucylptus Bark,,,eucylptus.tif,2014,Oil on Masonite,16,20,,,landscapes,eucylptus
 Oil,Landscapes,Snow on Mount Diablo,,,snow_on_mount_diablo.tif,2014,Oil on Masonite,24,36,"Oil, Landscape",Custom Photographic,landscapes,snow_on_mount_diablo
-Oil,Landscapes,Tuscan Path,,,tuscan_path.tif,2014,Oil on Masonite,2,5,"Oil, Italy, Landscape",Custom Photographic,landscapes,tuscan_path
-Oil,Landscapes,Venice Canal,,,venice_canal.tif,2013,Oil on Masonite,2,5,"Oil, Italy, Landscape",Custom Photographic,landscapes,venice_canal
+Oil,Landscapes,Tuscan Path,,,tuscan_path.tif,2014,Oil on Masonite,24,60,"Oil, Italy, Landscape",Custom Photographic,landscapes,tuscan_path
+Oil,Landscapes,Venice Canal,,,venice_canal.tif,2013,Oil on Masonite,24,60,"Oil, Italy, Landscape",Custom Photographic,landscapes,venice_canal
 Oil,Landscapes,Mendocino Coast Sunset,,,mendocino_coast_sunset.tif,2012,Oil on Masonite,24,30,"Oil, Landscape",Custom Photographic,landscapes,mendocino_coast_sunset
 Oil,Landscapes,Irish Garden,,,irish_garden.tif,2010,Oil on Masonite,16,20,"Oil, Landscape",Custom Photographic,landscapes,irish_garden
-Oil,Landscapes,In a Tuscan Town,TRUE,,in_a_tuscan_town.tif,2006,Oil on Masonite,2,5,"Oil, Italy, Landscape",Custom Photographic,landscapes,in_a_tuscan_town
-Oil,Landscapes,In a Tuscan Town (Beginning),,in_a_tuscan_town,in_a_tuscan_town-underpaint.jpg,2006,Oil on Masonite,2,5,"Oil, Italy, Landscapes, Progressions",Photo,landscapes,in_a_tuscan_town-underpaint
-Oil,Landscapes,In a Tuscan Town (Sepia Layer),,in_a_tuscan_town,in_a_tuscan_town-sepia.jpg,2006,Oil on Masonite,2,5,"Oil, Italy, Landscapes, Progressions",Photo,landscapes,in_a_tuscan_town-sepia
+Oil,Landscapes,In a Tuscan Town,TRUE,,in_a_tuscan_town.tif,2006,Oil on Masonite,24,60,"Oil, Italy, Landscape",Custom Photographic,landscapes,in_a_tuscan_town
+Oil,Landscapes,In a Tuscan Town (Beginning),,in_a_tuscan_town,in_a_tuscan_town-underpaint.jpg,2006,Oil on Masonite,24,60,"Oil, Italy, Landscapes, Progressions",Photo,landscapes,in_a_tuscan_town-underpaint
+Oil,Landscapes,In a Tuscan Town (Sepia Layer),,in_a_tuscan_town,in_a_tuscan_town-sepia.jpg,2006,Oil on Masonite,24,60,"Oil, Italy, Landscapes, Progressions",Photo,landscapes,in_a_tuscan_town-sepia
 Oil,Landscapes,Italian Portico,,,italian_portico.tif,2006,Oil on Masonite,15,20,"Oil, Italy, Architecture, Pets and Animals",Custom Photographic,landscapes,italian_portico
 oil,Landscapes,Banyan Tree,TRUE,,banyan_tree.tif,,,,,,,landscapes,banyan_tree
 oil,Landscapes,Img 0036,,banyan_tree,IMG_0036.jpg,,,,,,,landscapes,img_0036
@@ -417,7 +417,6 @@ Oil,2010-2011,St Marks Lion & Morgan 2,,,st_marks_lion_and_girl-2.tif,2010,Oil o
 Oil,2010-2011,St Marks Lion & Morgan 1,,,st_marks_lion_and_girl-1.tif,2009,Oil on Masonite,4,6,"Oil, Pets and Animals, Portraits",Scan from Printer,2010-2011,st_marks_lion_and_girl-1
 Oil,2010-2011,Morning Glory,,,morning_glory.tif,2005,Oil on Masonite,8,10,Oil,Scan from Printer,2010-2011,morning_glory
 Oil,2010-2011,Napa Valley Vineyard Worker,,,grape_man.jpg,1989,Oil on Masonite,15,20,"Oil, Fantasy and Allegory, Landscapes, The Figure",Photo,2010-2011,grape_man
-oil,2010-2011,Dragon,,,dragon.jpg,,,,,,,2010-2011,dragon
 Oil,Past,Grapevine on Wood,,,grapevine_on_wood.tif,1998,Oil on Masonite,16,20,Oil,,past,grapevine_on_wood
 Oil,Past,The Bath,,,bath.jpg,1997,Oil on Masonite,10,15,"Oil, Architecture, The Figure, Fantasy and Allegory",,past,bath
 Oil,Past,Rain,,,rain.jpg,1990,Oil on Masonite,15,20,"Oil, Landscape",Photo,past,rain
@@ -427,7 +426,6 @@ Oil,Past,Sandstone Formations (Right),,,sandstone_right.jpg,1990,Oil on Masonite
 Oil,Past,The Force and Rhythm of Time,,,the_force_and_rhythm_of_time.tif,1989,Oil on Masonite,15,20,"Oil,, The Figure, Fantasy and Allegory, Landscape",Photo ('pool_women-light.jpg'),past,the_force_and_rhythm_of_time
 Oil,Past,Imps in the Garden,,,imps_in_the_garden.tif,1988,Oil on Masonite,15,20,"Oil, The Figure, Fantasy and Allegory, Landscape",,past,imps_in_the_garden
 Oil,Past,Exhaustion,,,exhaustion.jpg,1982,Oil on Canvas Board,8,10,"Oil, Fantasy and Allegory",Photo,past,exhaustion
-oil,Past,Meditate Adj3,,,Meditate adj3.tif,,,,,,,past,meditate_adj3
 Other,Jamuna,Jamuna 1,,,jamuna.jpg,2004,Ceramic Sculpture,,,Sculpture,Photo,jamuna,jamuna
 Other,Shirts,Afire to Know the World (kid's shirt),,,Afire_to_Know_the_World-kids.jpg,2008,Ink on Cotton,,,Shirts,,shirts,afire_to_know_the_world-kids
 Other,Shirts,Afire to Know the World (nightshirt),,,Afire_to_Know_the_World-nightshirt.jpg,2008,Ink on Cotton,,,Shirts,,shirts,afire_to_know_the_world-nightshirt
