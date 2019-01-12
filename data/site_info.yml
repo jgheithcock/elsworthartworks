@@ -9,7 +9,7 @@ contact:
       Suzy Elsworth-Heithcock<br>
       44 Westwind Road<br>
       Lafayette, CA 94549
-statement: "I like my paintings to evoke the idea of the passing of time through subtle suggestions of movement. For instance, when I paint a tree I would like you to imagine the branches dancing in the wind, just as I see them in my mind. Perhaps when you look at a gnarled tree trunk in my paintings you might think of the evolving beauty of it's enduring life span. It is all about having more than just two or even three dimensions in a two-dimensional work."
+statement: "I like my paintings to evoke the idea of the passing of time through subtle suggestions of movement. For instance, when I paint a tree I would like you to imagine the branches dancing in the wind, just as I see them in my mind. Perhaps when you look at a gnarled tree trunk in my paintings you might think of the evolving beauty of its enduring life span. It is all about having more than just two or even three dimensions in a two-dimensional work."
 timeline:
   "1964": Born in Lausanne, Switzerland to Sharlee Merner Elsworth (Doctor of Linguistics), from Toronto, Canada and Piedmont, California, and A. Kenton Elsworth (computer engineer at Livermore Labs and Sperry Rand), from Stockton, California and Berkeley, California.
   "1964 ": "Moves to Boston." # Space added to distinguish from above
@@ -55,3 +55,64 @@ articles:
     publication: Diablo Gazette
     pub_title: (followed by a correction in Sept)
     pub_url: /articles/Suzy's Story-Sep-16-Diablo Gazette-Correction.pdf
+shows:
+  current_shows:
+    - show:
+      name: Art of the Community, Arts Benicia
+      dates: 2019, Jan 24 to Feb 26
+  past_shows:
+    - show:
+      name: John Muir Hospital-Gallery at Aspen Center with other Lafayette Artists
+      dates: 2018 # Nov 4 to Dec 13
+    - show:
+      name: San Ramon City Hall with Linda Huffman
+      dates: 2018 # Mar 17 to May 17
+    - show:
+      name: The aRt Cottage, Concord CA
+      dates: 2018 # Apr
+      link: http://artscottage.blogspot.com/p/next-show_4.html
+    - show:
+      name: Fresh Works VIII at the Harrington Gallery in the Firehouse Arts Center
+      dates: 2018 # Apr 28 to Jun 2
+      link: http://www.firehousearts.org/gallery/current-exhibits/
+    - show:
+      name: Boundary Oaks Golf Course with Linda Huffman
+      dates: 2018 # Nov 15 to Feb 15
+    - show:
+      name: Solo show at Walnut Creek City Hall
+      dates: 2017 # June 16 to August 14
+    - show:
+      name: Magical Realism at Arts Benicia
+      dates: 2017 # June 3 to July 9th
+      link: https://artsbenicia.org/magical-realism/
+      image:
+    - show:
+      name: Fresh Works VII at the Harrington Gallery in the Firehouse Arts Center
+      dates: 2017 # May 6 to June 3
+      link: http://www.firehousearts.org/gallery/current-exhibits/
+      image:
+    - show:
+      name: The aRt Cottage, Concord CA
+      dates: 2017
+      link: http://www.artcottage.info/p/past-shows.html
+    - show:
+      name: The Lindsay Museum, Walnut Creek CA
+      dates: 2017
+      link: https://lindsaywildlife.org/
+    - show:
+      name: The Danville Theatre Art Gallery
+      dates: 2016
+      link: http://www.danville.ca.gov/Things-To-Do/Art-and-Culture/Village-Theatre-Art-Gallery/Upcoming-Exhibits/
+    - show:
+      name: The aRt Cottage
+      dates: 2016
+      link: http://www.artcottage.info/p/past-shows.html
+    - show:
+      name: The Bedford Gallery
+      dates: 2015
+      link: http://www.bedfordgallery.org/exhibitions/past
+    - show:
+      name: The aRt Cottage
+      dates: 2015
+      link: http://www.artcottage.info/p/past-shows.html
+  

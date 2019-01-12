@@ -7,7 +7,7 @@ layout: email
 
 <%= partial "bio_and_contact" %>
 
-<%# From articles/index.html %>
+<%# From articles/index.html.erb %>
 <section>
 <h3>Articles</h3>
   <% data.site_info.articles.each do |article| %>
@@ -16,6 +16,21 @@ layout: email
     <%= article.publication %>, <%= link_to article.pub_title, article.pub_url %>.
   </p>
   <% end %>
+</section>
+
+<!-- from shows.html -->
+<h3>Shows</h3>
+<section>
+<% data.site_info.shows.current_shows.each do |show| %>
+  <p>
+    <span class="date"><%= show[:dates].to_s.split(",").first %></span> - <%= link_to_if(show[:name], show[:link]) %>
+  </p>
+<% end %>
+<% data.site_info.shows.past_shows.each do |show| %>
+  <p>
+    <span class="date"><%= show[:dates].to_s.split(",").first %></span> - <%= link_to_if(show[:name], show[:link]) %>
+  </p>
+<% end %>
 </section>
 
 <section>
