@@ -7,3 +7,6 @@ gem 'wdm', '~> 0.1', platforms: [:mswin, :mingw]
 
 gem 'middleman-compass'
 gem 'middleman-asciidoc'
+gem 'middleman-deploy',  '~> 2.0.0-alpha'
+
+
