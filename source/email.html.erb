@@ -19,8 +19,8 @@ layout: email
 </section>
 
 <!-- from shows.html -->
-<h3>Shows</h3>
 <section>
+<h3>Shows</h3>
 <% data.site_info.shows.current_shows.each do |show| %>
   <p>
     <span class="date"><%= show[:dates].to_s.split(",").first %></span> - <%= link_to_if(show[:name], show[:link]) %>
