@@ -98,7 +98,6 @@ Oil,Landscapes,The Wind in My Branches,TRUE,,the_wind_in_my_branches.tif,2016,Oi
 Oil,Landscapes,The Wind in My Branches v1,,the_wind_in_my_branches,the_wind_in_my_branches_v1.tif,2016,Oil on Masonite,48,36,"Oil, Landscape",Custom Photographic,landscapes,the_wind_in_my_branches_v1
 Oil,Landscapes,Amalfi Coast,,,amalfi_coast.tif,2015,Oil on Masonite,24,60,"Oil, Italy, Landscape",Custom Photographic,landscapes,amalfi_coast
 Oil,Landscapes,Briones Through My Window,,,briones_through_my_window.png,2015,Oil on Masonite,72,48,"Oil, Landscape",Custom Photographic,landscapes,briones_through_my_window
-Oil,Landscapes,Sunset,TRUE,,sunset.tif,2015,Oil on Masonite,60,24,"Oil, Landscape",Photo (large),landscapes,sunset
 oil,Landscapes,Eucylptus Bark,,,eucylptus.tif,2014,Oil on Masonite,16,20,,,landscapes,eucylptus
 Oil,Landscapes,Snow on Mount Diablo,,,snow_on_mount_diablo.tif,2014,Oil on Masonite,24,36,"Oil, Landscape",Custom Photographic,landscapes,snow_on_mount_diablo
 Oil,Landscapes,Tuscan Path,,,tuscan_path.tif,2014,Oil on Masonite,24,60,"Oil, Italy, Landscape",Custom Photographic,landscapes,tuscan_path
@@ -328,6 +327,7 @@ oil,Landscapes,Img 7589,,spengler_path,IMG_7589.jpg,,,,,,,landscapes,img_7589
 oil,Landscapes,Img 7592,,spengler_path,IMG_7592.jpg,,,,,,,landscapes,img_7592
 oil,Landscapes,Shadows In My Past,,,shadows_in_my_past.tif,,Oil on Masonite,,,,,landscapes,shadows_in_my_past
 oil,Landscapes,Shadows On My Path,TRUE,shadows_on_my_path,shadows_on_my_path.jpg,,Oil on Masonite,,,,,landscapes,shadows_on_my_path
+Oil,Landscapes,Sunset,TRUE,,sunset.tif,2015,Oil on Masonite,60,24,"Oil, Landscape",Photo (large),landscapes,sunset
 oil,Landscapes,Sunset 1,,sunset,sunset_1.jpg,,,,,,,landscapes,sunset_1
 oil,Landscapes,Sunset 2,,sunset,sunset_2.jpg,,,,,,,landscapes,sunset_2
 oil,Landscapes,Sunset 3,,sunset,sunset_3.jpg,,,,,,,landscapes,sunset_3
@@ -335,7 +335,31 @@ oil,Landscapes,Sunset 4,,sunset,sunset_4.jpg,,,,,,,landscapes,sunset_4
 oil,Landscapes,Sunset 5,,sunset,sunset_5.jpg,,,,,,,landscapes,sunset_5
 oil,Landscapes,Sunset 6,,sunset,sunset_6.jpg,,,,,,,landscapes,sunset_6
 oil,Landscapes,Sunset 7,,sunset,sunset_7.jpg,,,,,,,landscapes,sunset_7
-oil,Portraits,Age of Joy,,,Age of Joy-18x24.tif,2018,Oil on Masonite,18,24,"Oil, Portraits",Custom Photographic,portraits,age_of_joy
+oil,Portraits,Age of Joy,TRUE,,age_of_joy.tif,2018,Oil on Masonite,18,24,"Oil, Portraits",Custom Photographic,portraits,age_of_joy
+oil,Portraits,Img 8266,,age_of_joy,IMG_8266.jpg,,,,,,,portraits,img_8266
+oil,Portraits,Img 8267,,age_of_joy,IMG_8267.jpg,,,,,,,portraits,img_8267
+oil,Portraits,Img 8443,,age_of_joy,IMG_8443.jpg,,,,,,,portraits,img_8443
+oil,Portraits,Img 8508,,age_of_joy,IMG_8508.jpg,,,,,,,portraits,img_8508
+oil,Portraits,Img 8509,,age_of_joy,IMG_8509.jpg,,,,,,,portraits,img_8509
+oil,Portraits,Img 8519,,age_of_joy,IMG_8519.jpg,,,,,,,portraits,img_8519
+oil,Portraits,Img 8520,,age_of_joy,IMG_8520.jpg,,,,,,,portraits,img_8520
+oil,Portraits,Img 8521,,age_of_joy,IMG_8521.jpg,,,,,,,portraits,img_8521
+oil,Portraits,Img 8596,,age_of_joy,IMG_8596.jpg,,,,,,,portraits,img_8596
+oil,Portraits,Img 8665,,age_of_joy,IMG_8665.jpg,,,,,,,portraits,img_8665
+oil,Portraits,Img 9427,,age_of_joy,IMG_9427.jpg,,,,,,,portraits,img_9427
+oil,Portraits,Img 9428,,age_of_joy,IMG_9428.jpg,,,,,,,portraits,img_9428
+oil,Portraits,Img 9436,,age_of_joy,IMG_9436.jpg,,,,,,,portraits,img_9436
+oil,Portraits,Img 9437,,age_of_joy,IMG_9437.jpg,,,,,,,portraits,img_9437
+oil,Portraits,Img 9438,,age_of_joy,IMG_9438.jpg,,,,,,,portraits,img_9438
+oil,Portraits,Img 9449,,age_of_joy,IMG_9449.jpg,,,,,,,portraits,img_9449
+oil,Portraits,Img 9450,,age_of_joy,IMG_9450.jpg,,,,,,,portraits,img_9450
+oil,Portraits,Img 9451,,age_of_joy,IMG_9451.jpg,,,,,,,portraits,img_9451
+oil,Portraits,Img 9452,,age_of_joy,IMG_9452.jpg,,,,,,,portraits,img_9452
+oil,Portraits,Img 9461,,age_of_joy,IMG_9461.jpg,,,,,,,portraits,img_9461
+oil,Portraits,Img 9462,,age_of_joy,IMG_9462.jpg,,,,,,,portraits,img_9462
+oil,Portraits,Img 9463,,age_of_joy,IMG_9463.jpg,,,,,,,portraits,img_9463
+oil,Portraits,Img 9489,,age_of_joy,IMG_9489.jpg,,,,,,,portraits,img_9489
+oil,Portraits,J-age of Joy,,age_of_joy,J-age_of_joy.jpg,,,,,,,portraits,j-age_of_joy
 oil,Portraits,Joie de Vivre,,,Joie de Vivre-11x14.tif,2019,Oil on Masonite,11,14,"Oil, Portraits",Custom Photographic,portraits,joie_de_vivre
 Oil,Portraits,Jill,,,jill.tif,2013,Oil on Masonite,42,60,"Oil, Portraits, The Figure",Custom Photographic,portraits,jill
 Oil,Portraits,Sensei Jerrell,,,sensei_jerrell.tif,2013,Oil on Masonite,40,60,"Oil, Portraits, The Figure",Custom Photographic,portraits,sensei_jerrell
