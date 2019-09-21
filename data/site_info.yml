@@ -58,9 +58,18 @@ articles:
 shows:
   current_shows:
     - show:
-      name: Art of the Community, Arts Benicia
-      dates: 2019, Jan 24 to Feb 26
+      name: Solo show at the Walnut Creek City Hall
+      dates: 2019, Sept 20th to Dec 20th
   past_shows:
+    - show:
+      name: Solo show at the Harrington Gallery in the Firehouse Arts Center, Pleasanton
+      dates: 2019 #, May 30 to Jul 24
+    - show:
+      name: The aRt Cottage, Concord CA
+      dates: 2019 # Jan 24 to Feb 26
+    - show:
+      name: Art of the Community, Arts Benicia
+      dates: 2019 # Jan 24 to Feb 26
     - show:
       name: John Muir Hospital-Gallery at Aspen Center with other Lafayette Artists
       dates: 2018 # Nov 4 to Dec 13

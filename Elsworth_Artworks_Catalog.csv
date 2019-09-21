@@ -81,6 +81,7 @@ drawings,Wineries,Sequoia Grove,,,sequoia_grove.jpg,,,,,,,wineries,sequoia_grove
 drawings,Wineries,Sutter Home,,,sutter_home.jpg,,,,,,,wineries,sutter_home
 drawings,Wineries,Travigne,,,travigne.jpg,,,,,,,wineries,travigne
 drawings,Wineries,V Sattui,,,v_sattui.jpg,,,,,,,wineries,v_sattui
+Oil,Landscapes,A Twist of Nature,,,a_twist_of_nature.tif,2019,Oil on Masonite,24,24,"Oil, Landscape",Custom Photographic,landscapes,a_twist_of_nature
 Oil,Landscapes,Trinidad Sunset In the Summer of Fires,,,trinidad_sunset.tif,2019,Oil on Masonite,18,24,"Oil, Landscape",Custom Photographic,landscapes,trinidad_sunset
 oil,Landscapes,Monterey,,,monterey.tif,2018,Oil on Masonite,10,10,Oil,Custom Photographic,landscapes,monterey
 oil,Landscapes,Monterey Visitor,,,monterey_visitor.tif,2018,Oil on Masonite,24,36,Oil,Custom Photographic,landscapes,monterey_visitor
@@ -104,9 +105,9 @@ Oil,Landscapes,Tuscan Path,,,tuscan_path.tif,2014,Oil on Masonite,24,60,"Oil, It
 Oil,Landscapes,Venice Canal,,,venice_canal.tif,2013,Oil on Masonite,24,60,"Oil, Italy, Landscape",Custom Photographic,landscapes,venice_canal
 Oil,Landscapes,Mendocino Coast Sunset,,,mendocino_coast_sunset.tif,2012,Oil on Masonite,24,30,"Oil, Landscape",Custom Photographic,landscapes,mendocino_coast_sunset
 Oil,Landscapes,Irish Garden,,,irish_garden.tif,2010,Oil on Masonite,16,20,"Oil, Landscape",Custom Photographic,landscapes,irish_garden
-Oil,Landscapes,In a Tuscan Town,TRUE,,in_a_tuscan_town.tif,2006,Oil on Masonite,24,60,"Oil, Italy, Landscape",Custom Photographic,landscapes,in_a_tuscan_town
-Oil,Landscapes,In a Tuscan Town (Beginning),,in_a_tuscan_town,in_a_tuscan_town-underpaint.jpg,2006,Oil on Masonite,24,60,"Oil, Italy, Landscapes, Progressions",Photo,landscapes,in_a_tuscan_town-underpaint
-Oil,Landscapes,In a Tuscan Town (Sepia Layer),,in_a_tuscan_town,in_a_tuscan_town-sepia.jpg,2006,Oil on Masonite,24,60,"Oil, Italy, Landscapes, Progressions",Photo,landscapes,in_a_tuscan_town-sepia
+Oil,Landscapes,In a Tuscan Town,TRUE,,in_a_tuscan_town.tif,2013,Oil on Masonite,24,60,"Oil, Italy, Landscape",Custom Photographic,landscapes,in_a_tuscan_town
+Oil,Landscapes,In a Tuscan Town (Beginning),,in_a_tuscan_town,in_a_tuscan_town-underpaint.jpg,2013,Oil on Masonite,24,60,"Oil, Italy, Landscapes, Progressions",Photo,landscapes,in_a_tuscan_town-underpaint
+Oil,Landscapes,In a Tuscan Town (Sepia Layer),,in_a_tuscan_town,in_a_tuscan_town-sepia.jpg,2013,Oil on Masonite,24,60,"Oil, Italy, Landscapes, Progressions",Photo,landscapes,in_a_tuscan_town-sepia
 Oil,Landscapes,Italian Portico,,,italian_portico.tif,2006,Oil on Masonite,15,20,"Oil, Italy, Architecture, Pets and Animals",Custom Photographic,landscapes,italian_portico
 oil,Landscapes,Banyan Tree,TRUE,,banyan_tree.tif,,,,,,,landscapes,banyan_tree
 oil,Landscapes,Img 0036,,banyan_tree,IMG_0036.jpg,,,,,,,landscapes,img_0036
@@ -335,6 +336,7 @@ oil,Landscapes,Sunset 4,,sunset,sunset_4.jpg,,,,,,,landscapes,sunset_4
 oil,Landscapes,Sunset 5,,sunset,sunset_5.jpg,,,,,,,landscapes,sunset_5
 oil,Landscapes,Sunset 6,,sunset,sunset_6.jpg,,,,,,,landscapes,sunset_6
 oil,Landscapes,Sunset 7,,sunset,sunset_7.jpg,,,,,,,landscapes,sunset_7
+oil,Portraits,The Sun King,,,the_sun_king.tif,2019,Oil on Masonite,18,24,"Oil, Portraits",Custom Photographic,portraits,the_sun_king
 oil,Portraits,Age of Joy,TRUE,,age_of_joy.tif,2018,Oil on Masonite,18,24,"Oil, Portraits",Custom Photographic,portraits,age_of_joy
 oil,Portraits,Img 8266,,age_of_joy,IMG_8266.jpg,,,,,,,portraits,img_8266
 oil,Portraits,Img 8267,,age_of_joy,IMG_8267.jpg,,,,,,,portraits,img_8267
