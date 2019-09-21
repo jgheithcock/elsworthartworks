@@ -25,7 +25,7 @@ If a folder with the same name is found, all images in that folder will be used 
 In the terminal, cd to this folder and type:
 
 ----
-> middlman deploy
+> middleman deploy
 ----
 
 
