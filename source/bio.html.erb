@@ -1,0 +1,35 @@
+---
+title: Suzy Elsworth-Heithcock
+subtitle: About Me
+body_class: about
+layout: email
+notes: This skips the shows but otherwise is the same as email.html. This is for "Artists Statement" for shows like the Bedford Gallery.
+---
+
+<%= partial "bio_and_contact" %>
+
+<%# From articles/index.html.erb %>
+<section>
+<h3>Articles</h3>
+  <% data.site_info.articles.each do |article| %>
+  <p><%= article.author %> (<%= article.date %>).
+    <%= link_to article.title, article.url %>
+    <%= article.publication %>, <%= link_to article.pub_title, article.pub_url %>.
+  </p>
+  <% end %>
+</section>
+
+<!-- from shows.html -->
+<section>
+<h3>Shows</h3>
+<% data.site_info.shows.current_shows.each do |show| %>
+  <p>
+    <span class="date"><%= show[:dates].to_s.split(",").first %></span> - <%= link_to_if(show[:name], show[:link]) %>
+  </p>
+<% end %>
+<% data.site_info.shows.past_shows.each do |show| %>
+  <p>
+    <span class="date"><%= show[:dates].to_s.split(",").first %></span> - <%= link_to_if(show[:name], show[:link]) %>
+  </p>
+<% end %>
+</section>
