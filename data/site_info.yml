@@ -62,6 +62,9 @@ shows:
       dates: 2019, Sept 20th to Dec 20th
   past_shows:
     - show:
+      name: John Muir Hospital-Gallery at Aspen Center with other Lafayette Artists
+      dates: 2019 # Nov 4 to Dec 13
+    - show:
       name: Solo show at the Harrington Gallery in the Firehouse Arts Center, Pleasanton
       dates: 2019 #, May 30 to Jul 24
     - show:
