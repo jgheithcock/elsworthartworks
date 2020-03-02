@@ -10,7 +10,7 @@ body_class: single_image
   <figure>
     <%= link_to( image_tag(img_path(item), {:alt => item[:title]}), img_path(item) ) %>
   </figure>
-  <h3>
+  <h3 class="title_links">
       <% if item_path(prev_item) != "" then %>
           <%= link_to("&lt;", item_path(prev_item), {:rel => "prev", :class => 'prev_link'}) %>
       <% end %>
@@ -20,7 +20,7 @@ body_class: single_image
           <% else %>
           <%= "#{item[:title]}" %>
           <% end %>
-      <span>
+      </span>
       <% if item_path(next_item) != "" then %>
           <%= link_to("&gt;", item_path(next_item), {:rel => "next", :class => 'next_link'}) %>
       <% end %>
@@ -29,6 +29,15 @@ body_class: single_image
   <h3><%= "#{item[:media]}, #{item[:width]}&Prime; x #{item[:height]}&Prime;" %></h3>
   <% else %>
   <h3><%= "#{item[:media]}" %></h3>
+  <% end %>
+  
+  <% if item[:price].to_i > 0 %>
+  <h3><%= "Original painting: #{number_to_currency(item[:price], {:precision => 0})}" %></h3>
+  <% end %>
+  <% if ["oil", "drawings"].include? item[:category].downcase %>
+    <% unless item[:parent] %><%# Do not show Giclée info for progress and other supporting images %>
+    <h3>Giclée reproductions are available in a variety of sizes. Please <%= link_to("contact", "/about.html", class:"active") %> the artist.</h3>
+    <% end %>
   <% end %>
 </div>
 

@@ -41,6 +41,11 @@ a.active {
     color: white;
   }
 }
+.title_links {
+  padding: 0 2em;
+  display:flex;
+  justify-content:space-between;
+}
 
 main {
   margin: 0 auto;
@@ -119,14 +124,16 @@ section {
   width: 100%;
 }
 .single_image {
-    img {
-        max-width:100%;
-        box-shadow: inset 0px 0px 30px 0px rgba(0,0,0,0.9), 0px 0px 7px 0px rgba(0, 0, 0, 0.9);
-        padding: 10px;
-    }
-    h3, h4 {
-        text-align:center;
-    }
+  figure {
+    margin:0 2em;
+  }
+  img {
+      max-width:100%;
+      box-shadow: inset 0px 0px 30px 0px rgba(0,0,0,0.9), 0px 0px 7px 0px rgba(0, 0, 0, 0.9);
+  }
+  h3, h4 {
+      text-align:center;
+  }
 }
 .about {
   text-align: left;
