@@ -8,8 +8,15 @@ body_class: album_list
 <% albums.each do |album, list| %>
 <section>
   <figure>
-     <% item = list[0] %>
-    <%= link_to image_tag(img_path(item), {:alt => item[:title]}), album_path(item) %>
+    <% item = list[0] %>
+    <% fav_category = data.site_info.favorites[category]
+       if fav_category && fav_category[album]
+         img_path = fav_category[album]
+       else
+         img_path = img_path(item)
+       end
+    %>
+    <%= link_to image_tag(img_path, {:alt => item[:title]}), album_path(item) %>
   </figure>
   <h3><%= album %></h3>
 </section>
