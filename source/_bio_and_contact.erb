@@ -13,9 +13,12 @@
     <p><%= data.site_info.contact.phone%></p>
     <h4>Address</h4>
     <p><%= data.site_info.contact.address%> </p>
+    <% if data.site_info.contact.instagram %>
+    <h4>Instagram</h4>
+    <p><%= link_to(data.site_info.contact.instagram, "https://www.instagram.com/#{data.site_info.contact.instagram}/") %> </p>
+    <% end %>
   </div>
 </section>
-
 
 <section>
   <h3>Biography</h3>
