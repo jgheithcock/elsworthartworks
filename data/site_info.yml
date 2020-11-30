@@ -1,4 +1,5 @@
-
+default_title: "Elsworth Artworks"
+site_url: "http://elsworthartworks.com"
 contact:
   image:
     url: /images/oil/doorknockers/mirror_knocker_1080.jpg
@@ -6,14 +7,16 @@ contact:
   email: suzy @ elsworthartworks.com
   phone: 925 - 938 - 7899
   instagram: suzyheithcock
-  address: Elsworth Artworks<br>
+  linkedin: suzyheithcock
+  skip_address: Elsworth Artworks<br>
       Suzy Elsworth-Heithcock<br>
       44 Westwind Road<br>
       Lafayette, CA 94549
 favorites:
   oil:
-    landscapes: /images/oil/landscapes/trinidad_sunset_1080.jpg
+    landscapes: /images/oil/landscapes/the_tea_garden_path_1080.jpg
     doorknockers: /images/oil/doorknockers/lady_knocker_1080.jpg
+    figures: /images/oil/figures/dryad_1080.jpg
     
 statement: "I like my paintings to evoke the idea of the passing of time through subtle suggestions of movement. For instance, when I paint a tree I would like you to imagine the branches dancing in the wind, just as I see them in my mind. Perhaps when you look at a gnarled tree trunk in my paintings you might think of the evolving beauty of its enduring life span. It is all about having more than just two or even three dimensions in a two-dimensional work."
 timeline:
@@ -33,6 +36,17 @@ timeline:
   "2009": House burns down, losing everything including all artwork done.
   Present: Now an award winning artist with over a dozen solo and group shows, she has become the Phoenix, rising from the ashes, the same but very different.
 articles:
+  - author: Elana O'Loskey
+    date: November 19, 2020
+    title: "Wilder Gallery: “Epic Nature” Comes Alive"
+    url: https://theorindanews.com/2020/11/19/wilder-gallery-epic-nature-comes-alive/
+    publication: The Orinda News
+    pub_title: Page 11
+    pub_url: https://static1.squarespace.com/static/5132be4de4b021358bca7fed/t/5fb6e66ba707b320aa12b5a4/1605822100862/Dec+2020+Orinda+News+web.pdf
+  - author: Art Gallery at Wilder
+    date: December 2020
+    title: "Featured Artist - Suzy Elsworth-Heithcock"
+    url: /articles/art_gallery_at_wilder-2020-featured_artist.pdf
   - author: Sheehan, Sylvia
     date: 2017, July 28
     title: Artist rebuilds life’s work after devastating fire
@@ -64,9 +78,17 @@ articles:
 shows:
   current_shows:
     - show:
-      name: Solo show at the Walnut Creek City Hall
-      dates: 2019, Sept 20th to Dec 20th
+      name: "Solo show, “Epic Nature”, at Wilder Gallery"
+      dates: 2020, December
+      link: https://lamorindaarts.org/current-exhibits-wilder/
+    - show:
+      name: "“Creating in Place” at Wilder Gallery"
+      dates: 2020, March
+      link: https://lamorindaarts.org/product-category/creating-in-place/
   past_shows:
+    - show:
+      name: Solo show at the Walnut Creek City Hall
+      dates: 2019 #, Sept 20th to Dec 20th
     - show:
       name: John Muir Hospital-Gallery at Aspen Center with other Lafayette Artists
       dates: 2019 # Nov 4 to Dec 13
@@ -133,4 +155,7 @@ shows:
       name: The aRt Cottage
       dates: 2015
       link: http://www.artcottage.info/p/past-shows.html
-  
+videos:
+  - title: "Wilder Gallery Art Show - Epic Nature"
+    url: "https://www.youtube.com/embed/GEPUkncW-VM"
+    date: "December 2020"
