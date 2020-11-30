@@ -9,7 +9,7 @@ body_class: album_list
   <% end %>
 <%# Set class to wide if width is greater than twice the height %>
 <%
-  section_class = ""
+  section_class = (item[:tags].to_s.include? "Wide") ? "wide" : ""
   section_class = "wide" if item[:height] && item[:width].to_f/item[:height].to_f > 2.0
 %>
 <section class="<%= section_class  %>">
