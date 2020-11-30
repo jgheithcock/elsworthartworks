@@ -66,7 +66,10 @@ drawings,Figure Drawing,Judith,,,Judith.jpg,,,,,,,,figure_drawing,judith
 drawings,Figure Drawing,Simone,,,Simone.jpg,,,,,,,,figure_drawing,simone
 drawings,Figure Drawing,Torrey,,,Torrey.jpg,,,,,,,,figure_drawing,torrey
 drawings,Figure Drawing,Veronique,,,Veronique.jpg,,,,,,,,figure_drawing,veronique
-drawings,Home and Nature,Briones Tree,TRUE,,briones_tree.tif,,,,,,,,home_and_nature,briones_tree
+drawings,Home and Nature,Stories To Tell,TRUE,,Stories_to_tell.jpg,2018,Graphite on Bristol Paper,10,10,,,,home_and_nature,briones_tree
+drawings,Home and Nature,The Watcher in the Woods,,,the_watcher_in_the_woods.jpg,2019,Graphite on Bristol Paper,11,14,,,,home_and_nature,the_watcher_in_the_woods
+drawings,Home and Nature,Three Cranes,,,three_cranes.jpg,2020,Graphite on Bristol Paper,7,3,,,,home_and_nature,three_cranes
+drawings,Home and Nature,Briones Tree,,briones_tree,briones_tree.tif,,,,,,,,home_and_nature,briones_tree
 drawings,Home and Nature,Carmel Tree,,,carmel_tree.jpg,,,,,,,,home_and_nature,carmel_tree
 drawings,Home and Nature,Grapeleaves-pen,,,grapeleaves-pen.jpg,,,,,,,,home_and_nature,grapeleaves-pen
 drawings,Home and Nature,Grapes-pen,,,grapes-pen.jpg,,,,,,,,home_and_nature,grapes-pen
@@ -82,6 +85,10 @@ drawings,Wineries,Sequoia Grove,,,sequoia_grove.jpg,,,,,,,,wineries,sequoia_grov
 drawings,Wineries,Sutter Home,,,sutter_home.jpg,,,,,,,,wineries,sutter_home
 drawings,Wineries,Travigne,,,travigne.jpg,,,,,,,,wineries,travigne
 drawings,Wineries,V Sattui,,,v_sattui.jpg,,,,,,,,wineries,v_sattui
+oil,Figures,Naiad,,,naiad.jpg,2020,Oil on Masonite,24,6,695,"Oil, Figure Drawing",,figures,naiad
+oil,Figures,Dryad,,,dryad.jpg,2020,Oil on Masonite,24,6,695,"Oil, Figure Drawing",,figures,dryad
+oil,Landscapes,Path through the Cypress Hole,,,path_through_the_cypress_hole.jpg,2020,Oil on Masonite,20,16,1100,"Oil, Landscape",Photo,landscapes,path_through_the_cypress_hole
+oil,Landscapes,The Tea Garden Path,,,the_tea_garden_path.jpg,2019,Oil on Masonite,10,10,450,"Oil, Landscape",Photo,landscapes,the_tea_garden_path
 oil,Landscapes,Grizzly Peak 5:06 PM,,,grizzly_peak_5_06_pm.jpg,2020,Oil on Masonite,24,6,695,"Oil, Landscape",,landscapes,grizzly_peak_5_06_pm
 oil,Landscapes,Grizzly Peak 5:17 PM,,,grizzly_peak_5_17_pm.jpg,2020,Oil on Masonite,24,6,695,"Oil, Landscape",,landscapes,grizzly_peak_5_17_pm
 Oil,Landscapes,A Twist of Nature,,,a_twist_of_nature.tif,2019,Oil on Masonite,24,24,1800,"Oil, Landscape",Custom Photographic,landscapes,a_twist_of_nature
@@ -391,6 +398,7 @@ Oil,Still Life,Elements of Time Sepia,,,elements_of_time_sepia.tif,2015,Oil on M
 Oil,Still Life,Old Master's Pear,,,old_masters_pear.jpg,2015,Oil on Masonite,6,10,,"Oil, Still Life",Scan from Printer,still_life,old_masters_pear
 Oil,Still Life,Bath Water Study 1,,,bath_water_study_1.jpg,2017,Oil on Masonite,30,20,,"Oil, Still Life",Photo (large),still_life,bath_water_study_1
 Oil,Still Life,Bath Water Study 2,,,bath_water_study_2.jpg,2017,Oil on Masonite,30,20,,"Oil, Still Life",Photo (large),still_life,bath_water_study_2
+Oil,Still Life,Bath Water Study 3,,,bath_water_study_3.jpg,2020,Oil on Masonite,30,20,,"Oil, Still Life",Photo (large),still_life,bath_water_study_2
 oil,Still Life,Img 5027,,bath_water_study_1,IMG_5027.jpg,,,,,,,No final scan,still_life,img_5027
 oil,Still Life,Img 5057,,bath_water_study_1,IMG_5057.jpg,,,,,,,,still_life,img_5057
 oil,Still Life,Img 5058,,bath_water_study_1,IMG_5058.jpg,,,,,,,,still_life,img_5058
