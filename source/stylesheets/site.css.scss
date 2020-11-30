@@ -87,12 +87,21 @@ article {
   background: radial-gradient(ellipse at top, rgba(255,255,255,0.25) 0%,rgba(255,255,255,0) 50%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   /* no gradient for ie */
   h1 {
+    width: 100%;
     margin-top:0;
     margin-bottom:0;
   }
+  h2 { width: 100%; }
 }
-section {
-  display:inline-block;
+.album_list article,
+.single_image article {
+  display: flex;
+  flex-flow: row wrap;
+}
+.album_list section,
+.single_image section {
+  display: flex;
+  flex-flow: column wrap;
 }
 .album_list section {
   width: 50%;
@@ -122,8 +131,10 @@ section {
 }
 .album_list section.wide {
   width: 100%;
+  figure { height: auto;}
 }
 .single_image {
+  div { width: 100%;}
   figure {
     margin:0 2em;
   }
