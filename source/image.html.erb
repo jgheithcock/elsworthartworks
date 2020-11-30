@@ -1,9 +1,12 @@
 ---
-title: Elsworth Artworks
 body_class: single_image
 ---
 
-<%# current_page.data.subtitle = "#{category.to_s.titlecase}: #{album.to_s.titlecase}: #{item[:title]}" %>
+<%
+  current_page.data.include_open_graph = true
+  current_page.data.open_graph_image = data.site_info.site_url + img_path(item)
+  current_page.data.subtitle = item[:title]
+%>
 <%# e.g. category => "oil", album => "Doorknockers" %>
 
 <div>
