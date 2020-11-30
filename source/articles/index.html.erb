@@ -7,7 +7,9 @@ body_class: about
   <% data.site_info.articles.each do |article| %>
   <p><%= article.author %> (<%= article.date %>).
     <%= link_to article.title, article.url %>
+    <% if article.publication %>
     <%= article.publication %>, <%= link_to article.pub_title, article.pub_url %>.
+    <% end %>
   </p>
   <% end %>
 </section>
