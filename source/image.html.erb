@@ -10,7 +10,7 @@ body_class: single_image
 <%# e.g. category => "oil", album => "Doorknockers" %>
 
 <div>
-  <figure>
+  <figure class="<%= item[:album] %>">
     <%= link_to( image_tag(img_path(item), {:alt => item[:title]}), img_path(item) ) %>
   </figure>
   <h3 class="title_links">
@@ -36,6 +36,8 @@ body_class: single_image
   
   <% if item[:price].to_i > 0 %>
   <h3><%= "Original painting: #{number_to_currency(item[:price], {:precision => 0})}" %></h3>
+  <% elsif item[:price].to_s.length > 0 %>
+  <h3><%= item[:price] %> </h3>
   <% end %>
   <% if ["oil", "drawings"].include? item[:category].downcase %>
     <% unless item[:parent] %><%# Do not show Giclée info for progress and other supporting images %>

@@ -66,10 +66,10 @@ drawings,Figure Drawing,Judith,,,Judith.jpg,,,,,,,,figure_drawing,judith
 drawings,Figure Drawing,Simone,,,Simone.jpg,,,,,,,,figure_drawing,simone
 drawings,Figure Drawing,Torrey,,,Torrey.jpg,,,,,,,,figure_drawing,torrey
 drawings,Figure Drawing,Veronique,,,Veronique.jpg,,,,,,,,figure_drawing,veronique
-drawings,Home and Nature,Stories To Tell,TRUE,,Stories_to_tell.jpg,2018,Graphite on Bristol Paper,10,10,,,,home_and_nature,briones_tree
+drawings,Home and Nature,Stories To Tell,TRUE,,Stories_to_tell.jpg,2018,Graphite on Bristol Paper,10,10,,,,home_and_nature,stories_to_tell
 drawings,Home and Nature,The Watcher in the Woods,,,the_watcher_in_the_woods.jpg,2019,Graphite on Bristol Paper,11,14,,,,home_and_nature,the_watcher_in_the_woods
 drawings,Home and Nature,Three Cranes,,,three_cranes.jpg,2020,Graphite on Bristol Paper,7,3,,,,home_and_nature,three_cranes
-drawings,Home and Nature,Briones Tree,,briones_tree,briones_tree.tif,,,,,,,,home_and_nature,briones_tree
+drawings,Home and Nature,Briones Tree,TRUE,,briones_tree.tif,,,,,,,,home_and_nature,briones_tree
 drawings,Home and Nature,Carmel Tree,,,carmel_tree.jpg,,,,,,Wide,,home_and_nature,carmel_tree
 drawings,Home and Nature,Grapeleaves-pen,,,grapeleaves-pen.jpg,,,,,,,,home_and_nature,grapeleaves-pen
 drawings,Home and Nature,Grapes-pen,,,grapes-pen.jpg,,,,,,,,home_and_nature,grapes-pen
@@ -85,6 +85,31 @@ drawings,Wineries,Sequoia Grove,,,sequoia_grove.jpg,,,,,,,,wineries,sequoia_grov
 drawings,Wineries,Sutter Home,,,sutter_home.jpg,,,,,,,,wineries,sutter_home
 drawings,Wineries,Travigne,,,travigne.jpg,,,,,,,,wineries,travigne
 drawings,Wineries,V Sattui,,,v_sattui.jpg,,,,,,,,wineries,v_sattui
+Oil,Circles,Fern Canyon Path Steps,TRUE,,fern_canyon_path_steps.png,2021,Oil on Round Maple Panel,6,6,350,"Oil, Landscape",Photo,circle,fern_canyon_path_steps
+Oil,Circles,Fran's Iris,TRUE,,frans_iris.png,2021,Oil on Round Maple Panel,6,6,"Sold, giclees available","Oil, Still Life",Photo,circle,frans_iris
+Oil,Circles,Beatriz,TRUE,,beatriz.png,2021,Oil on Round Maple Panel,6,6,NFS,"Oil, Portraits",Photo,circle,beatriz
+Oil,Circles,Daffodils,TRUE,,daffodils.png,2021,Oil on Round Maple Panel,6,6,350,"Oil, Still Life",Photo,circle,daffodils
+Oil,Circles,Gualala,TRUE,,gualala_6in.png,2021,Oil on Round Maple Panel,6,6,"Sold, giclees available","Oil, Landscape",Photo,circle,gualala_6in
+Oil,Circles,Morgan at 21,TRUE,,morgan_at_21.png,2021,Oil on Round Maple Panel,6,6,NFS,"Oil, Portraits",Photo,circle,morgan_at_21
+Oil,Circles,Reflecting Pool Garden at Lewis and Clark,TRUE,,reflecting_pool_garden_at_lewis_and_clark.png,2021,Oil on Round Maple Panel,6,6,"Sold, giclees available","Oil, Landscape",Photo,circle,reflecting_pool_garden_at_lewis_and_clark
+Oil,Circles,beatriz-1.jpeg,,beatriz.jpeg,,,,,,,,,,beatriz-1
+Oil,Circles,beatriz-2.jpeg,,beatriz.jpeg,,,,,,,,,,beatriz-2
+Oil,Circles,beatriz-3.jpeg,,beatriz.jpeg,,,,,,,,,,beatriz-3
+Oil,Circles,daffodils-1.jpeg,,daffodils.jpeg,,,,,,,,,,daffodils-1
+Oil,Circles,daffodils-2.jpeg,,daffodils.jpeg,,,,,,,,,,daffodils-2
+Oil,Circles,fern_canyon_path_steps-1.jpeg,,fern_canyon_path_steps.jpeg,,,,,,,,,,fern_canyon_path_steps-1
+Oil,Circles,fern_canyon_path_steps-2.jpeg,,fern_canyon_path_steps.jpeg,,,,,,,,,,fern_canyon_path_steps-2
+Oil,Circles,frans_iris-1.jpeg,,frans_iris.jpeg,,,,,,,,,,frans_iris-1
+Oil,Circles,frans_iris-2.jpeg,,frans_iris.jpeg,,,,,,,,,,frans_iris-2
+Oil,Circles,gualala_6in-1.jpeg,,gualala_6in.jpeg,,,,,,,,,,gualala_6in-1
+Oil,Circles,gualala_6in-2.jpeg,,gualala_6in.jpeg,,,,,,,,,,gualala_6in-2
+Oil,Circles,morgan_at_21-1.jpeg,,morgan_at_21.jpeg,,,,,,,,,,morgan_at_21-1
+Oil,Circles,morgan_at_21-2.jpeg,,morgan_at_21.jpeg,,,,,,,,,,morgan_at_21-2
+Oil,Circles,morgan_at_21-3.jpeg,,morgan_at_21.jpeg,,,,,,,,,,morgan_at_21-3
+Oil,Circles,reflecting_pool_garden_at_lewis_and_clark-1.jpeg,,reflecting_pool_garden_at_lewis_and_clark.jpeg,,,,,,,,,,reflecting_pool_garden_at_lewis_and_clark-1
+Oil,Circles,reflecting_pool_garden_at_lewis_and_clark-2.jpeg,,reflecting_pool_garden_at_lewis_and_clark.jpeg,,,,,,,,,,reflecting_pool_garden_at_lewis_and_clark-2
+Oil,Circles,reflecting_pool_garden_at_lewis_and_clark-3.jpeg,,reflecting_pool_garden_at_lewis_and_clark.jpeg,,,,,,,,,,reflecting_pool_garden_at_lewis_and_clark-3
+Oil,Circles,reflecting_pool_garden_at_lewis_and_clark-4.jpeg,,reflecting_pool_garden_at_lewis_and_clark.jpeg,,,,,,,,,,reflecting_pool_garden_at_lewis_and_clark-4
 oil,Figures,Naiad,,,naiad.jpg,2020,Oil on Masonite,24,6,695,"Oil, Figure Drawing",,figures,naiad
 oil,Figures,Dryad,,,dryad.jpg,2020,Oil on Masonite,24,6,695,"Oil, Figure Drawing",,figures,dryad
 oil,Landscapes,Path through the Cypress Hole,,,path_through_the_cypress_hole.jpg,2020,Oil on Masonite,20,16,1100,"Oil, Landscape",Photo,landscapes,path_through_the_cypress_hole

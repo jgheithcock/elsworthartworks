@@ -10,10 +10,10 @@ body_class: album_list
   <%
     section_class = ""
     section_class = "wide" if item[:height] && item[:width].to_f/item[:height].to_f > 2.0
+    section_class = "wide" if item[:album] == "Circles"
   %>
   <section class="<%= section_class  %>">
-    <h3><%= album %></h3>
-    <figure>
+    <figure class="<%= item[:album] %>">
       <% fav_category = data.site_info.favorites[category]
          if fav_category && fav_category[album]
            img_path = fav_category[album]
@@ -23,5 +23,6 @@ body_class: album_list
       %>
       <%= link_to image_tag(img_path, {:alt => item[:title]}), album_path(item) %>
     </figure>
+    <h3><%= album %></h3>
   </section>
 <% end %>

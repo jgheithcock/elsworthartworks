@@ -26,7 +26,6 @@ contents:
 
 <% current_page.data.contents.each do |img| %>
 <section>
-  <h3><%= img[:title] %></h3>
   <figure>
     <% if img.width > img.height %>
     <%# Specify width, but not height %>
@@ -36,5 +35,6 @@ contents:
     <%= link_to image_tag(img[:path], :alt => img[:title], :height => img.height), img[:folder] %>
     <% end %>
   </figure>
+  <h3><%= img[:title] %></h3>
 </section>
 <% end %>

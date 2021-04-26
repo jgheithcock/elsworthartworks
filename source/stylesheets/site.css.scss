@@ -113,16 +113,16 @@ article {
   h1,h2,h3,h4 {
     text-align:center;
   }
-  h3 { margin-top: 2em; }
+  h3 { margin: 0.25em 1em 2em 1em;}
   figure {
-    height: 400px;
-    margin-top: 0;
+    margin-top: 1em;
+    margin-bottom: 1em;
     display: flex;
     justify-content: center;
     align-items: center;
     img {
-      max-width: 100%;
-      max-height:400px;
+      max-width: 93%;
+      max-height:380px; /* 400 - 10 - 10 for the box shadow */
       box-shadow: inset 0px 0px 30px 0px rgba(0,0,0,0.9), 0px 0px 7px 0px rgba(0, 0, 0, 0.9);
       padding: 10px;
       vertical-align:bottom; /* Needed to pull the image down to center */
@@ -144,6 +144,11 @@ article {
   }
   h3, h4 {
       text-align:center;
+  }
+}
+figure.Circles {
+  img {
+    border-radius: 50%;
   }
 }
 .about {
