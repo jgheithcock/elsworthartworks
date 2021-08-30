@@ -20,6 +20,7 @@ notes: This skips the shows but otherwise is the same as email.html. This is for
 </section>
 
 <!-- from shows.html -->
+<% if data.site_info.shows.current_shows %>
 <section>
 <h3>Shows</h3>
 <% data.site_info.shows.current_shows.each do |show| %>
@@ -33,3 +34,4 @@ notes: This skips the shows but otherwise is the same as email.html. This is for
   </p>
 <% end %>
 </section>
+<% end %>

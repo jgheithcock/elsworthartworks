@@ -4,6 +4,7 @@ subtitle: Shows
 body_class: shows
 ---
 
+<% if data.site_info.shows.current_shows %>
 <section>
   <h3>Current and Upcoming</h3>
 <% data.site_info.shows.current_shows.each do |show| %>
@@ -12,6 +13,7 @@ body_class: shows
   </p>
 <% end %>
 </section>
+<% end %>
 
 <section>
   <h3>Past</h3>

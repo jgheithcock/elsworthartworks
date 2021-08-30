@@ -1,8 +1,11 @@
 ---
 title: Elsworth Artworks
-subtitle: Articles
+subtitle: Articles & Awards
 body_class: about
 ---
+<p>&nbsp;</p>
+
+<h2>Articles</h2>
 <section>
   <% data.site_info.articles.each do |article| %>
   <p><%= article.author %> (<%= article.date %>).
@@ -11,5 +14,14 @@ body_class: about
     <%= article.publication %>, <%= link_to article.pub_title, article.pub_url %>.
     <% end %>
   </p>
+  <% end %>
+</section>
+
+<p>&nbsp;</p>
+
+<h2>Awards</h2>
+<section>
+  <% data.site_info.awards.each do |award| %>
+  <p><%= link_to award.award, award.url %></p>
   <% end %>
 </section>

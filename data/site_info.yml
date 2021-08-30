@@ -76,8 +76,14 @@ articles:
     publication: Diablo Gazette
     pub_title: (followed by a correction in Sept)
     pub_url: /articles/Suzy's Story-Sep-16-Diablo Gazette-Correction.pdf
+awards:
+  - award: "Winner 1996 St. Helena Library Bookmark contest Merit Award"
+    url: https://www.shpl.org/
+  - award: "2018 Fresh Works VIII Harrington Gallery"
+    url: https://theartguide.com/callforartist/fresh-works-viii
 shows:
   current_shows:
+  past_shows:
     - show:
       name: "Solo show, “Epic Nature”, at Wilder Gallery"
       dates: 2020, December
@@ -86,7 +92,6 @@ shows:
       name: "“Creating in Place” at Wilder Gallery"
       dates: 2020, March
       link: https://lamorindaarts.org/product-category/creating-in-place/
-  past_shows:
     - show:
       name: Solo show at the Walnut Creek City Hall
       dates: 2019 #, Sept 20th to Dec 20th

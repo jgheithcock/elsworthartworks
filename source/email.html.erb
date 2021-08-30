@@ -21,10 +21,12 @@ layout: email
 <!-- from shows.html -->
 <section>
 <h3>Shows</h3>
+<% if data.site_info.shows.current_shows %>
 <% data.site_info.shows.current_shows.each do |show| %>
   <p>
     <span class="date"><%= show[:dates].to_s.split(",").first %></span> - <%= link_to_if(show[:name], show[:link]) %>
   </p>
+<% end %>
 <% end %>
 <% data.site_info.shows.past_shows.each do |show| %>
   <p>
