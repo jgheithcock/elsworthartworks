@@ -47,5 +47,5 @@ body_class: single_image
 </div>
 
 <% if item[:has_children] %>
-<%= link_to( "View progress of '#{item[:title]}'", progress_path(item) ) %>
+<%= link_to( "View progress of '#{item[:title]}'", progress_path(item), :class => 'progress' ) %>
 <% end %>
