@@ -15,9 +15,10 @@ contact:
 favorites:
   oil:
     circles: /images/oil/circles/morgan_at_21_1080.png
-    landscapes: /images/oil/landscapes/the_tea_garden_path_1080.jpg
+    landscapes: /images/oil/landscapes/ocean_rhythms_1080.png
     doorknockers: /images/oil/doorknockers/lady_knocker_1080.jpg
     figures: /images/oil/figures/dryad_exposed_1080.jpg
+    "still life": /images/oil/still_life/flame_rose_ii_1080.png
     
 statement: "I like my paintings to evoke the idea of the passing of time through subtle suggestions of movement. For instance, when I paint a tree I would like you to imagine the branches dancing in the wind, just as I see them in my mind. Perhaps when you look at a gnarled tree trunk in my paintings you might think of the evolving beauty of its enduring life span. It is all about having more than just two or even three dimensions in a two-dimensional work."
 timeline:
@@ -83,7 +84,15 @@ awards:
     url: https://theartguide.com/callforartist/fresh-works-viii
 shows:
   current_shows:
+    - show:
+      name: "Pictures of People, Web gallery at the de Young Museum"
+      dates: 2022, March 3 - 2022, July 10th
+      link: https://picturesofpeople.artcall.org/submissions/qr-view/301544
   past_shows:
+    - show:
+      name: "“If A Tree Falls: Art Of The Boundary Oak”, at Bedford Gallery"
+      dates: 2020, October 30-February 13
+      link: https://www.bedfordgallery.org/exhibitions/up-next/if-a-tree-falls/
     - show:
       name: "Solo show, “Epic Nature”, at Wilder Gallery"
       dates: 2020, December
@@ -113,6 +122,7 @@ shows:
     - show:
       name: San Ramon City Hall with Linda Huffman
       dates: 2018 # Mar 17 to May 17
+      link: /articles/CH-Galley-Flyer-Heithcock-Huffman.pdf
     - show:
       name: The aRt Cottage, Concord CA
       dates: 2018 # Apr
