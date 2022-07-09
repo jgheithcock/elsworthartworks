@@ -41,7 +41,9 @@ body_class: single_image
   <% end %>
   <% if ["oil", "drawings"].include? item[:category].downcase %>
     <% unless item[:parent] %><%# Do not show Giclée info for progress and other supporting images %>
+      <!--
     <h3>Giclée reproductions are available in a variety of sizes. Please <%= link_to("contact", "/about.html", class:"active") %> the artist.</h3>
+    -->
     <% end %>
   <% end %>
 </div>
