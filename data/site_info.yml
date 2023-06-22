@@ -84,11 +84,11 @@ awards:
     url: https://theartguide.com/callforartist/fresh-works-viii
 shows:
   current_shows:
+  past_shows:
     - show:
       name: "Pictures of People, Web gallery at the de Young Museum"
       dates: 2022, March 3 - 2022, July 10th
       link: https://picturesofpeople.artcall.org/submissions/qr-view/301544
-  past_shows:
     - show:
       name: "“If A Tree Falls: Art Of The Boundary Oak”, at Bedford Gallery"
       dates: 2020, October 30-February 13

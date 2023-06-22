@@ -16,7 +16,9 @@ body_class: shows
 <% end %>
 
 <section>
+<% if data.site_info.shows.current_shows %><%# Only show if there is 'Current and Upcoming' %>
   <h3>Past</h3>
+<% end %>
 <% data.site_info.shows.past_shows.each do |show| %>
   <p>
       <span class="date"><%= show[:dates] %></span> - <%= link_to_if(show[:name], show[:link]) %>
