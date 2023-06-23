@@ -35,9 +35,10 @@ body_class: single_image
   <% end %>
   
   <% if item[:price].to_i > 0 %>
-  <h3><%= "Original painting: #{number_to_currency(item[:price], {:precision => 0})}" %></h3>
+  <h3><%= "Original: #{number_to_currency(item[:price], {:precision => 0})}" %></h3>
   <% elsif item[:price].to_s.length > 0 %>
-  <h3><%= item[:price] %> </h3>
+  <%# Remove 'NSF' and other non-price info %>
+  <!-- <h3><%= item[:price] %> </h3> -->
   <% end %>
   <% if ["oil", "drawings"].include? item[:category].downcase %>
     <% unless item[:parent] %><%# Do not show Giclée info for progress and other supporting images %>
