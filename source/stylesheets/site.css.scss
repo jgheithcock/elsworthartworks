@@ -101,17 +101,20 @@ article {
 .album_list section,
 .single_image section {
   display: flex;
-  flex-flow: column wrap;
+  flex-flow: flow;
+  align-content: center;
 }
 .album_list section {
   width: 50%;
+  flex-wrap: wrap;
   margin: 0 -2px 1em -2px; /* -2px to adjust for 50% width */
   @media screen and (max-width: 800px) {
       width:100%;
       margin: 1em 0;
   }
   h1,h2,h3,h4 {
-    text-align:center;
+    text-align: center;
+    width: 100%;
   }
   h3 { margin: 0.25em 1em 2em 1em;}
   figure {
@@ -120,6 +123,7 @@ article {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
     img {
       max-width: 93%;
       max-height:380px; /* 400 - 10 - 10 for the box shadow */
