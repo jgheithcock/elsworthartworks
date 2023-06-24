@@ -34,10 +34,14 @@ body_class: single_image
   <h3><%= "#{item[:media]}" %></h3>
   <% end %>
   
-  <% if item[:price].to_i > 0 %>
-  <h3><%= "Original: #{number_to_currency(item[:price], {:precision => 0})}" %></h3>
+  <% if item[:sale].to_i > 0 %>
+  <h3><strike><%= "#{number_to_currency(item[:price], {:precision => 0})}" %></strike>
+  &nbsp;
+  Sale Price: <%= "#{number_to_currency(item[:sale], {:precision => 0})}" %></h3>
+  <% elsif item[:price].to_i > 0 %>
+  <h3><%="#{number_to_currency(item[:price], {:precision => 0})}" %></h3>
   <% elsif item[:price].to_s.length > 0 %>
-  <%# Remove 'NSF' and other non-price info %>
+  <!-- Remove 'NSF' and other non-price info -->
   <!-- <h3><%= item[:price] %> </h3> -->
   <% end %>
   <% if ["oil", "drawings"].include? item[:category].downcase %>
