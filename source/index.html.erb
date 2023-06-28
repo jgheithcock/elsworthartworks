@@ -5,35 +5,21 @@ contents:
   - folder: oil
     title: Oil Paintings
     path: support/three_tall_pieces_1080.jpg
-    width: 400
-    height: 300
   - folder: drawings
     title: Drawings
     path: drawings/nature/up_a_tree_1080.jpg
-    width: 150
-    height: 400
-  - folder: other
-    title: Other
-    path: other/jamuna/jamuna_1080.jpg
-    width: 200
-    height: 400
+  - folder: chess
+    title: Chess
+    path: chess/glazed/black_king_and_queen-backs_1080.jpg
   - folder: ceramics
     title: Ceramics
     path: ceramics/2007/kiwi_emerald_large_bowl_1080.jpg
-    width: 400
-    height: 300
 ---
 
 <% current_page.data.contents.each do |img| %>
 <section>
   <figure>
-    <% if img.width > img.height %>
-    <%# Specify width, but not height %>
-    <%= link_to image_tag(img[:path], :alt => img[:title], :width => img.width), img[:folder] %>
-    <% else %>
-    <%# Specify height, but not width %>
-    <%= link_to image_tag(img[:path], :alt => img[:title], :height => img.height), img[:folder] %>
-    <% end %>
+    <%= link_to image_tag(img[:path], :alt => img[:title]), img[:folder] %>
   </figure>
   <h3><%= img[:title] %></h3>
 </section>
