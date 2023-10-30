@@ -7,5 +7,6 @@ build/
 # do not include artwork
 source/images
 originals
+old-versions
 
 new.csv

@@ -389,7 +389,7 @@ oil,Landscapes,Img 8099,,monterey,IMG_8099.jpg,,,,,,,,,landscapes,img_8099
 oil,Landscapes,Img 8100,,monterey,IMG_8100.jpg,,,,,,,,,landscapes,img_8100
 oil,Landscapes,Img 8101,,monterey,IMG_8101.jpg,,,,,,,,,landscapes,img_8101
 oil,Landscapes,Img 8102,,monterey,IMG_8102.jpg,,,,,,,,,landscapes,img_8102
-oil,Landscapes,Monterey,true,monterey,monterey.jpg,,,,,,,,,landscapes,monterey
+oil,Landscapes,Monterey,TRUE,monterey,monterey.jpg,,,,,,,,,landscapes,monterey
 oil,Landscapes,Img 0243,,monterey_visitor,IMG_0243.jpg,,,,,,,,,landscapes,img_0243
 oil,Landscapes,Img 7956,,monterey_visitor,IMG_7956.jpg,,,,,,,,,landscapes,img_7956
 oil,Landscapes,Img 7959,,monterey_visitor,IMG_7959.jpg,,,,,,,,,landscapes,img_7959
@@ -415,10 +415,10 @@ oil,Landscapes,Img 8049,,monterey_visitor,IMG_8049.jpg,,,,,,,,,landscapes,img_80
 oil,Landscapes,Img 8062,,monterey_visitor,IMG_8062.jpg,,,,,,,,,landscapes,img_8062
 oil,Landscapes,Img 8123,,monterey_visitor,IMG_8123.jpg,,,,,,,,,landscapes,img_8123
 oil,Landscapes,Img 8124,,monterey_visitor,IMG_8124.jpg,,,,,,,,,landscapes,img_8124
-oil,Landscapes,Monterey Visitor,true,monterey_visitor,monterey_visitor.jpg,,,,,,,,,landscapes,monterey_visitor
+oil,Landscapes,Monterey Visitor,TRUE,monterey_visitor,monterey_visitor.jpg,,,,,,,,,landscapes,monterey_visitor
 oil,Landscapes,Ocean Rythms-1,,ocean_rhythms,ocean_rythms-1.jpg,,,,,,,,,landscapes,ocean_rythms-1
 oil,Portraits,Bailey-1,,bailey,bailey-1.jpg,,,,,,,,,portraits,bailey-1
-oil,Portraits,Bailey,true,"",bailey.jpg,,,,,,,,,portraits,bailey
+oil,Portraits,Bailey,TRUE,,bailey.jpg,,,,,,,,,portraits,bailey
 oil,Portraits,Bailey On the Beach-1,,bailey_on_the_beach,bailey_on_the_beach-1.jpg,,,,,,,,,portraits,bailey_on_the_beach-1
 oil,Portraits,Bailey On the Beach-2,,bailey_on_the_beach,bailey_on_the_beach-2.jpg,,,,,,,,,portraits,bailey_on_the_beach-2
 oil,Portraits,Bailey On the Beach-3,,bailey_on_the_beach,bailey_on_the_beach-3.jpg,,,,,,,,,portraits,bailey_on_the_beach-3
@@ -427,14 +427,14 @@ oil,Portraits,Bailey On the Beach-5,,bailey_on_the_beach,bailey_on_the_beach-5.j
 oil,Portraits,Bailey On the Beach-6,,bailey_on_the_beach,bailey_on_the_beach-6.jpg,,,,,,,,,portraits,bailey_on_the_beach-6
 oil,Portraits,Bailey On the Beach-7,,bailey_on_the_beach,bailey_on_the_beach-7.jpg,,,,,,,,,portraits,bailey_on_the_beach-7
 oil,Portraits,Bailey On the Beach-8,,bailey_on_the_beach,bailey_on_the_beach-8.jpg,,,,,,,,,portraits,bailey_on_the_beach-8
-oil,Portraits,Bailey On the Beach,true,"",bailey_on_the_beach.jpg,,,,,,,,,portraits,bailey_on_the_beach
+oil,Portraits,Bailey On the Beach,TRUE,,bailey_on_the_beach.jpg,,,,,,,,,portraits,bailey_on_the_beach
 oil,Portraits,Mouser-1,,mouser,mouser-1.jpg,,,,,,,,,portraits,mouser-1
 oil,Portraits,Mouser-2,,mouser,mouser-2.jpg,,,,,,,,,portraits,mouser-2
 oil,Portraits,Mouser-3,,mouser,mouser-3.jpg,,,,,,,,,portraits,mouser-3
 oil,Portraits,Mouser-4,,mouser,mouser-4.jpg,,,,,,,,,portraits,mouser-4
 oil,Portraits,Mouser-5,,mouser,mouser-5.jpg,,,,,,,,,portraits,mouser-5
 oil,Portraits,Mouser-6,,mouser,mouser-6.jpg,,,,,,,,,portraits,mouser-6
-oil,Portraits,Mouser,true,"",mouser.jpg,,,,,,,,,portraits,mouser
+oil,Portraits,Mouser,TRUE,,mouser.jpg,,,,,,,,,portraits,mouser
 Oil,Portraits,The Sun King,,,the_sun_king.tif,2019,Oil on Panel,18,24,,,"Oil, Portraits",Custom Photographic,portraits,the_sun_king
 Oil,Portraits,Joie de Vivre,,,Joie de Vivre-11x14.tif,2019,Oil on Panel,11,14,,,"Oil, Portraits",Custom Photographic,portraits,joie_de_vivre
 Oil,Portraits,Age of Joy,TRUE,,age_of_joy.tif,2018,Oil on Panel,18,24,,,"Oil, Portraits",Custom Photographic,portraits,age_of_joy
@@ -504,10 +504,10 @@ Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_6012.jpg,2021,Oil on Oak,
 Oil,Figures,Finished,,dryad_exposed,dryad_exposed_finished.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing, Wide",Photo,figures,dryad_exposed_finished
 Oil,Figures,Naiad,,,naiad.jpg,2020,Oil on Panel,24,6,695,,"Oil, Figure Drawing",,figures,naiad
 Oil,Figures,Dryad,,,dryad.jpg,2020,Oil on Panel,24,6,695,,"Oil, Figure Drawing",,figures,dryad
-oil,Figures,Dryad-naiad,true,dryad-naiad,dryad-naiad.png,,,,,,,,,figures,dryad-naiad
+oil,Figures,Dryad-naiad,TRUE,dryad-naiad,dryad-naiad.png,,,,,,,,,figures,dryad-naiad
 Oil,Still Life,Flame Rose I,TRUE,,flame_rose_i.jpg,2022,Oil on Panel,6,6,350,,"Oil, Still Life",,still_life,flame_rose_i
 Oil,Still Life,Flame Rose II,TRUE,,flame_rose_ii.jpg,2022,Oil on Panel,6,6,350,,"Oil, Still Life",,still_life,flame_rose_ii
-oil,Still Life,Flame Rose III,,"",flame_rose_iii.jpg,,,,,,,,,still_life,flame_rose_iii
+oil,Still Life,Flame Rose III,,,flame_rose_iii.jpg,,,,,,,,,still_life,flame_rose_iii
 Oil,Still Life,Mandala,,,Mandala.tif,2017,Oil on Panel,30,30,,,Oi,Photo,still_life,mandala
 Oil,Still Life,Bath Water Study 3,,,bath_water_study_3.jpg,2020,Oil on Masonite,30,20,2400,900,"Oil, Still Life",Photo (large),still_life,bath_water_study_2
 Oil,Still Life,Bath Water Study 1,,,bath_water_study_1.jpg,2017,Oil on Masonite,30,20,2400,900,"Oil, Still Life",Photo (large),still_life,bath_water_study_1
@@ -573,7 +573,7 @@ Oil,2010-2011,St Marks Lion & Morgan 2,,,st_marks_lion_and_girl-2.tif,2010,Oil o
 Oil,2010-2011,St Marks Lion & Morgan 1,,,st_marks_lion_and_girl-1.tif,2009,Oil on Masonite,4,6,,,"Oil, Pets and Animals, Portraits",Scan from Printer,2010-2011,st_marks_lion_and_girl-1
 Oil,2010-2011,Morning Glory,,,morning_glory.tif,2005,Oil on Masonite,8,10,,,Oil,Scan from Printer,2010-2011,morning_glory
 Oil,2010-2011,Napa Valley Vineyard Worker,,,grape_man.jpg,1989,Oil on Masonite,15,20,,,"Oil, Fantasy and Allegory, Landscapes, The Figure",Photo,2010-2011,grape_man
-oil,Past,Italian Lion Waterspout,,"",Italian Lion Waterspout.tif,,,,,,,,,past,italian_lion_waterspout
+oil,Past,Italian Lion Waterspout,,,Italian Lion Waterspout.tif,,,,,,,,,past,italian_lion_waterspout
 Oil,Past,Grapevine on Wood,,,grapevine_on_wood.tif,1998,Oil on Masonite,15,20,,,Oil,,past,grapevine_on_wood
 Oil,Past,The Bath,,,bath.jpg,1997,Oil on Masonite,10,15,,,"Oil, Architecture, The Figure, Fantasy and Allegory",,past,bath
 Oil,Past,Rain,,,rain.jpg,1990,Oil on Masonite,15,20,,,"Oil, Landscape",Photo,past,rain
@@ -602,7 +602,7 @@ Drawings,Nature,Carmel Tree,,,carmel_tree.jpg,,,,,,,Wide,,nature,carmel_tree
 Drawings,Nature,Grapeleaves-pen,,,grapeleaves-pen.jpg,,,,,,,,,nature,grapeleaves-pen
 Drawings,Nature,Grapes-pen,,,grapes-pen.jpg,,,,,,,,,nature,grapes-pen
 Drawings,Nature,Up a Tree,,,up_a_tree.jpg,,,,,,,,,nature,up_a_tree
-drawings,Nature,Color Pencil Tree,,"",color_pencil_tree.tif,,,,,,,,,nature,color_pencil_tree
+drawings,Nature,Color Pencil Tree,,,color_pencil_tree.tif,,,,,,,,,nature,color_pencil_tree
 Drawings,Figure Drawing,Mother and Daughter,,,mother_and_daughter.jpg,,,,,,,,,figure_drawing,mother_and_daughter
 Drawings,Figure Drawing,Brian (been In the Battle),,,Brian_(Been_in_the_Battle).jpg,,,,,,,,,figure_drawing,brian_(been_in_the_battle)
 Drawings,Figure Drawing,Emiliy,,,Emiliy.jpg,,,,,,,,,figure_drawing,emiliy
@@ -611,8 +611,8 @@ Drawings,Figure Drawing,Judith,,,Judith.jpg,,,,,,,,,figure_drawing,judith
 Drawings,Figure Drawing,Simone,,,Simone.jpg,,,,,,,,,figure_drawing,simone
 Drawings,Figure Drawing,Torrey,,,Torrey.jpg,,,,,,,,,figure_drawing,torrey
 Drawings,Figure Drawing,Veronique,,,Veronique.jpg,,,,,,,,,figure_drawing,veronique
-drawings,Figure Drawing,Mom & Dad Drawing,,"",Mom & Dad drawing.jpg,,,,,,,,,figure_drawing,mom_&_dad_drawing
-drawings,Figure Drawing,Federer,,"",federer.jpg,,,,,,,,,figure_drawing,federer
+drawings,Figure Drawing,Mom & Dad Drawing,,,Mom & Dad drawing.jpg,,,,,,,,,figure_drawing,mom_&_dad_drawing
+drawings,Figure Drawing,Federer,,,federer.jpg,,,,,,,,,figure_drawing,federer
 Drawings,Wineries & Restaurants,Travigne,,,travigne.jpg,,,,,,,,,wineries,travigne
 Drawings,Wineries & Restaurants,Sequoia Grove,,,sequoia_grove.jpg,,,,,,,,,wineries,sequoia_grove
 Drawings,Wineries & Restaurants,V Sattui,,,v_sattui.jpg,,,,,,,,,wineries,v_sattui
@@ -650,21 +650,21 @@ chess,Kiln,Kiln - 3,,,Kiln-3.png,,,,,,,,,kiln,kiln-3
 chess,Kiln,White Pieces,,,White_Pieces.jpg,,,,,,,,,kiln,White_Pieces
 chess,Kiln,Kiln - glazed,,,Kiln-glazed.jpg,,,,,,,,,kiln,kiln-glazed
 Ceramics,Jamuna,Jamuna 1,,,jamuna.jpg,2004,Ceramic Sculpture,,,,,Sculpture,Photo,jamuna,jamuna
-ceramics,Jamuna,Jamuna-41,,"",jamuna-41.JPG,,,,,,,,,jamuna,jamuna-41
-ceramics,Jamuna,Jamuna-42,,"",jamuna-42.JPG,,,,,,,,,jamuna,jamuna-42
-ceramics,Jamuna,Jamuna-43,,"",jamuna-43.JPG,,,,,,,,,jamuna,jamuna-43
-ceramics,Jamuna,Jamuna-44,,"",jamuna-44.JPG,,,,,,,,,jamuna,jamuna-44
-ceramics,Jamuna,Jamuna-45,,"",jamuna-45.JPG,,,,,,,,,jamuna,jamuna-45
-ceramics,Jamuna,Jamuna-46,,"",jamuna-46.JPG,,,,,,,,,jamuna,jamuna-46
-ceramics,Jamuna,Jamuna-47,,"",jamuna-47.JPG,,,,,,,,,jamuna,jamuna-47
-ceramics,Jamuna,Jamuna-48,,"",jamuna-48.JPG,,,,,,,,,jamuna,jamuna-48
-ceramics,Jamuna,Jamuna-49,,"",jamuna-49.JPG,,,,,,,,,jamuna,jamuna-49
-ceramics,Jamuna,Jamuna-50,,"",jamuna-50.JPG,,,,,,,,,jamuna,jamuna-50
-ceramics,Jamuna,Jamuna-51,,"",jamuna-51.JPG,,,,,,,,,jamuna,jamuna-51
-ceramics,Jamuna,Jamuna-52,,"",jamuna-52.JPG,,,,,,,,,jamuna,jamuna-52
-ceramics,Jamuna,Jamuna-53,,"",jamuna-53.JPG,,,,,,,,,jamuna,jamuna-53
-ceramics,Jamuna,Jamuna-54,,"",jamuna-54.JPG,,,,,,,,,jamuna,jamuna-54
-ceramics,Jamuna,Jamuna-55,,"",jamuna-55.JPG,,,,,,,,,jamuna,jamuna-55
+ceramics,Jamuna,Jamuna-41,,,jamuna-41.JPG,,,,,,,,,jamuna,jamuna-41
+ceramics,Jamuna,Jamuna-42,,,jamuna-42.JPG,,,,,,,,,jamuna,jamuna-42
+ceramics,Jamuna,Jamuna-43,,,jamuna-43.JPG,,,,,,,,,jamuna,jamuna-43
+ceramics,Jamuna,Jamuna-44,,,jamuna-44.JPG,,,,,,,,,jamuna,jamuna-44
+ceramics,Jamuna,Jamuna-45,,,jamuna-45.JPG,,,,,,,,,jamuna,jamuna-45
+ceramics,Jamuna,Jamuna-46,,,jamuna-46.JPG,,,,,,,,,jamuna,jamuna-46
+ceramics,Jamuna,Jamuna-47,,,jamuna-47.JPG,,,,,,,,,jamuna,jamuna-47
+ceramics,Jamuna,Jamuna-48,,,jamuna-48.JPG,,,,,,,,,jamuna,jamuna-48
+ceramics,Jamuna,Jamuna-49,,,jamuna-49.JPG,,,,,,,,,jamuna,jamuna-49
+ceramics,Jamuna,Jamuna-50,,,jamuna-50.JPG,,,,,,,,,jamuna,jamuna-50
+ceramics,Jamuna,Jamuna-51,,,jamuna-51.JPG,,,,,,,,,jamuna,jamuna-51
+ceramics,Jamuna,Jamuna-52,,,jamuna-52.JPG,,,,,,,,,jamuna,jamuna-52
+ceramics,Jamuna,Jamuna-53,,,jamuna-53.JPG,,,,,,,,,jamuna,jamuna-53
+ceramics,Jamuna,Jamuna-54,,,jamuna-54.JPG,,,,,,,,,jamuna,jamuna-54
+ceramics,Jamuna,Jamuna-55,,,jamuna-55.JPG,,,,,,,,,jamuna,jamuna-55
 Ceramics,2005,Blue Dish Small,,,blue_dish_small.jpg,,,,,,,,,2005,blue_dish_small
 Ceramics,2005,Blue Purple Bowl Large,,,blue_purple_bowl_large.jpg,,,,,,,,,2005,blue_purple_bowl_large
 Ceramics,2005,Crescent Olive,,,Crescent olive.jpg,,,,,,,,,2005,crescent_olive
