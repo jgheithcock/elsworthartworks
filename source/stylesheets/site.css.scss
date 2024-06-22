@@ -200,6 +200,14 @@ figure.Circles {
     .date {
       padding-left:2em;
     }
+    .show_poster {
+      display:flex;
+      justify-content:center;
+      figure {
+        width: 50%;
+        margin-bottom: 1em;
+      }
+    }
 }
 .progress {
   text-align: center;

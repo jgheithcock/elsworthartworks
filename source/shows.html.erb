@@ -9,6 +9,13 @@ body_class: shows
   <h3>Current and Upcoming</h3>
 <% data.site_info.shows.current_shows.each do |show| %>
   <p>
+      <% if show[:poster] %>
+        <div class="show_poster single_image">
+          <figure>
+            <%= link_to( image_tag(show[:poster], {:alt => show[:name]}), show[:poster] ) %>
+          </figure>
+        </div>
+      <% end %>
       <span class="date"><%= show[:dates] %></span> - <%= link_to_if(show[:name], show[:link]) %>
   </p>
 <% end %>
