@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
     <% title = current_page.data.title ||= data.site_info.default_title %>
-    <% title += ": #{current_page.data.subtitle}" if current_page.data.subtitle %>
+    <% title += ": #{titlecase(current_page.data.subtitle)}" if current_page.data.subtitle %>
     
     <% if current_page.data.include_open_graph %>
     <meta property="og:title" content="<%= title %>"/>

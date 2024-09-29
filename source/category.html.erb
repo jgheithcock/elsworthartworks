@@ -2,8 +2,7 @@
 title: Elsworth Artworks
 body_class: album_list
 ---
-<%# current_page.data.subtitle = "#{category}"%>
-<%# :category => "oil", :album => "Doorknockers" %>
+<% current_page.data.subtitle = "#{category}"%>
 <% albums = contents.group_by {|item| item[:album].downcase.to_sym} %>
 <% albums.each do |album, list| %>
   <% item = list[0] %>

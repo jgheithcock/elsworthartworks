@@ -3,6 +3,7 @@ title: Elsworth Artworks
 body_class: album_list
 ---
 
+<% current_page.data.subtitle = "#{category} : #{album}"%>
 <% contents.each do |item| %>
   <% unless defined? parent_item %>
     <% next unless (item[:parent].to_s.empty?) # skip items that have a parent defined %>

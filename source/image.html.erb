@@ -5,7 +5,7 @@ body_class: single_image
 <%
   current_page.data.include_open_graph = true
   current_page.data.open_graph_image = data.site_info.site_url + img_path(item)
-  current_page.data.subtitle = item[:title]
+  current_page.data.subtitle = "#{category} : #{album} : #{item[:title]}"
 %>
 <%# e.g. category => "oil", album => "Doorknockers" %>
 
