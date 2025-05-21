@@ -11,7 +11,7 @@ The text of the site, as well as the site layout is set in data\site_info.yml
 You can just drop images into the correct folder in 'originals' and do a local build by:
 
 ----
-middleman build
+> bundle exec middleman build
 ----
 
 Or alternately, you can add more information (date, medium, dimensions) by editing the Elsworth_Artworks_Catalog.csv file.
@@ -20,12 +20,18 @@ Or alternately, you can add more information (date, medium, dimensions) by editi
 
 If a folder with the same name is found, all images in that folder will be used to create a "Progress" link on that image's page. Again, more information can be added to the .csv file if desired.
 
+=== Testing
+
+----
+> bundle exec middleman server
+----
+
 === Deploying to the website
 
 In the terminal, cd to this folder and type:
 
 ----
-> middleman deploy
+> bundle exec middleman deploy
 ----
 
 
