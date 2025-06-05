@@ -36,9 +36,9 @@ In addition to the name, each image page can have the following information:
 - Dimensions
 - Price (if for sale)
 
-This information is contained in the Portfolio_Catalog.csv spreadsheet.
+This information is contained in the _Portfolio_Catalog.csv_ spreadsheet.
 Building will create a _new.csv_ file with any missing artwork. This can be
-copied over to the Portfolio_Catalog.csv file as a stub entry.
+copied over to the _Portfolio_Catalog.csv_ file as a stub entry.
 
 Building, testing and deploying the portfolio
 ---------------------------------------------
@@ -49,7 +49,7 @@ terminal window, `cd` to the portfolio folder, and type:
 `> bundle exec middleman build`
 
 Or alternately, you can add more information (date, medium, dimensions) by
-editing the Portfolio_Catalog.csv file.
+editing the _Portfolio_Catalog.csv_ file.
 
 Progress pictures
 -----------------
