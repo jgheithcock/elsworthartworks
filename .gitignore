@@ -5,8 +5,13 @@
 build/
 
 # do not include artwork
-source/images
-originals
+source/images/*
+!source/images/.gitkeep
+originals/*
+!originals/.gitkeep
 old-versions
 
 new.csv
+
+# do not include credentials file
+credentials.rb
