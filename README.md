@@ -1,7 +1,7 @@
 ElsworthArtworks
 ================
 
-The source code (built on [Middleman]) for building [elsworthartworks.com], a portfolio website
+The source code (built on [Middleman]) for building [elsworthartworks.com], a static portfolio website
 for Suzy Elsworth Heithcock.
 
 Portfolio site map
