@@ -86,6 +86,7 @@ You are welcome to use this to kickstart your own portfolio site! Here is the wo
 - Install [Middleman]
 - Create a _credentials.rb_ file in the root folder (in the same folder as _config.rb_)
 - Paste in the following code, changing to use your credentials for your own ftp site  [^bunnynet]:
+
 ```
   module Credentials
     HOST = 'my.ftp-site.com'
