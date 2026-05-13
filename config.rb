@@ -143,7 +143,7 @@ end
 def scan_originals(prev_items, new_items)
   # Aside from finding and adding any missed artwork, it will also sanitize the names of the images to replace spaces with _ and lowercase
 
-  show_not_publication = false # set to true to see items in "show_not_publication" folders
+  log_info = false # set to true to see info on skipping known edge cases ('not_for_publication', photos with no parent, etc)
   skip_progress = true # set to false to include progress items in new.csv
 
   original_path = "originals"
@@ -165,9 +165,9 @@ def scan_originals(prev_items, new_items)
     image = nil
 
     if (parts.length > 4)
-       puts "Skipping #{p} found in #{parts[2]} (folders under progress folders are not included)" 
+      puts "Skipping #{p} found in #{parts[2]} (folders under progress folders are not included)" if log_info
     elsif album == "not_for_publication"
-      puts "Skipping #{p} - not for publication" if show_not_publication
+      puts "Skipping #{p} - not for publication" if log_info
     elsif (parts.length > 3)
       parent = parts[2]
       all_parents << parent
@@ -312,8 +312,7 @@ data_by_categories.each do |category, list|
         progress_list = parent_and_list[:list]
 
         unless parent_item
-            puts "No parent photo for #{parent_tag}, skipping"
-            next
+            next # skip progress if no parent photo
         end
         if progress_list.empty?
           puts "No progress items for #{parent_tag}, skipping" if show_no_progress
@@ -374,6 +373,7 @@ helpers do
     #  - category ("oil")
     #  - album ("Doorknockers")
     #  - image ("st_marks_lion_and_girl-1.tif")
+    # as well as title, basename, etc
     image_name = item[:image].to_s
     if (image_name.empty?)
       puts "Unable to get path for #{item[:title]}"

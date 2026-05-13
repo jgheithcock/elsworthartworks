@@ -1,4 +1,240 @@
 category,album,title,has_children,parent,image,date,media,width,height,price,sale,tags,notes,album_escaped,basename
+Oil,Circles,Sheep Pile,,,sheep-pile.jpg,2024,Oil on cradled maple panel,6,6,450,,,,circles,sheep-pile
+Oil,Portraits,Jacob and the Dragons,,,jacob-and-the-dragons.jpg,2025,Oil on panel,8,10,,,,,portraits,jacob-and-the-dragons
+Oil,Still Life,Stargazer Lilies,,,stargazer-lilies.jpg,2026,Oil on panel,12,16,,,,,still_life,stargazer-lilies
+Oil,Landscapes,Little Muir Beach,,,little-muir-beach.jpg,2025,Oil on panel,14,11,2000,,,,landscapes,little-muir-beach
+Oil,Landscapes,Little Muir Beach 2,,,little-muir-beach-2.jpg,2025,Oil on panel,14,11,2000,,,,landscapes,little-muir-beach-2
+Oil,Portraits,Dresden Files - Harry Dresden,,,dresden-files-harry-dresden.jpg,2025,Oil on panel,10,10,1200,,,,portraits,dresden-files-harry-dresden
+Oil,Portraits,Karen,,,karen.jpg,2025,Oil on panel,6,6,,,,,portraits,karen
+Oil,Portraits,Morgan,,,morgan.jpg,2025,Oil on panel,6,6,,,,,portraits,morgan
+Oil,Animals,Bailey,TRUE,,bailey.jpg,2023,,6,6,,,"Oil, Portraits",Scan from Printer,animals,bailey
+Oil,Animals,Bailey-1,,bailey,bailey-1.jpg,,,,,,,,,animals,bailey-1
+Oil,Animals,Mouser,TRUE,,mouser.jpg,2023,Oil on Panel,6,6,,,"Oil, Portraits",Scan from Printer,animals,mouser
+Oil,Animals,Mouser-1,,mouser,mouser-1.jpg,,,,,,,,,animals,mouser-1
+Oil,Animals,Mouser-2,,mouser,mouser-2.jpg,,,,,,,,,animals,mouser-2
+Oil,Animals,Mouser-3,,mouser,mouser-3.jpg,,,,,,,,,animals,mouser-3
+Oil,Animals,Mouser-4,,mouser,mouser-4.jpg,,,,,,,,,animals,mouser-4
+Oil,Animals,Mouser-5,,mouser,mouser-5.jpg,,,,,,,,,animals,mouser-5
+Oil,Animals,Mouser-6,,mouser,mouser-6.jpg,,,,,,,,,animals,mouser-6
+Oil,Animals,Bailey On the Beach,TRUE,,bailey_on_the_beach.jpg,2023,,18,36,,,"Oil, Portraits",Scan from Printer,animals,bailey_on_the_beach
+Oil,Animals,Bailey On the Beach-1,,bailey_on_the_beach,bailey_on_the_beach-1.jpg,,,,,,,,,animals,bailey_on_the_beach-1
+Oil,Animals,Bailey On the Beach-2,,bailey_on_the_beach,bailey_on_the_beach-2.jpg,,,,,,,,,animals,bailey_on_the_beach-2
+Oil,Animals,Bailey On the Beach-3,,bailey_on_the_beach,bailey_on_the_beach-3.jpg,,,,,,,,,animals,bailey_on_the_beach-3
+Oil,Animals,Bailey On the Beach-4,,bailey_on_the_beach,bailey_on_the_beach-4.jpg,,,,,,,,,animals,bailey_on_the_beach-4
+Oil,Animals,Bailey On the Beach-5,,bailey_on_the_beach,bailey_on_the_beach-5.jpg,,,,,,,,,animals,bailey_on_the_beach-5
+Oil,Animals,Bailey On the Beach-6,,bailey_on_the_beach,bailey_on_the_beach-6.jpg,,,,,,,,,animals,bailey_on_the_beach-6
+Oil,Animals,Bailey On the Beach-7,,bailey_on_the_beach,bailey_on_the_beach-7.jpg,,,,,,,,,animals,bailey_on_the_beach-7
+Oil,Animals,Bailey On the Beach-8,,bailey_on_the_beach,bailey_on_the_beach-8.jpg,,,,,,,,,animals,bailey_on_the_beach-8
+Oil,Animals,Emerald Necklace Geese,,,emerald-necklace-geese.jpg,2023,Oil on panel,6,6,,,,,animals,emerald-necklace-geese
+Oil,Animals,Giant Octopus,TRUE,,giant_octopus.png,2022,Oil on Panel,48,36,Sold,,"Oil, Figure Drawing, Wide",Photo,animals,giant_octopus
+Oil,Animals,Giant Octopus - 1,,giant_octopus,giant_octopus-1.png,2022,Oil on Canvas Board,48,36,,,,,animals,giant_octopus
+Oil,Animals,Giant Octopus - 2,,giant_octopus,giant_octopus-2.png,2022,Oil on Canvas Board,48,36,,,,,animals,giant_octopus
+Oil,Animals,Giant Octopus - 3,,giant_octopus,giant_octopus-3.png,2022,Oil on Canvas Board,48,36,,,,,animals,giant_octopus
+Oil,Animals,Giant Octopus - Detail ,,giant_octopus,octopus-1-detail.png,2022,Oil on Canvas Board,48,36,,,,,animals,giant_octopus
+Oil,Animals,Giant Octopus II,,,giant-octopus-ii.jpg,2024,Oil on Panel,48,36,Sold,,"Oil, Figure Drawing, Wide",Photo,animals,giant_octopus_ii
+Oil,Animals,A Little Mussel Painting,TRUE,,a_little_mussel_painting.png,2022,Oil on Panel,7,5,550,,"Oil, Landscape, Wide",Photo,animals,a_little_mussel_painting
+Oil,Animals,A Little Mussel Painting-1,,a_little_mussel_painting,a_little_mussel_painting-1.png,,,,,,,,,animals,a_little_mussel_painting-1
+Oil,Animals,A Little Mussel Painting-2,,a_little_mussel_painting,a_little_mussel_painting-2.png,,,,,,,,,animals,a_little_mussel_painting-2
+Oil,Animals,A Little Mussel Painting-3,,a_little_mussel_painting,a_little_mussel_painting-3.png,,,,,,,,,animals,a_little_mussel_painting-3
+Oil,Animals,The Sun King,,,the_sun_king.tif,2019,Oil on Panel,18,24,,,"Oil, Portraits",Custom Photographic,animals,the_sun_king
+Oil,Figures,Dew Drops,,,dew-drops.jpg,2024,Oil on panel,8,10,1600,,,,figures,dew-drops
+drawings,Landscapes,Tangle,,,tangle.jpg,2024,Graphite on hot press Bristol board (framed),11,14,850,,,,landscapes,tangle
+drawings,Still Life,Gladiolus,,,gladiolus.jpg,2024,Prismacolor pencil on acid free heavyweight Strathmore paper,6,8,250,,,,still_life,gladiolus
+drawings,Still Life,Rose,,,rose.jpg,2024,Graphite on hot press Bristol board,11,14,450,,,,still_life,rose
+drawings,Still Life,Rose-Red,,,rose-red.jpg,2024,Graphite on hot press Bristol board,11,14,450,,,,still_life,rose-red
+Oil,Circles,Great Horned Owl Watching Wind and Fire,TRUE,,great-horned-owl.jpeg,2023,Oil on Round Maple Panel,6,6,,,"Oil, Still Life",Photo,circles,great-horned-owl
+Oil,Circles,Under the Eucalyptus,TRUE,,under_the_eucalyptus.jpg,2023,Oil on Round Maple Panel,6,6,450,,"Oil, Still Life",Photo,circles,under_the_eucalyptus
+Oil,Figures,Dance of the Wild Dryad,,,dance-of-the-wild-dryad.jpg,2023,Oil on panel,6,6,400,,,,figures,dance-of-the-wild-dryad
+Oil,Landscapes,Inside the Cyprus Tree,TRUE,,inside-the-cyprus-tree.jpg,2023,Oil on Panel,6,6,,,"Oil, Landscape",Photo,landscapes,inside-the-cyprus-tree
+Oil,Still Life,Inner Glow,,,inner-glow.jpg,2023,Oil on cradled panel,16,12,4000,,,,still_life,nner-glow
+Oil,Circles,Butterfly Tree,TRUE,,butterfly_tree.png,2022,Oil on Round Maple Panel,16,16,Sold,,"Oil, Still Life",Photo,circles,butterfly_tree
+Oil,Circles,Mother’s Day Rose,TRUE,,mothers_day_rose.png,2022,Oil on Round Maple Panel,8,8,600,,"Oil, Still Life",Photo,circles,mothers_day_rose
+Oil,Circles,Passing by a Thundercloud,,,passing-by-a-thundercloud.jpg,2022,Oil on cradled maple panel,8,8,600,,,,circles,passing-by-a-thundercloud
+Oil,Circles,Provincetown,TRUE,,provincetown.png,2022,Oil on Round Maple Panel,6,6,NFS,,"Oil, Still Life",Photo,circles,provincetown
+Oil,Landscapes,Garden Wall,,,garden_wall.png,2022,Oil on Panel,5,7,550,,"Oil, Landscape",Photo,landscapes,garden_wall
+Oil,Landscapes,Ocean Rhythms,,,ocean_rhythms.png,2022,Oil on Panel,7,5,550,,"Oil, Landscape",Photo,landscapes,ocean_rhythms
+Oil,Still Life,Flame Rose I,TRUE,,flame_rose_i.jpg,2022,Oil on Panel,6,6,450,,"Oil, Still Life",,still_life,flame_rose_i
+Oil,Still Life,Flame Rose II,TRUE,,flame_rose_ii.jpg,2022,Oil on Panel,6,6,450,,"Oil, Still Life",,still_life,flame_rose_ii
+Oil,Still Life,Flame Rose III,TRUE,,flame_rose_iii.jpg,2022,Oil on Panel,6,6,450,,"Oil, Still Life",,still_life,flame_rose_iii
+Drawings,Animals,Lunchtime In Bodega Bay,,,lunchtime_in_bodega_bay.png,2022,Graphite on Bristol Paper,7,5,225,,,,animals,lunchtime_in_bodega_bay
+Oil,Circles,Beatriz,TRUE,,beatriz.png,2021,Oil on Round Maple Panel,6,6,NFS,,"Oil, Portraits",Photo,circles,beatriz
+Oil,Circles,Daffodils,TRUE,,daffodils.png,2021,Oil on Round Maple Panel,6,6,Sold,,"Oil, Still Life",Photo,circles,daffodils
+Oil,Circles,Faerie Woods,,,faerie_woods.jpg,2021,Oil on Round Maple Panel,6,6,450,,"Oil, Landscape",Photo,circles,faerie_woods
+Oil,Circles,Fern Canyon Path Steps,TRUE,,fern_canyon_path_steps.png,2021,Oil on Round Maple Panel,6,6,450,,"Oil, Landscape",Photo,circles,fern_canyon_path_steps
+Oil,Circles,Fran's Iris,TRUE,,frans_iris.png,2021,Oil on Round Maple Panel,6,6,Sold,,"Oil, Still Life",Photo,circles,frans_iris
+Oil,Circles,Golden Rose,,,golden_rose.jpg,2021,Oil on Round Maple Panel,6,6,450,,"Oil, Landscape",Photo,circles,golden_rose
+Oil,Circles,Gualala,TRUE,,gualala_6in.png,2021,Oil on Round Maple Panel,6,6,Sold,,"Oil, Landscape",Photo,circles,gualala_6in
+Oil,Circles,Iris,,,Iris.jpg,2021,Oil on Round Maple Panel,8,8,600,,"Oil, Still Life",Photo,circles,iris
+Oil,Circles,Morgan at 21,TRUE,,morgan_at_21.png,2021,Oil on Round Maple Panel,6,6,NFS,,"Oil, Portraits",Photo,circles,morgan_at_21
+Oil,Circles,Reaching for the Buckyball,,,reaching_for_the_buckyball.jpg,2021,Oil on Round Maple Panel,8,8,600,,"Oil, Animals, Circles",Photo,circles,reaching_for_the_buckyball
+Oil,Circles,Reflecting Pool Garden at Lewis and Clark,TRUE,,reflecting_pool_garden_at_lewis_and_clark.png,2021,Oil on Round Maple Panel,6,6,Sold,,"Oil, Landscape",Photo,circles,reflecting_pool_garden_at_lewis_and_clark
+Oil,Circles,Tree of Life,TRUE,,tree_of_life.jpg,2021,Oil on Round Maple Panel,16,16,Sold,,"Oil, Still Life",Photo,circles,tree_of_life
+Oil,Figures,Boundary Oaks Flyer,,dryad_exposed,lesher_center_bedford_gallery.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,lesher_center_bedford_gallery
+Oil,Figures,Choosing,,dryad_exposed,dryad_exposed_1608.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_1608
+Oil,Figures,Dryad Exposed,TRUE,,dryad_exposed.jpg,2021,Oil on Oak,30,64,1800,,"Oil, Figure Drawing, Wide",Photo,figures,dryad_exposed
+Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_4882.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_4882
+Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_4884.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_4884
+Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_4888.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_4888
+Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_5070.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5070
+Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_5075.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5075
+Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_5625.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5625
+Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_5630.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5630
+Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_5641.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5641
+Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_5961.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5961
+Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_6012.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_6012
+Oil,Figures,Finished,,dryad_exposed,dryad_exposed_finished.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing, Wide",Photo,figures,dryad_exposed_finished
+Oil,Figures,More Sanding,,dryad_exposed,dryad_exposed_4892.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_4892
+Oil,Figures,Ready for Painting,,dryad_exposed,dryad_exposed_5081.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5081
+Oil,Figures,Sanding,,dryad_exposed,dryad_exposed_4890.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_4890
+Oil,Figures,Sepia Gesso,,dryad_exposed,dryad_exposed_5087.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5087
+Oil,Figures,Support Branch Detail,,dryad_exposed,dryad_exposed_5076.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5076
+Oil,Figures,Underpainting,,dryad_exposed,dryad_exposed_5090.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5090
+Drawings,Animals,Deer,,,deer-pencil.jpg,2021,Graphite on Bristol Paper,7,5,225,,,,animals,deer-pencil
+Drawings,Animals,Three Cranes,,,three_cranes.jpg,2020,Graphite on Bristol Paper,7,3,,,,,animals,three_cranes
+Drawings,Animals,Fuzz Bucket,,,fuzz_bucket.jpg,2021,Pencil on Paper,5,7,NFS,,,,animals,fuzz_bucket
+Oil,Figures,Dryad,,,dryad.jpg,2020,Oil on Panel,24,6,695,,"Oil, Figure Drawing",,figures,dryad
+Oil,Figures,Naiad,,,naiad.jpg,2020,Oil on Panel,24,6,695,,"Oil, Figure Drawing",,figures,naiad
+Oil,Landscapes,Grizzly Peak 5:06 PM,,,grizzly_peak_5_06_pm.jpg,2020,Oil on Panel,24,6,1200,,"Oil, Landscape",,landscapes,grizzly_peak_5_06_pm
+Oil,Landscapes,Grizzly Peak 5:17 PM,,,grizzly_peak_5_17_pm.jpg,2020,Oil on Panel,24,6,1200,,"Oil, Landscape",,landscapes,grizzly_peak_5_17_pm
+Oil,Landscapes,Path through the Cypress Hole,,,path_through_the_cypress_hole.jpg,2020,Oil on Panel,20,16,2200,,"Oil, Landscape",Photo,landscapes,path_through_the_cypress_hole
+Oil,Still Life,Bath Water Study 3,,,bath_water_study_3.jpg,2020,Oil on Masonite,30,20,2400,,"Oil, Still Life",Photo (large),still_life,bath_water_study_2
+Oil,Landscapes,A Twist of Nature,,,a_twist_of_nature.tif,2019,Oil on Panel,24,24,3200,,"Oil, Landscape",Custom Photographic,landscapes,a_twist_of_nature
+Oil,Landscapes,The Tea Garden Path,,,the_tea_garden_path.jpg,2019,Oil on Panel,10,10,700,,"Oil, Landscape",Photo,landscapes,the_tea_garden_path
+Oil,Landscapes,Trinidad Sunset In the Summer of Fires,,,trinidad_sunset.tif,2019,Oil on Panel,18,24,,,"Oil, Landscape",Custom Photographic,landscapes,trinidad_sunset
+Oil,Portraits,Joie de Vivre,,,Joie de Vivre-11x14.tif,2019,Oil on Panel,11,14,,,"Oil, Portraits",Custom Photographic,portraits,joie_de_vivre
+Drawings,Landscapes,The Watcher in the Woods,,,the_watcher_in_the_woods.jpg,2019,Graphite on Bristol Paper,11,14,,,,,landscapes,the_watcher_in_the_woods
+Oil,Landscapes,Girl Up a Tree,,,girl_up_a_tree.jpg,2018,Oil on Masonite,24,60,NFS,,Oil,Photo,landscapes,girl_up_a_tree
+Oil,Landscapes,La Rambla,,,la_rambla.jpg,2018,Oil on Panel,24,36,3500,,Oil,Photo,landscapes,la_rambla
+Oil,Landscapes,Monterey,,,monterey.tif,2018,Oil on Panel,10,10,700,,Oil,Custom Photographic,landscapes,monterey
+Oil,Landscapes,Monterey Visitor,,,monterey_visitor.tif,2018,Oil on Panel,24,36,3800,,Oil,Custom Photographic,landscapes,monterey_visitor
+Oil,Landscapes,No Cherry Blossoms Today,,,no_cherry_blossoms_today.tif,2018,Oil on Panel,36,24,,,Oil,,landscapes,no_cherry_blossoms_today
+Oil,Portraits,Age of Joy,TRUE,,age_of_joy.tif,2018,Oil on Panel,18,24,,,"Oil, Portraits",Custom Photographic,portraits,age_of_joy
+Oil,Portraits,Fran's Portrait,,,frans_portrait.jpg,2018,Oil on Panel,8,10,,,"Oil, Portraits",Scan from Printer,portraits,frans_portrait
+Oil,Landscapes,Autumn Jewels,TRUE,,morgans_leaves.tif,2017,Oil on Masonite,8,10,NFS,,"Oil, Landscape",Scan from Printer,landscapes,morgans_leaves
+Oil,Landscapes,Banyan Tree,TRUE,,banyan_tree.tif,2017,Oil on Masonite,24,30,,,"Oil, Landscape",Photo,landscapes,banyan_tree
+Oil,Landscapes,Cold Shoulder At Rapunzels Tower,TRUE,,Cold_Shoulder_at_Rapunzels_Tower.tif,2017,Oil on Masonite,16,30,2400,,"Oil, Landscape",,landscapes,cold_shoulder_at_rapunzels_tower
+Oil,Landscapes,Follow Me,TRUE,,follow_me.tif,2017,Oil on Masonite,30,30,4000,,"Oil, Landscape",,landscapes,follow_me
+Oil,Landscapes,Img 6659,,cold_shoulder_at_rapunzels_tower,IMG_6659.jpg,2017,Oil on Masonite,16,30,,,,,landscapes,img_6659
+Oil,Landscapes,Madrone Dryad,TRUE,,madrone_dryad.tif,2017,Oil on Masonite,16,20,1800,,"Oil, Landscape",Custom Photographic,landscapes,madrone_dryad
+Oil,Landscapes,Secret Garden of Earthly Delights,,,Secret Garden of Earthly Delights.jpg,2017,Oil on Masonite,20,16,2000,,,,landscapes,secret_garden_of_earthly_delights
+Oil,Landscapes,Shadows In My Past,,,shadows_in_my_past.tif,2017,Oil on Masonite,20,15,,,"Oil, Landscape",Photo,landscapes,shadows_in_my_past
+Oil,Landscapes,Spengler Path,TRUE,,spengler_path.tif,2017,Oil on Masonite,16,20,1800,,,,landscapes,spengler_path
+Oil,Still Life,Bath Water Study 1,,,bath_water_study_1.jpg,2017,Oil on Masonite,30,20,2400,,"Oil, Still Life",Photo (large),still_life,bath_water_study_1
+Oil,Still Life,Bath Water Study 2,,,bath_water_study_2.jpg,2017,Oil on Masonite,30,20,,,"Oil, Still Life",Photo (large),still_life,bath_water_study_2
+Oil,Still Life,Mandala,,,Mandala.tif,2017,Oil on Panel,30,30,,,Oi,Photo,still_life,mandala
+Oil,Landscapes,Shadows on My Path,TRUE,,shadows_on_my_path.tif,2016,Oil on Masonite,32,48,4000,,"Oil, Landscape",Custom Photographic,landscapes,shadows_on_my_path
+Oil,Landscapes,The Wind in My Branches,TRUE,,the_wind_in_my_branches.tif,2016,Oil on Masonite,48,36,6000,,"Oil, Landscape",Custom Photographic,landscapes,the_wind_in_my_branches
+Oil,Landscapes,The Wind in My Branches v1,,the_wind_in_my_branches,the_wind_in_my_branches_v1.tif,2016,Oil on Masonite,48,36,,,"Oil, Landscape",Custom Photographic,landscapes,the_wind_in_my_branches_v1
+Oil,Landscapes,Amalfi Coast,,,amalfi_coast.tif,2015,Oil on Masonite,24,60,,,"Oil, Italy, Landscape",Custom Photographic,landscapes,amalfi_coast
+Oil,Landscapes,Briones Through My Window,,,briones_through_my_window.png,2015,Oil on Masonite,72,48,12000,,"Oil, Landscape, Wide",Custom Photographic,landscapes,briones_through_my_window
+Oil,Landscapes,Sunset,TRUE,,sunset.tif,2015,Oil on Masonite,60,24,,,"Oil, Landscape",Photo (large),landscapes,sunset
+Oil,Still Life,Elements of Time,,,elements_of_time.tif,2015,Oil on Masonite,20,16,3200,,"Oil, Still Life",Photo (large),still_life,elements_of_time
+Oil,Still Life,Elements of Time Sepia,,,elements_of_time_sepia.tif,2015,Oil on Masonite,20,16,,,"Oil, Still Life",Custom Photographic,still_life,elements_of_time_sepia
+Oil,Still Life,Old Master's Pear,,,old_masters_pear.jpg,2015,Oil on Masonite,6,10,,,"Oil, Still Life",Scan from Printer,still_life,old_masters_pear
+Oil,Landscapes,Eucylptus Bark,,,eucylptus.tif,2014,Oil on Masonite,16,20,1800,,"Oil, Landscape",Photo,landscapes,eucylptus
+Oil,Landscapes,Snow on Mount Diablo,,,snow_on_mount_diablo.tif,2014,Oil on Masonite,24,36,,,"Oil, Landscape",Custom Photographic,landscapes,snow_on_mount_diablo
+Oil,Landscapes,Tuscan Path,,,tuscan_path.tif,2014,Oil on Masonite,24,60,,,"Oil, Italy, Landscape",Custom Photographic,landscapes,tuscan_path
+Oil,Landscapes,Venice Canal,,,venice_canal.tif,2014,Oil on Masonite,24,60,,,"Oil, Italy, Landscape",Custom Photographic,landscapes,venice_canal
+Oil,Doorknockers,Nude Door Knocker,,,lady_knocker.tif,2008,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,lady_knocker
+Oil,Past,Morgan's Bird,,,morgans_bird.jpg,2014,Oil on Masonite,8,10,,,Oil,Scan from Printer,past,morgans_bird
+Oil,Landscapes,In a Tuscan Town,TRUE,,in_a_tuscan_town.tif,2013,Oil on Masonite,24,60,,,"Oil, Italy, Landscape",Custom Photographic,landscapes,in_a_tuscan_town
+Oil,Landscapes,In a Tuscan Town (Beginning),,in_a_tuscan_town,in_a_tuscan_town-underpaint.jpg,2013,Oil on Masonite,24,60,,,"Oil, Italy, Landscapes, Progressions",Photo,landscapes,in_a_tuscan_town-underpaint
+Oil,Landscapes,In a Tuscan Town (Sepia Layer),,in_a_tuscan_town,in_a_tuscan_town-sepia.jpg,2013,Oil on Masonite,24,60,,,"Oil, Italy, Landscapes, Progressions",Photo,landscapes,in_a_tuscan_town-sepia
+Oil,Portraits,Jill,,,jill.tif,2013,Oil on Masonite,42,60,,,"Oil, Portraits, The Figure",Custom Photographic,portraits,jill
+Oil,Portraits,Sensei Jerrell,,,sensei_jerrell.tif,2013,Oil on Masonite,40,60,,,"Oil, Portraits, The Figure",Custom Photographic,portraits,sensei_jerrell
+Oil,Landscapes,Mendocino Coast Sunset,,,mendocino_coast_sunset.tif,2012,Oil on Masonite,24,30,,,"Oil, Landscape",Custom Photographic,landscapes,mendocino_coast_sunset
+Oil,Past,After the Metamorphosis,,,after_the_metamorphosis.jpg,2012,Oil on Masonite,8,10,,,"Oil, Fantasy and Allegory",Scan from Printer,past,after_the_metamorphosis
+Oil,Past,Golden Light Energy,,,golden_light_energy.tif,2012,Oil on Masonite,16,20,,,Oil,Photo,past,golden_light_energy
+Oil,Past,Portrait of a Battle Dragon,,,portrait_of_a_battle_dragon.jpg,2012,Oil on Masonite,8,10,,,"Oil, Fantasy and Allegory",Photo,past,portrait_of_a_battle_dragon
+Oil,Portraits,Carmen's Son,,,carmens_son.tif,2012,Oil on Masonite,8,10,,,"Oil, Portraits",Photo (large),portraits,carmens_son
+not_for_publication,Signs,Two Dragons and a Phoenix,TRUE,,two_dragons_and_a_phoenix.jpg,2012,Oil on Redwood,,,,,Oil,,signs,two_dragons_and_a_phoenix
+not_for_publication,Signs,Two Dragons and a Phoenix underpaint,,two_dragons_and_a_phoenix,two_dragons_and_a_phoenix_underpaint.jpg,2012,Oil on Redwood,,,,,Oil,,signs,two_dragons_and_a_phoenix_underpaint
+Oil,Past,Dash,,,dash.tif,2011,Oil on Masonite,4,6,,,"Oil, Pets and Animals, Series",Scan from Printer,past,dash
+Oil,Past,Luna,,,luna.tif,2011,Oil on Masonite,4,6,,,"Oil, Pets and Animals, Series",Scan from Printer,past,luna
+Oil,Past,Sam,,,sam.tif,2011,Oil on Masonite,4,6,,,"Oil, Pets and Animals, Series",Scan from Printer,past,sam
+Oil,Past,Small Roman Lion,,,small_lion.tif,2011,Oil on Masonite,4,6,,,"Oil, Pets and Animals",Scan from Printer,past,small_lion
+Oil,Portraits,Papa & the Girl,,,the_girl_and_papa.tif,2011,Oil on Masonite,4,6,,,"Oil, Portraits",Photo,portraits,the_girl_and_papa
+Oil,Portraits,The Girl,,,the_girl.jpg,2011,Oil on Masonite,8,10,,,"Oil, Portraits",Photo (large),portraits,the_girl
+Oil,Landscapes,Irish Garden,,,irish_garden.tif,2010,Oil on Masonite,16,20,,,"Oil, Landscape",Custom Photographic,landscapes,irish_garden
+Oil,Past,St Marks Lion & Morgan 2,,,st_marks_lion_and_girl-2.tif,2010,Oil on Masonite,4,6,,,"Oil, Pets and Animals, Portraits",Scan from Printer,past,st_marks_lion_and_girl-2
+Oil,Portraits,Girl on a Bench,,,girl_on_a_bench.tif,2010,Oil on Masonite,8,10,,,"Oil, Portraits",Photo (large),portraits,girl_on_a_bench
+Oil,Portraits,Portrait of Zanna,,,zanna.tif,2010,Oil on Masonite,15,20,,,"Oil, Portraits",Custom Photographic,portraits,zanna
+Oil,Past,St Marks Lion & Morgan 1,,,st_marks_lion_and_girl-1.tif,2009,Oil on Masonite,4,6,,,"Oil, Pets and Animals, Portraits",Scan from Printer,past,st_marks_lion_and_girl-1
+Oil,Doorknockers,Hand Knocker,,,hand_knocker.tif,2008,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,hand_knocker
+Oil,Doorknockers,Lion Door Knocker,,,lion_knocker.tif,2008,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,lion_knocker
+Oil,Doorknockers,Sheep Knocker,,,sheep_knocker.tif,2008,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,sheep_knocker
+not_for_publication,Shirts,Afire to Know the World (kid's shirt),,,Afire_to_Know_the_World-kids.jpg,2008,Ink on Cotton,,,,,Shirts,,shirts,afire_to_know_the_world-kids
+not_for_publication,Shirts,Afire to Know the World (nightshirt),,,Afire_to_Know_the_World-nightshirt.jpg,2008,Ink on Cotton,,,,,Shirts,,shirts,afire_to_know_the_world-nightshirt
+not_for_publication,Shirts,Afire to Know the World (shirt),,,Afire_to_Know_the_World-shirt.jpg,2008,Ink on Cotton,,,,,Shirts,,shirts,afire_to_know_the_world-shirt
+Oil,Doorknockers,Devil Knocker,,,devil_knocker.tif,2007,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,devil_knocker
+Oil,Doorknockers,Door Bell,,,mirror_knocker.tif,2007,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,mirror_knocker
+Oil,Doorknockers,Green Knocker,,,green_knocker.tif,2007,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,green_knocker
+Oil,Doorknockers,Horse Knocker,,,horse_knocker.tif,2007,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,horse_knocker
+Oil,Doorknockers,Irish Doorknob,,,irish_doorknob.tif,2011,Oil on Masonite,8,10,,,"Oil, Doorknockers, Wide",Scan from Printer,doorknockers,irish_doorknob
+Ceramics,2007,Kiwi & Emerald Large Bowl,,,kiwi_emerald_large_bowl.jpg,2007,Terra Cotta Clay,,,,,,Need image,2007,kiwi_emerald_large_bowl
+Oil,Landscapes,Italian Portico,,,italian_portico.tif,2006,Oil on Masonite,15,20,,,"Oil, Italy, Architecture, Pets and Animals",Custom Photographic,landscapes,italian_portico
+Oil,Past,Morning Glory,,,morning_glory.tif,2005,Oil on Masonite,8,10,,,Oil,Scan from Printer,past,morning_glory
+Ceramics,Jamuna,Jamuna 1,,,jamuna.jpg,2004,Ceramic Sculpture,,,,,Sculpture,Photo,jamuna,jamuna
+not_for_publication,Shirts,Thor shirt for Dantz (back),,,Thor_shirt_for_Dantz-back.jpg,2001,Ink on Cotton,,,,,Shirts,,shirts,thor_shirt_for_dantz-back
+not_for_publication,Shirts,Thor shirt for Dantz (front closeup),,,Thor_shirt_for_Dantz-front_closeup.jpg,2001,Ink on Cotton,,,,,Shirts,,shirts,thor_shirt_for_dantz-front_closeup
+not_for_publication,Shirts,Thor shirt for Dantz (front),,,Thor_shirt_for_Dantz-front.jpg,2001,Ink on Cotton,,,,,Shirts,,shirts,thor_shirt_for_dantz-front
+Oil,Portraits,Sleeping Little Morgan,,,morgan-detail.jpg,2000,Oil on Canvas Board,24,30,,,"Oil, Portraits",Photo,portraits,morgan-detail
+Drawings,Architecture,Travigne,,,travigne.jpg,,,,,,,,,architecture,travigne
+Drawings,Architecture,Charles Krug,,,charles_krug.jpg,,,,,,,,,architecture,charles_krug
+Drawings,Architecture,Ross House,,,ross_house.jpg,,,,,,,,,architecture,ross_house
+Drawings,Architecture,Sante Fe Bar & Grill,,,santa_fe_bar_and_grill.jpg,,,,,,,,,architecture,santa_fe_bar_and_grill
+Drawings,Architecture,Sequoia Grove,,,sequoia_grove.jpg,,,,,,,,,architecture,sequoia_grove
+Drawings,Architecture,Sutter Home,,,sutter_home.jpg,,,,,,,,,architecture,sutter_home
+Drawings,Architecture,V Sattui,,,v_sattui.jpg,,,,,,,,,architecture,v_sattui
+Drawings,Architecture,Window Seat,,,window_seat.jpg,,,,,,,,,architecture,window_seat
+Drawings,Architecture,Carothers Road House,,,carothers_road_house.jpg,1999,,,,,,,,architecture,caraothers_road_house
+Drawings,Architecture,Charter Oak House,,,charter_oak_house.jpg,1999,,,,,,,,architecture,charter_oak_house
+Oil,Past,Grapevine on Wood,,,grapevine_on_wood.tif,1998,Oil on Masonite,15,20,,,Oil,,past,grapevine_on_wood
+Oil,Past,The Bath,,,bath.jpg,1997,Oil on Masonite,10,15,,,"Oil, Architecture, The Figure, Fantasy and Allegory",,past,bath
+Oil,Portraits,Meditation,,,meditation.tif,1997,Oil on Masonite,10,15,,,"Oil, Portraits",Custom Photographic,portraits,meditation
+Drawings,Architecture,Alexanders's House,,,alexanders_house.jpg,1992,,,,,,,,architecture,alexanders_house
+Oil,Past,Rain,,,rain.jpg,1990,Oil on Masonite,15,20,,,"Oil, Landscape",Photo,past,rain
+Oil,Past,Sandstone Formations (Left),,,sandstone_left.jpg,1990,Oil on Masonite,10,15,,,"Oil, Landscape","Photo ('tryptch-left.jpg', etc.)",past,sandstone_left
+Oil,Past,Sandstone Formations (Middle),,,sandstone_middle.jpg,1990,Oil on Masonite,20,15,,,"Oil, Landscape",Photo,past,sandstone_middle
+Oil,Past,Sandstone Formations (Right),,,sandstone_right.jpg,1990,Oil on Masonite,10,15,,,"Oil, Landscape",Photo,past,sandstone_right
+Oil,Portraits,Sheri & Grapes,,,sheri_and_grapes.tif,1990,Oil on Masonite,10,15,,,"Oil, Portraits",Scan from Printer,portraits,sheri_and_grapes
+Oil,Past,Napa Valley Vineyard Worker,,,grape_man.jpg,1989,Oil on Masonite,15,20,,,"Oil, Fantasy and Allegory, Landscapes, The Figure",Photo,past,grape_man
+Oil,Past,The Force and Rhythm of Time,,,the_force_and_rhythm_of_time.tif,1989,Oil on Masonite,15,20,,,"Oil,, The Figure, Fantasy and Allegory, Landscape",Photo ('pool_women-light.jpg'),past,the_force_and_rhythm_of_time
+Oil,Past,Imps in the Garden,,,imps_in_the_garden.tif,1988,Oil on Masonite,15,20,,,"Oil, The Figure, Fantasy and Allegory, Landscape",,past,imps_in_the_garden
+Oil,Past,Exhaustion,,,exhaustion.jpg,1982,Oil on Canvas Board,8,10,,,"Oil, Fantasy and Allegory",Photo,past,exhaustion
+Oil,Circles,Beatriz-1,,beatriz,beatriz-1.jpg,,,,,,,,,circles,beatriz-1
+Oil,Circles,Beatriz-2,,beatriz,beatriz-2.jpg,,,,,,,,,circles,beatriz-2
+Oil,Circles,Beatriz-3,,beatriz,beatriz-3.jpg,,,,,,,,,circles,beatriz-3
+Oil,Circles,Butterfly Tree-1,,butterfly_tree,butterfly_tree-1.jpg,,,,,,,,,circles,butterfly_tree-1
+Oil,Circles,Butterfly Tree-10,,butterfly_tree,butterfly_tree-10.jpg,,,,,,,,,circles,butterfly_tree-10
+Oil,Circles,Butterfly Tree-11,,butterfly_tree,butterfly_tree-11.jpg,,,,,,,,,circles,butterfly_tree-11
+Oil,Circles,Butterfly Tree-12,,butterfly_tree,butterfly_tree-12.jpg,,,,,,,,,circles,butterfly_tree-12
+Oil,Circles,Butterfly Tree-13,,butterfly_tree,butterfly_tree-13.jpg,,,,,,,,,circles,butterfly_tree-13
+Oil,Circles,Butterfly Tree-2,,butterfly_tree,butterfly_tree-2.jpg,,,,,,,,,circles,butterfly_tree-2
+Oil,Circles,Butterfly Tree-3,,butterfly_tree,butterfly_tree-3.jpg,,,,,,,,,circles,butterfly_tree-3
+Oil,Circles,Butterfly Tree-4,,butterfly_tree,butterfly_tree-4.jpg,,,,,,,,,circles,butterfly_tree-4
+Oil,Circles,Butterfly Tree-5,,butterfly_tree,butterfly_tree-5.jpg,,,,,,,,,circles,butterfly_tree-5
+Oil,Circles,Butterfly Tree-6,,butterfly_tree,butterfly_tree-6.jpg,,,,,,,,,circles,butterfly_tree-6
+Oil,Circles,Butterfly Tree-7,,butterfly_tree,butterfly_tree-7.jpg,,,,,,,,,circles,butterfly_tree-7
+Oil,Circles,Butterfly Tree-8,,butterfly_tree,butterfly_tree-8.jpg,,,,,,,,,circles,butterfly_tree-8
+Oil,Circles,Butterfly Tree-9,,butterfly_tree,butterfly_tree-9.jpg,,,,,,,,,circles,butterfly_tree-9
+Oil,Circles,Butterfly Tree-detail-1,,butterfly_tree,butterfly_tree-detail-1.jpg,,,,,,,,,circles,butterfly_tree-detail-1
+Oil,Circles,Butterfly Tree-detail-2,,butterfly_tree,butterfly_tree-detail-2.jpg,,,,,,,,,circles,butterfly_tree-detail-2
+Oil,Circles,Butterfly Tree-detail-3,,butterfly_tree,butterfly_tree-detail-3.jpg,,,,,,,,,circles,butterfly_tree-detail-3
+Oil,Circles,Butterfly Tree-detail-4,,butterfly_tree,butterfly_tree-detail-4.jpg,,,,,,,,,circles,butterfly_tree-detail-4
+Oil,Circles,Butterfly Tree-round,,butterfly_tree,butterfly_tree-round.png,,,,,,,,,circles,butterfly_tree-round
+Oil,Circles,Daffodils-1,,daffodils,daffodils-1.jpg,,,,,,,,,circles,daffodils-1
+Oil,Circles,daffodils-1.jpeg,,daffodils.jpeg,,,,,,,,,,,daffodils-1
+Oil,Circles,Daffodils-2,,daffodils,daffodils-2.jpg,,,,,,,,,circles,daffodils-2
+Oil,Circles,daffodils-2.jpeg,,daffodils.jpeg,,,,,,,,,,,daffodils-2
+Oil,Circles,Fern Canyon Path Steps-1,,fern_canyon_path_steps,fern_canyon_path_steps-1.jpg,,,,,,,,,circles,fern_canyon_path_steps-1
+Oil,Circles,Fern Canyon Path Steps-2,,fern_canyon_path_steps,fern_canyon_path_steps-2.jpg,,,,,,,,,circles,fern_canyon_path_steps-2
+Oil,Circles,fern_canyon_path_steps-1.jpeg,,fern_canyon_path_steps.jpeg,,,,,,,,,,,fern_canyon_path_steps-1
+Oil,Circles,fern_canyon_path_steps-2.jpeg,,fern_canyon_path_steps.jpeg,,,,,,,,,,,fern_canyon_path_steps-2
+Oil,Circles,Frans Iris-1,,frans_iris,frans_iris-1.jpg,,,,,,,,,circles,frans_iris-1
+Oil,Circles,Frans Iris-2,,frans_iris,frans_iris-2.jpg,,,,,,,,,circles,frans_iris-2
+Oil,Circles,frans_iris-1.jpeg,,frans_iris.jpeg,,,,,,,,,,,frans_iris-1
+Oil,Circles,frans_iris-2.jpeg,,frans_iris.jpeg,,,,,,,,,,,frans_iris-2
 Oil,Circles,great-horned-owl,Img 6626,great-horned-owl,IMG_6626.jpeg,,,,,,,,,,
 Oil,Circles,great-horned-owl,Img 6627,great-horned-owl,IMG_6627.jpeg,,,,,,,,,,
 Oil,Circles,great-horned-owl,Img 2418,great-horned-owl,IMG_2418.jpeg,,,,,,,,,,
@@ -7,145 +243,50 @@ Oil,Circles,great-horned-owl,Img 2428,great-horned-owl,IMG_2428.jpeg,,,,,,,,,,
 Oil,Circles,great-horned-owl,Img 6693,great-horned-owl,IMG_6693.jpeg,,,,,,,,,,
 Oil,Circles,great-horned-owl,Img 6695,great-horned-owl,IMG_6695.jpeg,,,,,,,,,,
 Oil,Circles,great-horned-owl,Img 6696,great-horned-owl,IMG_6696.jpeg,,,,,,,,,,
-Oil,Circles,Great Horned Owl Watching Wind and Fire,TRUE,,great-horned-owl.jpeg,2023,Oil on Round Maple Panel,6,6,,,"Oil, Still Life",Photo,circles,great-horned-owl
-Oil,Circles,Under the Eucalyptus,TRUE,,under_the_eucalyptus.jpg,2023,Oil on Round Maple Panel,6,6,350,,"Oil, Still Life",Photo,circles,under_the_eucalyptus
+Oil,Circles,Gualala 6in-1,,gualala_6in,gualala_6in-1.jpg,,,,,,,,,circles,gualala_6in-1
+Oil,Circles,Gualala 6in-2,,gualala_6in,gualala_6in-2.jpg,,,,,,,,,circles,gualala_6in-2
+Oil,Circles,gualala_6in-1.jpeg,,gualala_6in.jpeg,,,,,,,,,,,gualala_6in-1
+Oil,Circles,gualala_6in-2.jpeg,,gualala_6in.jpeg,,,,,,,,,,,gualala_6in-2
+Oil,Circles,Initial Drawings-1,,butterfly_tree,initial_drawings-1.jpg,,,,,,,,,circles,initial_drawings-1
+Oil,Circles,Initial Drawings-2,,butterfly_tree,initial_drawings-2.jpg,,,,,,,,,circles,initial_drawings-2
+Oil,Circles,Morgan At 21-1,,morgan_at_21,morgan_at_21-1.jpg,,,,,,,,,circles,morgan_at_21-1
+Oil,Circles,Morgan At 21-2,,morgan_at_21,morgan_at_21-2.jpg,,,,,,,,,circles,morgan_at_21-2
+Oil,Circles,Morgan At 21-3,,morgan_at_21,morgan_at_21-3.jpg,,,,,,,,,circles,morgan_at_21-3
+Oil,Circles,morgan_at_21-1.jpeg,,morgan_at_21.jpeg,,,,,,,,,,,morgan_at_21-1
+Oil,Circles,morgan_at_21-2.jpeg,,morgan_at_21.jpeg,,,,,,,,,,,morgan_at_21-2
+Oil,Circles,morgan_at_21-3.jpeg,,morgan_at_21.jpeg,,,,,,,,,,,morgan_at_21-3
+Oil,Circles,Mothers-day-rose-1,,mothers_day_rose,mothers-day-rose-1.png,,,,,,,,,circles,mothers-day-rose-1
+Oil,Circles,Mothers-day-rose-2,,mothers_day_rose,mothers-day-rose-2.png,,,,,,,,,circles,mothers-day-rose-2
+Oil,Circles,Mothers-day-rose-3,,mothers_day_rose,mothers-day-rose-3.png,,,,,,,,,circles,mothers-day-rose-3
+Oil,Circles,Mothers-day-rose-4,,mothers_day_rose,mothers-day-rose-4.png,,,,,,,,,circles,mothers-day-rose-4
+Oil,Circles,Provincetown-1,,provincetown,provincetown-1.png,,,,,,,,,circles,provincetown-1
+Oil,Circles,Provincetown-2,,provincetown,provincetown-2.png,,,,,,,,,circles,provincetown-2
+Oil,Circles,Reflecting Pool Garden At Lewis and Clark-1,,reflecting_pool_garden_at_lewis_and_clark,reflecting_pool_garden_at_lewis_and_clark-1.jpg,,,,,,,,,circles,reflecting_pool_garden_at_lewis_and_clark-1
+Oil,Circles,Reflecting Pool Garden At Lewis and Clark-2,,reflecting_pool_garden_at_lewis_and_clark,reflecting_pool_garden_at_lewis_and_clark-2.jpg,,,,,,,,,circles,reflecting_pool_garden_at_lewis_and_clark-2
+Oil,Circles,Reflecting Pool Garden At Lewis and Clark-3,,reflecting_pool_garden_at_lewis_and_clark,reflecting_pool_garden_at_lewis_and_clark-3.jpg,,,,,,,,,circles,reflecting_pool_garden_at_lewis_and_clark-3
+Oil,Circles,Reflecting Pool Garden At Lewis and Clark-4,,reflecting_pool_garden_at_lewis_and_clark,reflecting_pool_garden_at_lewis_and_clark-4.jpg,,,,,,,,,circles,reflecting_pool_garden_at_lewis_and_clark-4
+Oil,Circles,reflecting_pool_garden_at_lewis_and_clark-1.jpeg,,reflecting_pool_garden_at_lewis_and_clark.jpeg,,,,,,,,,,,reflecting_pool_garden_at_lewis_and_clark-1
+Oil,Circles,reflecting_pool_garden_at_lewis_and_clark-2.jpeg,,reflecting_pool_garden_at_lewis_and_clark.jpeg,,,,,,,,,,,reflecting_pool_garden_at_lewis_and_clark-2
+Oil,Circles,reflecting_pool_garden_at_lewis_and_clark-3.jpeg,,reflecting_pool_garden_at_lewis_and_clark.jpeg,,,,,,,,,,,reflecting_pool_garden_at_lewis_and_clark-3
+Oil,Circles,reflecting_pool_garden_at_lewis_and_clark-4.jpeg,,reflecting_pool_garden_at_lewis_and_clark.jpeg,,,,,,,,,,,reflecting_pool_garden_at_lewis_and_clark-4
+Oil,Circles,Tree of Life Initial Drawing-1,,tree_of_life,tree_of_life_initial_drawing-1.jpg,,,,,,,,,circles,tree_of_life_initial_drawing-1
+Oil,Circles,Tree of Life Initial Drawing-2,,tree_of_life,tree_of_life_initial_drawing-2.jpg,,,,,,,,,circles,tree_of_life_initial_drawing-2
+Oil,Circles,Tree of Life-1,,tree_of_life,tree_of_life-1.jpg,,,,,,,,,circles,tree_of_life-1
+Oil,Circles,Tree of Life-2,,tree_of_life,tree_of_life-2.jpg,,,,,,,,,circles,tree_of_life-2
+Oil,Circles,Tree of Life-3,,tree_of_life,tree_of_life-3.jpg,,,,,,,,,circles,tree_of_life-3
+Oil,Circles,Tree of Life-4,,tree_of_life,tree_of_life-4.jpg,,,,,,,,,circles,tree_of_life-4
+Oil,Circles,Tree of Life-5,,tree_of_life,tree_of_life-5.jpg,,,,,,,,,circles,tree_of_life-5
+Oil,Circles,Tree of Life-detail-1,,tree_of_life,tree_of_life-detail-1.jpg,,,,,,,,,circles,tree_of_life-detail-1
+Oil,Circles,Tree of Life-detail-2,,tree_of_life,tree_of_life-detail-2.jpg,,,,,,,,,circles,tree_of_life-detail-2
+Oil,Circles,Tree of Life-detail-3,,tree_of_life,tree_of_life-detail-3.jpg,,,,,,,,,circles,tree_of_life-detail-3
 Oil,Circles,Under the Eucalyptus-1,,under_the_eucalyptus,under_the_eucalyptus-1.jpg,,,,,,,,,circles,under_the_eucalyptus-1
 Oil,Circles,Under the Eucalyptus-2,,under_the_eucalyptus,under_the_eucalyptus-2.jpg,,,,,,,,,circles,under_the_eucalyptus-2
 Oil,Circles,Under the Eucalyptus-3,,under_the_eucalyptus,under_the_eucalyptus-3.jpg,,,,,,,,,circles,under_the_eucalyptus-3
 Oil,Circles,Under the Eucalyptus-4,,under_the_eucalyptus,under_the_eucalyptus-4.jpg,,,,,,,,,circles,under_the_eucalyptus-4
 Oil,Circles,Under the Eucalyptus-5,,under_the_eucalyptus,under_the_eucalyptus-5.jpg,,,,,,,,,circles,under_the_eucalyptus-5
-Oil,Circles,Mother’s Day Rose,TRUE,,mothers_day_rose.png,2022,Oil on Round Maple Panel,8,8,600,,"Oil, Still Life",Photo,circles,mothers_day_rose
-Oil,Circles,Mothers-day-rose-1,,mothers_day_rose,mothers-day-rose-1.png,,,,,,,,,circles,mothers-day-rose-1
-Oil,Circles,Mothers-day-rose-2,,mothers_day_rose,mothers-day-rose-2.png,,,,,,,,,circles,mothers-day-rose-2
-Oil,Circles,Mothers-day-rose-3,,mothers_day_rose,mothers-day-rose-3.png,,,,,,,,,circles,mothers-day-rose-3
-Oil,Circles,Mothers-day-rose-4,,mothers_day_rose,mothers-day-rose-4.png,,,,,,,,,circles,mothers-day-rose-4
-Oil,Circles,Provincetown,TRUE,,provincetown.png,2022,Oil on Round Maple Panel,6,6,NFS,,"Oil, Still Life",Photo,circles,provincetown
-Oil,Circles,Butterfly Tree,TRUE,,butterfly_tree.png,2022,Oil on Round Maple Panel,16,16,Sold,,"Oil, Still Life",Photo,circles,butterfly_tree
-Oil,Circles,Tree of Life,TRUE,,tree_of_life.jpg,2021,Oil on Round Maple Panel,16,16,Sold,,"Oil, Still Life",Photo,circles,tree_of_life
-Oil,Circles,Iris,,,Iris.jpg,2021,Oil on Round Maple Panel,8,8,475,,"Oil, Still Life",Photo,circles,iris
-Oil,Circles,Morgan at 21,TRUE,,morgan_at_21.png,2021,Oil on Round Maple Panel,6,6,NFS,,"Oil, Portraits",Photo,circles,morgan_at_21
-Oil,Circles,Faerie Woods,,,faerie_woods.jpg,2021,Oil on Round Maple Panel,6,6,400,,"Oil, Landscape",Photo,circles,faerie_woods
-Oil,Circles,Golden Rose,,,golden_rose.jpg,2021,Oil on Round Maple Panel,6,6,400,,"Oil, Landscape",Photo,circles,golden_rose
-Oil,Circles,Reaching for the Buckyball,,,reaching_for_the_buckyball.jpg,2021,Oil on Round Maple Panel,8,8,475,,"Oil, Nature",Photo,circles,reaching_for_the_buckyball
-Oil,Circles,Fern Canyon Path Steps,TRUE,,fern_canyon_path_steps.png,2021,Oil on Round Maple Panel,6,6,400,,"Oil, Landscape",Photo,circles,fern_canyon_path_steps
-Oil,Circles,Fran's Iris,TRUE,,frans_iris.png,2021,Oil on Round Maple Panel,6,6,Sold,,"Oil, Still Life",Photo,circles,frans_iris
-Oil,Circles,Beatriz,TRUE,,beatriz.png,2021,Oil on Round Maple Panel,6,6,NFS,,"Oil, Portraits",Photo,circles,beatriz
-Oil,Circles,Daffodils,TRUE,,daffodils.png,2021,Oil on Round Maple Panel,6,6,Sold,,"Oil, Still Life",Photo,circles,daffodils
-Oil,Circles,Gualala,TRUE,,gualala_6in.png,2021,Oil on Round Maple Panel,6,6,Sold,,"Oil, Landscape",Photo,circles,gualala_6in
-Oil,Circles,Reflecting Pool Garden at Lewis and Clark,TRUE,,reflecting_pool_garden_at_lewis_and_clark.png,2021,Oil on Round Maple Panel,6,6,Sold,,"Oil, Landscape",Photo,circles,reflecting_pool_garden_at_lewis_and_clark
-Oil,Circles,Provincetown-1,,provincetown,provincetown-1.png,,,,,,,,,circles,provincetown-1
-Oil,Circles,Provincetown-2,,provincetown,provincetown-2.png,,,,,,,,,circles,provincetown-2
-oil,Circles,Butterfly Tree-1,,butterfly_tree,butterfly_tree-1.jpg,,,,,,,,,circles,butterfly_tree-1
-oil,Circles,Butterfly Tree-10,,butterfly_tree,butterfly_tree-10.jpg,,,,,,,,,circles,butterfly_tree-10
-oil,Circles,Butterfly Tree-11,,butterfly_tree,butterfly_tree-11.jpg,,,,,,,,,circles,butterfly_tree-11
-oil,Circles,Butterfly Tree-12,,butterfly_tree,butterfly_tree-12.jpg,,,,,,,,,circles,butterfly_tree-12
-oil,Circles,Butterfly Tree-13,,butterfly_tree,butterfly_tree-13.jpg,,,,,,,,,circles,butterfly_tree-13
-oil,Circles,Butterfly Tree-2,,butterfly_tree,butterfly_tree-2.jpg,,,,,,,,,circles,butterfly_tree-2
-oil,Circles,Butterfly Tree-3,,butterfly_tree,butterfly_tree-3.jpg,,,,,,,,,circles,butterfly_tree-3
-oil,Circles,Butterfly Tree-4,,butterfly_tree,butterfly_tree-4.jpg,,,,,,,,,circles,butterfly_tree-4
-oil,Circles,Butterfly Tree-5,,butterfly_tree,butterfly_tree-5.jpg,,,,,,,,,circles,butterfly_tree-5
-oil,Circles,Butterfly Tree-6,,butterfly_tree,butterfly_tree-6.jpg,,,,,,,,,circles,butterfly_tree-6
-oil,Circles,Butterfly Tree-7,,butterfly_tree,butterfly_tree-7.jpg,,,,,,,,,circles,butterfly_tree-7
-oil,Circles,Butterfly Tree-8,,butterfly_tree,butterfly_tree-8.jpg,,,,,,,,,circles,butterfly_tree-8
-oil,Circles,Butterfly Tree-9,,butterfly_tree,butterfly_tree-9.jpg,,,,,,,,,circles,butterfly_tree-9
-oil,Circles,Butterfly Tree-detail-1,,butterfly_tree,butterfly_tree-detail-1.jpg,,,,,,,,,circles,butterfly_tree-detail-1
-oil,Circles,Butterfly Tree-detail-2,,butterfly_tree,butterfly_tree-detail-2.jpg,,,,,,,,,circles,butterfly_tree-detail-2
-oil,Circles,Butterfly Tree-detail-3,,butterfly_tree,butterfly_tree-detail-3.jpg,,,,,,,,,circles,butterfly_tree-detail-3
-oil,Circles,Butterfly Tree-detail-4,,butterfly_tree,butterfly_tree-detail-4.jpg,,,,,,,,,circles,butterfly_tree-detail-4
-oil,Circles,Butterfly Tree-round,,butterfly_tree,butterfly_tree-round.png,,,,,,,,,circles,butterfly_tree-round
-oil,Circles,Initial Drawings-1,,butterfly_tree,initial_drawings-1.jpg,,,,,,,,,circles,initial_drawings-1
-oil,Circles,Initial Drawings-2,,butterfly_tree,initial_drawings-2.jpg,,,,,,,,,circles,initial_drawings-2
-oil,Circles,Daffodils-1,,daffodils,daffodils-1.jpg,,,,,,,,,circles,daffodils-1
-oil,Circles,Daffodils-2,,daffodils,daffodils-2.jpg,,,,,,,,,circles,daffodils-2
-oil,Circles,Fern Canyon Path Steps-1,,fern_canyon_path_steps,fern_canyon_path_steps-1.jpg,,,,,,,,,circles,fern_canyon_path_steps-1
-oil,Circles,Fern Canyon Path Steps-2,,fern_canyon_path_steps,fern_canyon_path_steps-2.jpg,,,,,,,,,circles,fern_canyon_path_steps-2
-oil,Circles,Frans Iris-1,,frans_iris,frans_iris-1.jpg,,,,,,,,,circles,frans_iris-1
-oil,Circles,Frans Iris-2,,frans_iris,frans_iris-2.jpg,,,,,,,,,circles,frans_iris-2
-oil,Circles,Gualala 6in-1,,gualala_6in,gualala_6in-1.jpg,,,,,,,,,circles,gualala_6in-1
-oil,Circles,Gualala 6in-2,,gualala_6in,gualala_6in-2.jpg,,,,,,,,,circles,gualala_6in-2
-oil,Circles,Morgan At 21-1,,morgan_at_21,morgan_at_21-1.jpg,,,,,,,,,circles,morgan_at_21-1
-oil,Circles,Morgan At 21-2,,morgan_at_21,morgan_at_21-2.jpg,,,,,,,,,circles,morgan_at_21-2
-oil,Circles,Morgan At 21-3,,morgan_at_21,morgan_at_21-3.jpg,,,,,,,,,circles,morgan_at_21-3
-oil,Circles,Reflecting Pool Garden At Lewis and Clark-1,,reflecting_pool_garden_at_lewis_and_clark,reflecting_pool_garden_at_lewis_and_clark-1.jpg,,,,,,,,,circles,reflecting_pool_garden_at_lewis_and_clark-1
-oil,Circles,Reflecting Pool Garden At Lewis and Clark-2,,reflecting_pool_garden_at_lewis_and_clark,reflecting_pool_garden_at_lewis_and_clark-2.jpg,,,,,,,,,circles,reflecting_pool_garden_at_lewis_and_clark-2
-oil,Circles,Reflecting Pool Garden At Lewis and Clark-3,,reflecting_pool_garden_at_lewis_and_clark,reflecting_pool_garden_at_lewis_and_clark-3.jpg,,,,,,,,,circles,reflecting_pool_garden_at_lewis_and_clark-3
-oil,Circles,Reflecting Pool Garden At Lewis and Clark-4,,reflecting_pool_garden_at_lewis_and_clark,reflecting_pool_garden_at_lewis_and_clark-4.jpg,,,,,,,,,circles,reflecting_pool_garden_at_lewis_and_clark-4
-oil,Circles,Tree of Life-1,,tree_of_life,tree_of_life-1.jpg,,,,,,,,,circles,tree_of_life-1
-oil,Circles,Tree of Life-2,,tree_of_life,tree_of_life-2.jpg,,,,,,,,,circles,tree_of_life-2
-oil,Circles,Tree of Life-3,,tree_of_life,tree_of_life-3.jpg,,,,,,,,,circles,tree_of_life-3
-oil,Circles,Tree of Life-4,,tree_of_life,tree_of_life-4.jpg,,,,,,,,,circles,tree_of_life-4
-oil,Circles,Tree of Life-5,,tree_of_life,tree_of_life-5.jpg,,,,,,,,,circles,tree_of_life-5
-oil,Circles,Tree of Life-detail-1,,tree_of_life,tree_of_life-detail-1.jpg,,,,,,,,,circles,tree_of_life-detail-1
-oil,Circles,Tree of Life-detail-2,,tree_of_life,tree_of_life-detail-2.jpg,,,,,,,,,circles,tree_of_life-detail-2
-oil,Circles,Tree of Life-detail-3,,tree_of_life,tree_of_life-detail-3.jpg,,,,,,,,,circles,tree_of_life-detail-3
-oil,Circles,Tree of Life Initial Drawing-1,,tree_of_life,tree_of_life_initial_drawing-1.jpg,,,,,,,,,circles,tree_of_life_initial_drawing-1
-oil,Circles,Tree of Life Initial Drawing-2,,tree_of_life,tree_of_life_initial_drawing-2.jpg,,,,,,,,,circles,tree_of_life_initial_drawing-2
-oil,Circles,Beatriz-1,,beatriz,beatriz-1.jpg,,,,,,,,,circles,beatriz-1
-oil,Circles,Beatriz-2,,beatriz,beatriz-2.jpg,,,,,,,,,circles,beatriz-2
-oil,Circles,Beatriz-3,,beatriz,beatriz-3.jpg,,,,,,,,,circles,beatriz-3
-Oil,Circles,daffodils-1.jpeg,,daffodils.jpeg,,,,,,,,,,,daffodils-1
-Oil,Circles,daffodils-2.jpeg,,daffodils.jpeg,,,,,,,,,,,daffodils-2
-Oil,Circles,fern_canyon_path_steps-1.jpeg,,fern_canyon_path_steps.jpeg,,,,,,,,,,,fern_canyon_path_steps-1
-Oil,Circles,fern_canyon_path_steps-2.jpeg,,fern_canyon_path_steps.jpeg,,,,,,,,,,,fern_canyon_path_steps-2
-Oil,Circles,frans_iris-1.jpeg,,frans_iris.jpeg,,,,,,,,,,,frans_iris-1
-Oil,Circles,frans_iris-2.jpeg,,frans_iris.jpeg,,,,,,,,,,,frans_iris-2
-Oil,Circles,gualala_6in-1.jpeg,,gualala_6in.jpeg,,,,,,,,,,,gualala_6in-1
-Oil,Circles,gualala_6in-2.jpeg,,gualala_6in.jpeg,,,,,,,,,,,gualala_6in-2
-Oil,Circles,morgan_at_21-1.jpeg,,morgan_at_21.jpeg,,,,,,,,,,,morgan_at_21-1
-Oil,Circles,morgan_at_21-2.jpeg,,morgan_at_21.jpeg,,,,,,,,,,,morgan_at_21-2
-Oil,Circles,morgan_at_21-3.jpeg,,morgan_at_21.jpeg,,,,,,,,,,,morgan_at_21-3
-Oil,Circles,reflecting_pool_garden_at_lewis_and_clark-1.jpeg,,reflecting_pool_garden_at_lewis_and_clark.jpeg,,,,,,,,,,,reflecting_pool_garden_at_lewis_and_clark-1
-Oil,Circles,reflecting_pool_garden_at_lewis_and_clark-2.jpeg,,reflecting_pool_garden_at_lewis_and_clark.jpeg,,,,,,,,,,,reflecting_pool_garden_at_lewis_and_clark-2
-Oil,Circles,reflecting_pool_garden_at_lewis_and_clark-3.jpeg,,reflecting_pool_garden_at_lewis_and_clark.jpeg,,,,,,,,,,,reflecting_pool_garden_at_lewis_and_clark-3
-Oil,Circles,reflecting_pool_garden_at_lewis_and_clark-4.jpeg,,reflecting_pool_garden_at_lewis_and_clark.jpeg,,,,,,,,,,,reflecting_pool_garden_at_lewis_and_clark-4
-Oil,Landscapes,Inside the Cyprus Tree 1,,inside-the-cyprus-tree,IMG_1526.jpeg,,,,,,,,,,
-Oil,Landscapes,Inside the Cyprus Tree 2,,inside-the-cyprus-tree,IMG_1528.jpeg,,,,,,,,,,
-Oil,Landscapes,Inside the Cyprus Tree 3,,inside-the-cyprus-tree,IMG_1543.jpeg,,,,,,,,,,
-Oil,Landscapes,Inside the Cyprus Tree 4,,inside-the-cyprus-tree,IMG_4493.jpeg,,,,,,,,,,
-Oil,Landscapes,Inside the Cyprus Tree 5,,inside-the-cyprus-tree,IMG_4533.jpeg,,,,,,,,,,
-Oil,Landscapes,Inside the Cyprus Tree,TRUE,,inside-the-cyprus-tree.jpg,2023,Oil on Panel,6,6,,,"Oil, Landscape",Photo,landscapes,inside-the-cyprus-tree
-Oil,Landscapes,Ocean Rhythms,,,ocean_rhythms.png,2022,Oil on Panel,7,5,400,,"Oil, Landscape",Photo,landscapes,ocean_rhythms
-Oil,Landscapes,A Little Mussel Painting,TRUE,,a_little_mussel_painting.png,2022,Oil on Panel,7,5,400,,"Oil, Landscape",Photo,landscapes,a_little_mussel_painting
-Oil,Landscapes,Garden Wall,,,garden_wall.png,2022,Oil on Panel,5,7,400,,"Oil, Landscape",Photo,landscapes,garden_wall
-Oil,Landscapes,Path through the Cypress Hole,,,path_through_the_cypress_hole.jpg,2020,Oil on Panel,20,16,1500,1100,"Oil, Landscape",Photo,landscapes,path_through_the_cypress_hole
-Oil,Landscapes,Grizzly Peak 5:06 PM,,,grizzly_peak_5_06_pm.jpg,2020,Oil on Panel,24,6,695,,"Oil, Landscape",,landscapes,grizzly_peak_5_06_pm
-Oil,Landscapes,Grizzly Peak 5:17 PM,,,grizzly_peak_5_17_pm.jpg,2020,Oil on Panel,24,6,695,,"Oil, Landscape",,landscapes,grizzly_peak_5_17_pm
-Oil,Landscapes,The Tea Garden Path,,,the_tea_garden_path.jpg,2019,Oil on Panel,10,10,475,,"Oil, Landscape",Photo,landscapes,the_tea_garden_path
-Oil,Landscapes,A Twist of Nature,,,a_twist_of_nature.tif,2019,Oil on Panel,24,24,1800,,"Oil, Landscape",Custom Photographic,landscapes,a_twist_of_nature
-Oil,Landscapes,Trinidad Sunset In the Summer of Fires,,,trinidad_sunset.tif,2019,Oil on Panel,18,24,,,"Oil, Landscape",Custom Photographic,landscapes,trinidad_sunset
-Oil,Landscapes,Monterey,,,monterey.tif,2018,Oil on Panel,10,10,475,,Oil,Custom Photographic,landscapes,monterey
-Oil,Landscapes,Monterey Visitor,,,monterey_visitor.tif,2018,Oil on Panel,24,36,1950,,Oil,Custom Photographic,landscapes,monterey_visitor
-Oil,Landscapes,La Rambla,,,la_rambla.jpg,2018,Oil on Panel,24,36,2500,1800,Oil,Photo,landscapes,la_rambla
-Oil,Landscapes,Girl Up a Tree,,,girl_up_a_tree.jpg,2018,Oil on Masonite,24,60,NFS,,Oil,Photo,landscapes,girl_up_a_tree
-Oil,Landscapes,No Cherry Blossoms Today,,,no_cherry_blossoms_today.tif,2018,Oil on Panel,36,24,,,Oil,,landscapes,no_cherry_blossoms_today
-Oil,Landscapes,Autumn Jewels,TRUE,,morgans_leaves.tif,2017,Oil on Masonite,8,10,NFS,,"Oil, Landscape",Scan from Printer,landscapes,morgans_leaves
-Oil,Landscapes,Cold Shoulder At Rapunzels Tower,TRUE,,Cold_Shoulder_at_Rapunzels_Tower.tif,2017,Oil on Masonite,16,30,1500,,"Oil, Landscape",,landscapes,cold_shoulder_at_rapunzels_tower
-Oil,Landscapes,Follow Me,TRUE,,follow_me.tif,2017,Oil on Masonite,30,30,2600,,"Oil, Landscape",,landscapes,follow_me
-Oil,Landscapes,Madrone Dryad,TRUE,,madrone_dryad.tif,2017,Oil on Masonite,16,20,1500,1100,"Oil, Landscape",Custom Photographic,landscapes,madrone_dryad
-Oil,Landscapes,Secret Garden of Earthly Delights,,,Secret Garden of Earthly Delights.jpg,2017,Oil on Masonite,20,16,1500,,,,landscapes,secret_garden_of_earthly_delights
-Oil,Landscapes,Spengler Path,TRUE,,spengler_path.tif,2017,Oil on Masonite,16,20,1200,,,,landscapes,spengler_path
-Oil,Landscapes,Img 6659,,cold_shoulder_at_rapunzels_tower,IMG_6659.jpg,2017,Oil on Masonite,16,30,,,,,landscapes,img_6659
-Oil,Landscapes,Shadows on My Path,TRUE,,shadows_on_my_path.tif,2016,Oil on Masonite,32,48,3600,2800,"Oil, Landscape",Custom Photographic,landscapes,shadows_on_my_path
-Oil,Landscapes,The Wind in My Branches,TRUE,,the_wind_in_my_branches.tif,2016,Oil on Masonite,48,36,3600,1900,"Oil, Landscape",Custom Photographic,landscapes,the_wind_in_my_branches
-Oil,Landscapes,The Wind in My Branches v1,,the_wind_in_my_branches,the_wind_in_my_branches_v1.tif,2016,Oil on Masonite,48,36,,,"Oil, Landscape",Custom Photographic,landscapes,the_wind_in_my_branches_v1
-Oil,Landscapes,Amalfi Coast,,,amalfi_coast.tif,2015,Oil on Masonite,24,60,,,"Oil, Italy, Landscape",Custom Photographic,landscapes,amalfi_coast
-Oil,Landscapes,Briones Through My Window,,,briones_through_my_window.png,2015,Oil on Masonite,72,48,8000,,"Oil, Landscape, Wide",Custom Photographic,landscapes,briones_through_my_window
-Oil,Landscapes,Sunset,TRUE,,sunset.tif,2015,Oil on Masonite,60,24,,,"Oil, Landscape",Photo (large),landscapes,sunset
-Oil,Landscapes,Eucylptus Bark,,,eucylptus.tif,2014,Oil on Masonite,16,20,850,,"Oil, Landscape",Photo,landscapes,eucylptus
-Oil,Landscapes,Snow on Mount Diablo,,,snow_on_mount_diablo.tif,2014,Oil on Masonite,24,36,,,"Oil, Landscape",Custom Photographic,landscapes,snow_on_mount_diablo
-Oil,Landscapes,Tuscan Path,,,tuscan_path.tif,2014,Oil on Masonite,24,60,,,"Oil, Italy, Landscape",Custom Photographic,landscapes,tuscan_path
-Oil,Landscapes,Venice Canal,,,venice_canal.tif,2014,Oil on Masonite,24,60,,,"Oil, Italy, Landscape",Custom Photographic,landscapes,venice_canal
-Oil,Landscapes,In a Tuscan Town,TRUE,,in_a_tuscan_town.tif,2013,Oil on Masonite,24,60,,,"Oil, Italy, Landscape",Custom Photographic,landscapes,in_a_tuscan_town
-Oil,Landscapes,In a Tuscan Town (Beginning),,in_a_tuscan_town,in_a_tuscan_town-underpaint.jpg,2013,Oil on Masonite,24,60,,,"Oil, Italy, Landscapes, Progressions",Photo,landscapes,in_a_tuscan_town-underpaint
-Oil,Landscapes,In a Tuscan Town (Sepia Layer),,in_a_tuscan_town,in_a_tuscan_town-sepia.jpg,2013,Oil on Masonite,24,60,,,"Oil, Italy, Landscapes, Progressions",Photo,landscapes,in_a_tuscan_town-sepia
-Oil,Landscapes,Mendocino Coast Sunset,,,mendocino_coast_sunset.tif,2012,Oil on Masonite,24,30,,,"Oil, Landscape",Custom Photographic,landscapes,mendocino_coast_sunset
-Oil,Landscapes,Irish Garden,,,irish_garden.tif,2010,Oil on Masonite,16,20,,,"Oil, Landscape",Custom Photographic,landscapes,irish_garden
-Oil,Landscapes,Italian Portico,,,italian_portico.tif,2006,Oil on Masonite,15,20,,,"Oil, Italy, Architecture, Pets and Animals",Custom Photographic,landscapes,italian_portico
-Oil,Landscapes,A Little Mussel Painting-1,,a_little_mussel_painting,a_little_mussel_painting-1.png,,,,,,,,,landscapes,a_little_mussel_painting-1
-Oil,Landscapes,A Little Mussel Painting-2,,a_little_mussel_painting,a_little_mussel_painting-2.png,,,,,,,,,landscapes,a_little_mussel_painting-2
-Oil,Landscapes,A Little Mussel Painting-3,,a_little_mussel_painting,a_little_mussel_painting-3.png,,,,,,,,,landscapes,a_little_mussel_painting-3
-Oil,Landscapes,Banyan Tree,TRUE,,banyan_tree.tif,2017,Oil on Masonite,24,30,,,"Oil, Landscape",Photo,landscapes,banyan_tree
+Oil,Landscapes,Garden Wall-1,,garden_wall,garden_wall-1.jpg,,,,,,,,,landscapes,garden_wall-1
 Oil,Landscapes,Img 0036,,banyan_tree,IMG_0036.jpg,,,,,,,,,landscapes,img_0036
+Oil,Landscapes,Img 0243,,monterey_visitor,IMG_0243.jpg,,,,,,,,,landscapes,img_0243
 Oil,Landscapes,Img 1679,,briones_through_my_window,IMG_1679.jpg,,,,,,,,,landscapes,img_1679
 Oil,Landscapes,Img 1680,,briones_through_my_window,IMG_1680.jpg,,,,,,,,,landscapes,img_1680
 Oil,Landscapes,Img 1681,,briones_through_my_window,IMG_1681.jpg,,,,,,,,,landscapes,img_1681
@@ -239,6 +380,23 @@ Oil,Landscapes,Img 5882,,the_wind_in_my_branches,IMG_5882.jpg,,,,,,,,,landscapes
 Oil,Landscapes,Img 5883,,the_wind_in_my_branches,IMG_5883.jpg,,,,,,,,,landscapes,img_5883
 Oil,Landscapes,Img 5884,,the_wind_in_my_branches,IMG_5884.jpg,,,,,,,,,landscapes,img_5884
 Oil,Landscapes,Img 5899,,the_wind_in_my_branches,IMG_5899.jpg,,,,,,,,,landscapes,img_5899
+Oil,Landscapes,Img 5900,,girl_up_a_tree,IMG_5900.jpg,,,,,,,,,landscapes,img_5900
+Oil,Landscapes,Img 5901,,girl_up_a_tree,IMG_5901.jpg,,,,,,,,,landscapes,img_5901
+Oil,Landscapes,Img 5904,,girl_up_a_tree,IMG_5904.jpg,,,,,,,,,landscapes,img_5904
+Oil,Landscapes,Img 5905,,girl_up_a_tree,IMG_5905.jpg,,,,,,,,,landscapes,img_5905
+Oil,Landscapes,Img 5906,,girl_up_a_tree,IMG_5906.jpg,,,,,,,,,landscapes,img_5906
+Oil,Landscapes,Img 5907,,girl_up_a_tree,IMG_5907.jpg,,,,,,,,,landscapes,img_5907
+Oil,Landscapes,Img 5918,,girl_up_a_tree,IMG_5918.jpg,,,,,,,,,landscapes,img_5918
+Oil,Landscapes,Img 5919,,girl_up_a_tree,IMG_5919.jpg,,,,,,,,,landscapes,img_5919
+Oil,Landscapes,Img 5925,,girl_up_a_tree,IMG_5925.jpg,,,,,,,,,landscapes,img_5925
+Oil,Landscapes,Img 5926,,girl_up_a_tree,IMG_5926.jpg,,,,,,,,,landscapes,img_5926
+Oil,Landscapes,Img 5929,,girl_up_a_tree,IMG_5929.jpg,,,,,,,,,landscapes,img_5929
+Oil,Landscapes,Img 5939,,girl_up_a_tree,IMG_5939.jpg,,,,,,,,,landscapes,img_5939
+Oil,Landscapes,Img 5942,,girl_up_a_tree,IMG_5942.jpg,,,,,,,,,landscapes,img_5942
+Oil,Landscapes,Img 5943,,girl_up_a_tree,IMG_5943.jpg,,,,,,,,,landscapes,img_5943
+Oil,Landscapes,Img 6039,,girl_up_a_tree,IMG_6039.jpg,,,,,,,,,landscapes,img_6039
+Oil,Landscapes,Img 6122,,girl_up_a_tree,IMG_6122.jpg,,,,,,,,,landscapes,img_6122
+Oil,Landscapes,Img 6127,,girl_up_a_tree,IMG_6127.jpg,,,,,,,,,landscapes,img_6127
 Oil,Landscapes,Img 6220,,morgans_leaves,IMG_6220.jpg,,,,,,,,,landscapes,img_6220
 Oil,Landscapes,Img 6237,,morgans_leaves,IMG_6237.jpg,,,,,,,,,landscapes,img_6237
 Oil,Landscapes,Img 6245,,morgans_leaves,IMG_6245.jpg,,,,,,,,,landscapes,img_6245
@@ -360,7 +518,55 @@ Oil,Landscapes,Img 7585,,spengler_path,IMG_7585.jpg,,,,,,,,,landscapes,img_7585
 Oil,Landscapes,Img 7586,,spengler_path,IMG_7586.jpg,,,,,,,,,landscapes,img_7586
 Oil,Landscapes,Img 7589,,spengler_path,IMG_7589.jpg,,,,,,,,,landscapes,img_7589
 Oil,Landscapes,Img 7592,,spengler_path,IMG_7592.jpg,,,,,,,,,landscapes,img_7592
-Oil,Landscapes,Shadows In My Past,,,shadows_in_my_past.tif,2017,Oil on Masonite,20,15,,,"Oil, Landscape",Photo,landscapes,shadows_in_my_past
+Oil,Landscapes,Img 7956,,monterey_visitor,IMG_7956.jpg,,,,,,,,,landscapes,img_7956
+Oil,Landscapes,Img 7959,,monterey_visitor,IMG_7959.jpg,,,,,,,,,landscapes,img_7959
+Oil,Landscapes,Img 7995,,monterey_visitor,IMG_7995.jpg,,,,,,,,,landscapes,img_7995
+Oil,Landscapes,Img 7996,,monterey_visitor,IMG_7996.jpg,,,,,,,,,landscapes,img_7996
+Oil,Landscapes,Img 7997,,monterey_visitor,IMG_7997.jpg,,,,,,,,,landscapes,img_7997
+Oil,Landscapes,Img 8003,,monterey_visitor,IMG_8003.jpg,,,,,,,,,landscapes,img_8003
+Oil,Landscapes,Img 8006,,monterey_visitor,IMG_8006.jpg,,,,,,,,,landscapes,img_8006
+Oil,Landscapes,Img 8009,,monterey_visitor,IMG_8009.jpg,,,,,,,,,landscapes,img_8009
+Oil,Landscapes,Img 8010,,monterey_visitor,IMG_8010.jpg,,,,,,,,,landscapes,img_8010
+Oil,Landscapes,Img 8012,,monterey_visitor,IMG_8012.jpg,,,,,,,,,landscapes,img_8012
+Oil,Landscapes,Img 8013,,monterey_visitor,IMG_8013.jpg,,,,,,,,,landscapes,img_8013
+Oil,Landscapes,Img 8014,,monterey_visitor,IMG_8014.jpg,,,,,,,,,landscapes,img_8014
+Oil,Landscapes,Img 8016,,monterey_visitor,IMG_8016.jpg,,,,,,,,,landscapes,img_8016
+Oil,Landscapes,Img 8018,,monterey_visitor,IMG_8018.jpg,,,,,,,,,landscapes,img_8018
+Oil,Landscapes,Img 8019,,monterey_visitor,IMG_8019.jpg,,,,,,,,,landscapes,img_8019
+Oil,Landscapes,Img 8024,,monterey_visitor,IMG_8024.jpg,,,,,,,,,landscapes,img_8024
+Oil,Landscapes,Img 8025,,monterey_visitor,IMG_8025.jpg,,,,,,,,,landscapes,img_8025
+Oil,Landscapes,Img 8027,,monterey_visitor,IMG_8027.jpg,,,,,,,,,landscapes,img_8027
+Oil,Landscapes,Img 8044,,monterey,IMG_8044.jpg,,,,,,,,,landscapes,img_8044
+Oil,Landscapes,Img 8045,,monterey_visitor,IMG_8045.jpg,,,,,,,,,landscapes,img_8045
+Oil,Landscapes,Img 8048,,monterey_visitor,IMG_8048.jpg,,,,,,,,,landscapes,img_8048
+Oil,Landscapes,Img 8049,,monterey_visitor,IMG_8049.jpg,,,,,,,,,landscapes,img_8049
+Oil,Landscapes,Img 8062,,monterey_visitor,IMG_8062.jpg,,,,,,,,,landscapes,img_8062
+Oil,Landscapes,Img 8092,,monterey,IMG_8092.jpg,,,,,,,,,landscapes,img_8092
+Oil,Landscapes,Img 8099,,monterey,IMG_8099.jpg,,,,,,,,,landscapes,img_8099
+Oil,Landscapes,Img 8100,,monterey,IMG_8100.jpg,,,,,,,,,landscapes,img_8100
+Oil,Landscapes,Img 8101,,monterey,IMG_8101.jpg,,,,,,,,,landscapes,img_8101
+Oil,Landscapes,Img 8102,,monterey,IMG_8102.jpg,,,,,,,,,landscapes,img_8102
+Oil,Landscapes,Img 8123,,monterey_visitor,IMG_8123.jpg,,,,,,,,,landscapes,img_8123
+Oil,Landscapes,Img 8124,,monterey_visitor,IMG_8124.jpg,,,,,,,,,landscapes,img_8124
+Oil,Landscapes,Img 8125,,la_rambla,IMG_8125.jpg,,,,,,,,,landscapes,img_8125
+Oil,Landscapes,Img 8132,,la_rambla,IMG_8132.jpg,,,,,,,,,landscapes,img_8132
+Oil,Landscapes,Img 8134,,la_rambla,IMG_8134.jpg,,,,,,,,,landscapes,img_8134
+Oil,Landscapes,Img 8135,,la_rambla,IMG_8135.jpg,,,,,,,,,landscapes,img_8135
+Oil,Landscapes,Img 8137,,la_rambla,IMG_8137.jpg,,,,,,,,,landscapes,img_8137
+Oil,Landscapes,Img 8256,,la_rambla,IMG_8256.jpg,,,,,,,,,landscapes,img_8256
+Oil,Landscapes,Img 8261,,la_rambla,IMG_8261.jpg,,,,,,,,,landscapes,img_8261
+Oil,Landscapes,Img 9469,,girl_up_a_tree,IMG_9469.jpg,,,,,,,,,landscapes,img_9469
+Oil,Landscapes,Img 9473,,girl_up_a_tree,IMG_9473.jpg,,,,,,,,,landscapes,img_9473
+Oil,Landscapes,Img 9474,,girl_up_a_tree,IMG_9474.jpg,,,,,,,,,landscapes,img_9474
+Oil,Landscapes,Img 9484,,girl_up_a_tree,IMG_9484.jpg,,,,,,,,,landscapes,img_9484
+Oil,Landscapes,Inside the Cyprus Tree 1,,inside-the-cyprus-tree,IMG_1526.jpeg,,,,,,,,,,
+Oil,Landscapes,Inside the Cyprus Tree 2,,inside-the-cyprus-tree,IMG_1528.jpeg,,,,,,,,,,
+Oil,Landscapes,Inside the Cyprus Tree 3,,inside-the-cyprus-tree,IMG_1543.jpeg,,,,,,,,,,
+Oil,Landscapes,Inside the Cyprus Tree 4,,inside-the-cyprus-tree,IMG_4493.jpeg,,,,,,,,,,
+Oil,Landscapes,Inside the Cyprus Tree 5,,inside-the-cyprus-tree,IMG_4533.jpeg,,,,,,,,,,
+Oil,Landscapes,Monterey,TRUE,monterey,monterey.jpg,,,,,,,,,landscapes,monterey
+Oil,Landscapes,Monterey Visitor,TRUE,monterey_visitor,monterey_visitor.jpg,,,,,,,,,landscapes,monterey_visitor
+Oil,Landscapes,Ocean Rythms-1,,ocean_rhythms,ocean_rythms-1.jpg,,,,,,,,,landscapes,ocean_rythms-1
 Oil,Landscapes,Shadows On My Path,TRUE,shadows_on_my_path,shadows_on_my_path.jpg,,Oil on Masonite,,,,,,,landscapes,shadows_on_my_path
 Oil,Landscapes,Sunset 1,,sunset,sunset_1.jpg,,,,,,,,,landscapes,sunset_1
 Oil,Landscapes,Sunset 2,,sunset,sunset_2.jpg,,,,,,,,,landscapes,sunset_2
@@ -369,105 +575,11 @@ Oil,Landscapes,Sunset 4,,sunset,sunset_4.jpg,,,,,,,,,landscapes,sunset_4
 Oil,Landscapes,Sunset 5,,sunset,sunset_5.jpg,,,,,,,,,landscapes,sunset_5
 Oil,Landscapes,Sunset 6,,sunset,sunset_6.jpg,,,,,,,,,landscapes,sunset_6
 Oil,Landscapes,Sunset 7,,sunset,sunset_7.jpg,,,,,,,,,landscapes,sunset_7
-oil,Landscapes,Garden Wall-1,,garden_wall,garden_wall-1.jpg,,,,,,,,,landscapes,garden_wall-1
-oil,Landscapes,Img 5900,,girl_up_a_tree,IMG_5900.jpg,,,,,,,,,landscapes,img_5900
-oil,Landscapes,Img 5901,,girl_up_a_tree,IMG_5901.jpg,,,,,,,,,landscapes,img_5901
-oil,Landscapes,Img 5904,,girl_up_a_tree,IMG_5904.jpg,,,,,,,,,landscapes,img_5904
-oil,Landscapes,Img 5905,,girl_up_a_tree,IMG_5905.jpg,,,,,,,,,landscapes,img_5905
-oil,Landscapes,Img 5906,,girl_up_a_tree,IMG_5906.jpg,,,,,,,,,landscapes,img_5906
-oil,Landscapes,Img 5907,,girl_up_a_tree,IMG_5907.jpg,,,,,,,,,landscapes,img_5907
-oil,Landscapes,Img 5918,,girl_up_a_tree,IMG_5918.jpg,,,,,,,,,landscapes,img_5918
-oil,Landscapes,Img 5919,,girl_up_a_tree,IMG_5919.jpg,,,,,,,,,landscapes,img_5919
-oil,Landscapes,Img 5925,,girl_up_a_tree,IMG_5925.jpg,,,,,,,,,landscapes,img_5925
-oil,Landscapes,Img 5926,,girl_up_a_tree,IMG_5926.jpg,,,,,,,,,landscapes,img_5926
-oil,Landscapes,Img 5929,,girl_up_a_tree,IMG_5929.jpg,,,,,,,,,landscapes,img_5929
-oil,Landscapes,Img 5939,,girl_up_a_tree,IMG_5939.jpg,,,,,,,,,landscapes,img_5939
-oil,Landscapes,Img 5942,,girl_up_a_tree,IMG_5942.jpg,,,,,,,,,landscapes,img_5942
-oil,Landscapes,Img 5943,,girl_up_a_tree,IMG_5943.jpg,,,,,,,,,landscapes,img_5943
-oil,Landscapes,Img 6039,,girl_up_a_tree,IMG_6039.jpg,,,,,,,,,landscapes,img_6039
-oil,Landscapes,Img 6122,,girl_up_a_tree,IMG_6122.jpg,,,,,,,,,landscapes,img_6122
-oil,Landscapes,Img 6127,,girl_up_a_tree,IMG_6127.jpg,,,,,,,,,landscapes,img_6127
-oil,Landscapes,Img 9469,,girl_up_a_tree,IMG_9469.jpg,,,,,,,,,landscapes,img_9469
-oil,Landscapes,Img 9473,,girl_up_a_tree,IMG_9473.jpg,,,,,,,,,landscapes,img_9473
-oil,Landscapes,Img 9474,,girl_up_a_tree,IMG_9474.jpg,,,,,,,,,landscapes,img_9474
-oil,Landscapes,Img 9484,,girl_up_a_tree,IMG_9484.jpg,,,,,,,,,landscapes,img_9484
-oil,Landscapes,Img 8125,,la_rambla,IMG_8125.jpg,,,,,,,,,landscapes,img_8125
-oil,Landscapes,Img 8132,,la_rambla,IMG_8132.jpg,,,,,,,,,landscapes,img_8132
-oil,Landscapes,Img 8134,,la_rambla,IMG_8134.jpg,,,,,,,,,landscapes,img_8134
-oil,Landscapes,Img 8135,,la_rambla,IMG_8135.jpg,,,,,,,,,landscapes,img_8135
-oil,Landscapes,Img 8137,,la_rambla,IMG_8137.jpg,,,,,,,,,landscapes,img_8137
-oil,Landscapes,Img 8256,,la_rambla,IMG_8256.jpg,,,,,,,,,landscapes,img_8256
-oil,Landscapes,Img 8261,,la_rambla,IMG_8261.jpg,,,,,,,,,landscapes,img_8261
-oil,Landscapes,Img 8044,,monterey,IMG_8044.jpg,,,,,,,,,landscapes,img_8044
-oil,Landscapes,Img 8092,,monterey,IMG_8092.jpg,,,,,,,,,landscapes,img_8092
-oil,Landscapes,Img 8099,,monterey,IMG_8099.jpg,,,,,,,,,landscapes,img_8099
-oil,Landscapes,Img 8100,,monterey,IMG_8100.jpg,,,,,,,,,landscapes,img_8100
-oil,Landscapes,Img 8101,,monterey,IMG_8101.jpg,,,,,,,,,landscapes,img_8101
-oil,Landscapes,Img 8102,,monterey,IMG_8102.jpg,,,,,,,,,landscapes,img_8102
-oil,Landscapes,Monterey,TRUE,monterey,monterey.jpg,,,,,,,,,landscapes,monterey
-oil,Landscapes,Img 0243,,monterey_visitor,IMG_0243.jpg,,,,,,,,,landscapes,img_0243
-oil,Landscapes,Img 7956,,monterey_visitor,IMG_7956.jpg,,,,,,,,,landscapes,img_7956
-oil,Landscapes,Img 7959,,monterey_visitor,IMG_7959.jpg,,,,,,,,,landscapes,img_7959
-oil,Landscapes,Img 7995,,monterey_visitor,IMG_7995.jpg,,,,,,,,,landscapes,img_7995
-oil,Landscapes,Img 7996,,monterey_visitor,IMG_7996.jpg,,,,,,,,,landscapes,img_7996
-oil,Landscapes,Img 7997,,monterey_visitor,IMG_7997.jpg,,,,,,,,,landscapes,img_7997
-oil,Landscapes,Img 8003,,monterey_visitor,IMG_8003.jpg,,,,,,,,,landscapes,img_8003
-oil,Landscapes,Img 8006,,monterey_visitor,IMG_8006.jpg,,,,,,,,,landscapes,img_8006
-oil,Landscapes,Img 8009,,monterey_visitor,IMG_8009.jpg,,,,,,,,,landscapes,img_8009
-oil,Landscapes,Img 8010,,monterey_visitor,IMG_8010.jpg,,,,,,,,,landscapes,img_8010
-oil,Landscapes,Img 8012,,monterey_visitor,IMG_8012.jpg,,,,,,,,,landscapes,img_8012
-oil,Landscapes,Img 8013,,monterey_visitor,IMG_8013.jpg,,,,,,,,,landscapes,img_8013
-oil,Landscapes,Img 8014,,monterey_visitor,IMG_8014.jpg,,,,,,,,,landscapes,img_8014
-oil,Landscapes,Img 8016,,monterey_visitor,IMG_8016.jpg,,,,,,,,,landscapes,img_8016
-oil,Landscapes,Img 8018,,monterey_visitor,IMG_8018.jpg,,,,,,,,,landscapes,img_8018
-oil,Landscapes,Img 8019,,monterey_visitor,IMG_8019.jpg,,,,,,,,,landscapes,img_8019
-oil,Landscapes,Img 8024,,monterey_visitor,IMG_8024.jpg,,,,,,,,,landscapes,img_8024
-oil,Landscapes,Img 8025,,monterey_visitor,IMG_8025.jpg,,,,,,,,,landscapes,img_8025
-oil,Landscapes,Img 8027,,monterey_visitor,IMG_8027.jpg,,,,,,,,,landscapes,img_8027
-oil,Landscapes,Img 8045,,monterey_visitor,IMG_8045.jpg,,,,,,,,,landscapes,img_8045
-oil,Landscapes,Img 8048,,monterey_visitor,IMG_8048.jpg,,,,,,,,,landscapes,img_8048
-oil,Landscapes,Img 8049,,monterey_visitor,IMG_8049.jpg,,,,,,,,,landscapes,img_8049
-oil,Landscapes,Img 8062,,monterey_visitor,IMG_8062.jpg,,,,,,,,,landscapes,img_8062
-oil,Landscapes,Img 8123,,monterey_visitor,IMG_8123.jpg,,,,,,,,,landscapes,img_8123
-oil,Landscapes,Img 8124,,monterey_visitor,IMG_8124.jpg,,,,,,,,,landscapes,img_8124
-oil,Landscapes,Monterey Visitor,TRUE,monterey_visitor,monterey_visitor.jpg,,,,,,,,,landscapes,monterey_visitor
-oil,Landscapes,Ocean Rythms-1,,ocean_rhythms,ocean_rythms-1.jpg,,,,,,,,,landscapes,ocean_rythms-1
-oil,Portraits,Bailey-1,,bailey,bailey-1.jpg,,,,,,,,,portraits,bailey-1
-oil,Portraits,Bailey,TRUE,,bailey.jpg,2023,,6,6,,,"Oil, Portraits",Scan from Printer,portraits,bailey
-oil,Portraits,Bailey On the Beach-1,,bailey_on_the_beach,bailey_on_the_beach-1.jpg,,,,,,,,,portraits,bailey_on_the_beach-1
-oil,Portraits,Bailey On the Beach-2,,bailey_on_the_beach,bailey_on_the_beach-2.jpg,,,,,,,,,portraits,bailey_on_the_beach-2
-oil,Portraits,Bailey On the Beach-3,,bailey_on_the_beach,bailey_on_the_beach-3.jpg,,,,,,,,,portraits,bailey_on_the_beach-3
-oil,Portraits,Bailey On the Beach-4,,bailey_on_the_beach,bailey_on_the_beach-4.jpg,,,,,,,,,portraits,bailey_on_the_beach-4
-oil,Portraits,Bailey On the Beach-5,,bailey_on_the_beach,bailey_on_the_beach-5.jpg,,,,,,,,,portraits,bailey_on_the_beach-5
-oil,Portraits,Bailey On the Beach-6,,bailey_on_the_beach,bailey_on_the_beach-6.jpg,,,,,,,,,portraits,bailey_on_the_beach-6
-oil,Portraits,Bailey On the Beach-7,,bailey_on_the_beach,bailey_on_the_beach-7.jpg,,,,,,,,,portraits,bailey_on_the_beach-7
-oil,Portraits,Bailey On the Beach-8,,bailey_on_the_beach,bailey_on_the_beach-8.jpg,,,,,,,,,portraits,bailey_on_the_beach-8
-oil,Portraits,Bailey On the Beach,TRUE,,bailey_on_the_beach.jpg,2023,,18,36,,,"Oil, Portraits",Scan from Printer,portraits,bailey_on_the_beach
-oil,Portraits,Mouser-1,,mouser,mouser-1.jpg,,,,,,,,,portraits,mouser-1
-oil,Portraits,Mouser-2,,mouser,mouser-2.jpg,,,,,,,,,portraits,mouser-2
-oil,Portraits,Mouser-3,,mouser,mouser-3.jpg,,,,,,,,,portraits,mouser-3
-oil,Portraits,Mouser-4,,mouser,mouser-4.jpg,,,,,,,,,portraits,mouser-4
-oil,Portraits,Mouser-5,,mouser,mouser-5.jpg,,,,,,,,,portraits,mouser-5
-oil,Portraits,Mouser-6,,mouser,mouser-6.jpg,,,,,,,,,portraits,mouser-6
-oil,Portraits,Mouser,TRUE,,mouser.jpg,2023,Oil on Panel,6,6,,,"Oil, Portraits",Scan from Printer,portraits,mouser
-Oil,Portraits,The Sun King,,,the_sun_king.tif,2019,Oil on Panel,18,24,,,"Oil, Portraits",Custom Photographic,portraits,the_sun_king
-Oil,Portraits,Joie de Vivre,,,Joie de Vivre-11x14.tif,2019,Oil on Panel,11,14,,,"Oil, Portraits",Custom Photographic,portraits,joie_de_vivre
-Oil,Portraits,Age of Joy,TRUE,,age_of_joy.tif,2018,Oil on Panel,18,24,,,"Oil, Portraits",Custom Photographic,portraits,age_of_joy
-Oil,Portraits,Fran's Portrait,,,frans_portrait.jpg,2018,Oil on Panel,8,10,,,"Oil, Portraits",Scan from Printer,portraits,frans_portrait
-oil,Portraits,Img 6164,,frans_portrait,IMG_6164.jpg,,,,,,,,,portraits,img_6164
-oil,Portraits,Img 6241,,frans_portrait,IMG_6241.jpg,,,,,,,,,portraits,img_6241
-oil,Portraits,Img 6314,,frans_portrait,IMG_6314.jpg,,,,,,,,,portraits,img_6314
-oil,Portraits,Img 6315,,frans_portrait,IMG_6315.jpg,,,,,,,,,portraits,img_6315
-Oil,Portraits,Jill,,,jill.tif,2013,Oil on Masonite,42,60,,,"Oil, Portraits, The Figure",Custom Photographic,portraits,jill
-Oil,Portraits,Sensei Jerrell,,,sensei_jerrell.tif,2013,Oil on Masonite,40,60,,,"Oil, Portraits, The Figure",Custom Photographic,portraits,sensei_jerrell
-Oil,Portraits,Carmen's Son,,,carmens_son.tif,2012,Oil on Masonite,8,10,,,"Oil, Portraits",Photo (large),portraits,carmens_son
-Oil,Portraits,Papa & the Girl,,,the_girl_and_papa.tif,2011,Oil on Masonite,4,6,,,"Oil, Portraits",Photo,portraits,the_girl_and_papa
-Oil,Portraits,The Girl,,,the_girl.jpg,2011,Oil on Masonite,8,10,,,"Oil, Portraits",Photo (large),portraits,the_girl
-Oil,Portraits,Girl on a Bench,,,girl_on_a_bench.tif,2010,Oil on Masonite,8,10,,,"Oil, Portraits",Photo (large),portraits,girl_on_a_bench
-Oil,Portraits,Portrait of Zanna,,,zanna.tif,2010,Oil on Masonite,15,20,,,"Oil, Portraits",Custom Photographic,portraits,zanna
-Oil,Portraits,Sleeping Little Morgan,,,morgan-detail.jpg,2000,Oil on Canvas Board,24,30,,,"Oil, Portraits",Photo,portraits,morgan-detail
-Oil,Portraits,Meditation,,,meditation.tif,1997,Oil on Masonite,10,15,,,"Oil, Portraits",Custom Photographic,portraits,meditation
-Oil,Portraits,Sheri & Grapes,,,sheri_and_grapes.tif,1990,Oil on Masonite,10,15,,,"Oil, Portraits",Scan from Printer,portraits,sheri_and_grapes
+Oil,Past,Italian Lion Waterspout,,,Italian Lion Waterspout.tif,,,,,,,,,past,italian_lion_waterspout
+Oil,Portraits,Img 6164,,frans_portrait,IMG_6164.jpg,,,,,,,,,portraits,img_6164
+Oil,Portraits,Img 6241,,frans_portrait,IMG_6241.jpg,,,,,,,,,portraits,img_6241
+Oil,Portraits,Img 6314,,frans_portrait,IMG_6314.jpg,,,,,,,,,portraits,img_6314
+Oil,Portraits,Img 6315,,frans_portrait,IMG_6315.jpg,,,,,,,,,portraits,img_6315
 Oil,Portraits,Img 8266,,age_of_joy,IMG_8266.jpg,,,,,,,,,portraits,img_8266
 Oil,Portraits,Img 8267,,age_of_joy,IMG_8267.jpg,,,,,,,,,portraits,img_8267
 Oil,Portraits,Img 8443,,age_of_joy,IMG_8443.jpg,,,,,,,,,portraits,img_8443
@@ -492,45 +604,6 @@ Oil,Portraits,Img 9462,,age_of_joy,IMG_9462.jpg,,,,,,,,,portraits,img_9462
 Oil,Portraits,Img 9463,,age_of_joy,IMG_9463.jpg,,,,,,,,,portraits,img_9463
 Oil,Portraits,Img 9489,,age_of_joy,IMG_9489.jpg,,,,,,,,,portraits,img_9489
 Oil,Portraits,J-age of Joy,,age_of_joy,J-age_of_joy.jpg,,,,,,,,,portraits,j-age_of_joy
-Oil,Figures,Giant Octopus II,,,giant-octopus-ii.jpg,2024,Oil on Panel,48,36,Sold,,"Oil, Figure Drawing, Wide",Photo,figures,giant_octopus_ii
-Oil,Figures,Giant Octopus,TRUE,,giant_octopus.png,2022,Oil on Panel,48,36,Sold,,"Oil, Figure Drawing, Wide",Photo,figures,giant_octopus
-Oil,Figures,Giant Octopus - 1,,giant_octopus,giant_octopus-1.png,2022,Oil on Canvas Board,48,36,,,,,figures,giant_octopus
-Oil,Figures,Giant Octopus - 2,,giant_octopus,giant_octopus-2.png,2022,Oil on Canvas Board,48,36,,,,,figures,giant_octopus
-Oil,Figures,Giant Octopus - 3,,giant_octopus,giant_octopus-3.png,2022,Oil on Canvas Board,48,36,,,,,figures,giant_octopus
-Oil,Figures,Giant Octopus - Detail ,,giant_octopus,octopus-1-detail.png,2022,Oil on Canvas Board,48,36,,,,,figures,giant_octopus
-Oil,Figures,Dryad Exposed,TRUE,,dryad_exposed.jpg,2021,Oil on Oak,30,64,1800,,"Oil, Figure Drawing, Wide",Photo,figures,dryad_exposed
-Oil,Figures,Boundary Oaks Flyer,,dryad_exposed,lesher_center_bedford_gallery.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,lesher_center_bedford_gallery
-Oil,Figures,Choosing,,dryad_exposed,dryad_exposed_1608.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_1608
-Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_4882.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_4882
-Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_4884.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_4884
-Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_4888.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_4888
-Oil,Figures,Sanding,,dryad_exposed,dryad_exposed_4890.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_4890
-Oil,Figures,More Sanding,,dryad_exposed,dryad_exposed_4892.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_4892
-Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_5070.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5070
-Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_5075.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5075
-Oil,Figures,Support Branch Detail,,dryad_exposed,dryad_exposed_5076.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5076
-Oil,Figures,Ready for Painting,,dryad_exposed,dryad_exposed_5081.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5081
-Oil,Figures,Sepia Gesso,,dryad_exposed,dryad_exposed_5087.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5087
-Oil,Figures,Underpainting,,dryad_exposed,dryad_exposed_5090.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5090
-Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_5625.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5625
-Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_5630.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5630
-Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_5641.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5641
-Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_5961.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_5961
-Oil,Figures,Dryad Exposed,,dryad_exposed,dryad_exposed_6012.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing",Photo,figures,dryad_exposed_6012
-Oil,Figures,Finished,,dryad_exposed,dryad_exposed_finished.jpg,2021,Oil on Oak,,,,,"Oil, Figure Drawing, Wide",Photo,figures,dryad_exposed_finished
-Oil,Figures,Naiad,,,naiad.jpg,2020,Oil on Panel,24,6,695,,"Oil, Figure Drawing",,figures,naiad
-Oil,Figures,Dryad,,,dryad.jpg,2020,Oil on Panel,24,6,695,,"Oil, Figure Drawing",,figures,dryad
-oil,Figures,Dryad-naiad,TRUE,dryad-naiad,dryad-naiad.png,,,,,,,,,figures,dryad-naiad
-Oil,Still Life,Flame Rose I,TRUE,,flame_rose_i.jpg,2022,Oil on Panel,6,6,400,,"Oil, Still Life",,still_life,flame_rose_i
-Oil,Still Life,Flame Rose II,TRUE,,flame_rose_ii.jpg,2022,Oil on Panel,6,6,400,,"Oil, Still Life",,still_life,flame_rose_ii
-oil,Still Life,Flame Rose III,TRUE,,flame_rose_iii.jpg,2022,Oil on Panel,6,6,400,,"Oil, Still Life",,still_life,flame_rose_iii
-Oil,Still Life,Mandala,,,Mandala.tif,2017,Oil on Panel,30,30,,,Oi,Photo,still_life,mandala
-Oil,Still Life,Bath Water Study 3,,,bath_water_study_3.jpg,2020,Oil on Masonite,30,20,2400,900,"Oil, Still Life",Photo (large),still_life,bath_water_study_2
-Oil,Still Life,Bath Water Study 1,,,bath_water_study_1.jpg,2017,Oil on Masonite,30,20,2400,900,"Oil, Still Life",Photo (large),still_life,bath_water_study_1
-Oil,Still Life,Bath Water Study 2,,,bath_water_study_2.jpg,2017,Oil on Masonite,30,20,,,"Oil, Still Life",Photo (large),still_life,bath_water_study_2
-Oil,Still Life,Elements of Time,,,elements_of_time.tif,2015,Oil on Masonite,20,16,,,"Oil, Still Life",Photo (large),still_life,elements_of_time
-Oil,Still Life,Elements of Time Sepia,,,elements_of_time_sepia.tif,2015,Oil on Masonite,20,16,,,"Oil, Still Life",Custom Photographic,still_life,elements_of_time_sepia
-Oil,Still Life,Old Master's Pear,,,old_masters_pear.jpg,2015,Oil on Masonite,6,10,,,"Oil, Still Life",Scan from Printer,still_life,old_masters_pear
 Oil,Still Life,Flame Rose I-1,,flame_rose_i,flame_rose_i-1.png,,,,,,,,,still_life,flame_rose_i-1
 Oil,Still Life,Flame Rose I-2,,flame_rose_i,flame_rose_i-2.png,,,,,,,,,still_life,flame_rose_i-2
 Oil,Still Life,Flame Rose I-3,,flame_rose_i,flame_rose_i-3.png,,,,,,,,,still_life,flame_rose_i-3
@@ -568,119 +641,6 @@ Oil,Still Life,Img 5245,,bath_water_study_1,IMG_5245.jpg,,,,,,,,,still_life,img_
 Oil,Still Life,Img 5247,,bath_water_study_1,IMG_5247.jpg,,,,,,,,,still_life,img_5247
 Oil,Still Life,Img 5248,,bath_water_study_1,IMG_5248.jpg,,,,,,,,,still_life,img_5248
 Oil,Still Life,Img 5249,,bath_water_study_1,IMG_5249.jpg,,,,,,,,,still_life,img_5249
-Oil,Doorknockers,Irish Doorknob,,,irish_doorknob.tif,2011,Oil on Masonite,8,10,,,"Oil, Doorknockers",Scan from Printer,doorknockers,irish_doorknob
-Oil,Doorknockers,Hand Knocker,,,hand_knocker.tif,2008,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,hand_knocker
-Oil,Doorknockers,Lion Door Knocker,,,lion_knocker.tif,2008,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,lion_knocker
-Oil,Doorknockers,Nude Door Knocker,,,lady_knocker.tif,2008,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,lady_knocker
-Oil,Doorknockers,Sheep Knocker,,,sheep_knocker.tif,2008,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,sheep_knocker
-Oil,Doorknockers,Devil Knocker,,,devil_knocker.tif,2007,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,devil_knocker
-Oil,Doorknockers,Door Bell,,,mirror_knocker.tif,2007,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,mirror_knocker
-Oil,Doorknockers,Green Knocker,,,green_knocker.tif,2007,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,green_knocker
-Oil,Doorknockers,Horse Knocker,,,horse_knocker.tif,2007,Oil on Masonite,8,10,,,"Oil, Italy, Doorknockers, Series",Custom Photographic,doorknockers,horse_knocker
-Oil,2010-2011,Morgan's Bird,,,morgans_bird.jpg,2014,Oil on Masonite,8,10,,,Oil,Scan from Printer,2010-2011,morgans_bird
-Oil,2010-2011,After the Metamorphosis,,,after_the_metamorphosis.jpg,2012,Oil on Masonite,8,10,,,"Oil, Fantasy and Allegory",Scan from Printer,2010-2011,after_the_metamorphosis
-Oil,2010-2011,Golden Light Energy,,,golden_light_energy.tif,2012,Oil on Masonite,16,20,,,Oil,Photo,2010-2011,golden_light_energy
-Oil,2010-2011,Portrait of a Battle Dragon,,,portrait_of_a_battle_dragon.jpg,2012,Oil on Masonite,8,10,,,"Oil, Fantasy and Allegory",Photo,2010-2011,portrait_of_a_battle_dragon
-Oil,2010-2011,Dash,,,dash.tif,2011,Oil on Masonite,4,6,,,"Oil, Pets and Animals, Series",Scan from Printer,2010-2011,dash
-Oil,2010-2011,Luna,,,luna.tif,2011,Oil on Masonite,4,6,,,"Oil, Pets and Animals, Series",Scan from Printer,2010-2011,luna
-Oil,2010-2011,Sam,,,sam.tif,2011,Oil on Masonite,4,6,,,"Oil, Pets and Animals, Series",Scan from Printer,2010-2011,sam
-Oil,2010-2011,Small Roman Lion,,,small_lion.tif,2011,Oil on Masonite,4,6,,,"Oil, Pets and Animals",Scan from Printer,2010-2011,small_lion
-Oil,2010-2011,St Marks Lion & Morgan 2,,,st_marks_lion_and_girl-2.tif,2010,Oil on Masonite,4,6,,,"Oil, Pets and Animals, Portraits",Scan from Printer,2010-2011,st_marks_lion_and_girl-2
-Oil,2010-2011,St Marks Lion & Morgan 1,,,st_marks_lion_and_girl-1.tif,2009,Oil on Masonite,4,6,,,"Oil, Pets and Animals, Portraits",Scan from Printer,2010-2011,st_marks_lion_and_girl-1
-Oil,2010-2011,Morning Glory,,,morning_glory.tif,2005,Oil on Masonite,8,10,,,Oil,Scan from Printer,2010-2011,morning_glory
-Oil,2010-2011,Napa Valley Vineyard Worker,,,grape_man.jpg,1989,Oil on Masonite,15,20,,,"Oil, Fantasy and Allegory, Landscapes, The Figure",Photo,2010-2011,grape_man
-oil,Past,Italian Lion Waterspout,,,Italian Lion Waterspout.tif,,,,,,,,,past,italian_lion_waterspout
-Oil,Past,Grapevine on Wood,,,grapevine_on_wood.tif,1998,Oil on Masonite,15,20,,,Oil,,past,grapevine_on_wood
-Oil,Past,The Bath,,,bath.jpg,1997,Oil on Masonite,10,15,,,"Oil, Architecture, The Figure, Fantasy and Allegory",,past,bath
-Oil,Past,Rain,,,rain.jpg,1990,Oil on Masonite,15,20,,,"Oil, Landscape",Photo,past,rain
-Oil,Past,Sandstone Formations (Left),,,sandstone_left.jpg,1990,Oil on Masonite,10,15,,,"Oil, Landscape","Photo ('tryptch-left.jpg', etc.)",past,sandstone_left
-Oil,Past,Sandstone Formations (Middle),,,sandstone_middle.jpg,1990,Oil on Masonite,20,15,,,"Oil, Landscape",Photo,past,sandstone_middle
-Oil,Past,Sandstone Formations (Right),,,sandstone_right.jpg,1990,Oil on Masonite,10,15,,,"Oil, Landscape",Photo,past,sandstone_right
-Oil,Past,The Force and Rhythm of Time,,,the_force_and_rhythm_of_time.tif,1989,Oil on Masonite,15,20,,,"Oil,, The Figure, Fantasy and Allegory, Landscape",Photo ('pool_women-light.jpg'),past,the_force_and_rhythm_of_time
-Oil,Past,Imps in the Garden,,,imps_in_the_garden.tif,1988,Oil on Masonite,15,20,,,"Oil, The Figure, Fantasy and Allegory, Landscape",,past,imps_in_the_garden
-Oil,Past,Exhaustion,,,exhaustion.jpg,1982,Oil on Canvas Board,8,10,,,"Oil, Fantasy and Allegory",Photo,past,exhaustion
-Drawings,Home,Charter Oak House,,,charter_oak_house.jpg,1999,,,,,,,,home,charter_oak_house
-Drawings,Home,Carothers Road House,,,carothers_road_house.jpg,1999,,,,,,,,home,caraothers_road_house
-Drawings,Home,Alexanders's House,,,alexanders_house.jpg,1992,,,,,,,,home,alexanders_house
-Drawings,Home,Ross House,,,ross_house.jpg,,,,,,,,,home,ross_house
-Drawings,Home,Window Seat,,,window_seat.jpg,,,,,,,,,home,window_seat
-Drawings,Nature,Lunchtime In Bodega Bay,,,lunchtime_in_bodega_bay.png,2022,Graphite on Bristol Paper,7,5,225,,,,nature,lunchtime_in_bodega_bay
-Drawings,Nature,Deer,,,deer-pencil.jpg,2021,Graphite on Bristol Paper,7,5,225,,,,nature,deer-pencil
-Drawings,Nature,Fuzz Bucket,,,fuzz_bucket.jpg,2021,Pencil on Paper,5,7,NFS,,,,Nature,fuzz_bucket
-Drawings,Nature,Stories To Tell,TRUE,,stories_to_tell.tif,,,,,,,,,nature,stories_to_tell
-Drawings,Nature,Stories To Tell 1,,stories_to_tell,IMG_6143.jpg,,,,,,,,,nature,img_6143
-Drawings,Nature,Stories To Tell 2,,stories_to_tell,IMG_6163.jpg,,,,,,,,,nature,img_6163
-Drawings,Nature,Stories To Tell 3,,stories_to_tell,IMG_6171.jpg,,,,,,,,,nature,img_6171
-Drawings,Nature,Stories To Tell 4,,stories_to_tell,IMG_6172.jpg,,,,,,,,,nature,img_6172
-Drawings,Nature,Three Cranes,,,three_cranes.jpg,2020,Graphite on Bristol Paper,7,3,,,,,nature,three_cranes
-Drawings,Nature,The Watcher in the Woods,,,the_watcher_in_the_woods.jpg,2019,Graphite on Bristol Paper,11,14,,,,,nature,the_watcher_in_the_woods
-Drawings,Nature,Carmel Tree,,,carmel_tree.jpg,,,,,,,Wide,,nature,carmel_tree
-Drawings,Nature,Grapeleaves,,,grapeleaves-pen.jpg,,,,,,,,,nature,grapeleaves-pen
-Drawings,Nature,Grapes,,,grapes-pen.jpg,,,,,,,,,nature,grapes-pen
-Drawings,Nature,Up a Tree,,,up_a_tree.jpg,,,,,,,,,nature,up_a_tree
-drawings,Nature,Color Pencil Tree,,,color_pencil_tree.tif,,,,,,,,,nature,color_pencil_tree
-Drawings,Figure Drawing,Mother and Daughter,,,mother_and_daughter.jpg,,,,,,,,,figure_drawing,mother_and_daughter
-Drawings,Figure Drawing,Brian (been In the Battle),,,Brian_(Been_in_the_Battle).jpg,,,,,,,,,figure_drawing,brian_(been_in_the_battle)
-Drawings,Figure Drawing,Emiliy,,,Emiliy.jpg,,,,,,,,,figure_drawing,emiliy
-Drawings,Figure Drawing,Emily 2,,,Emily_2.jpg,,,,,,,,,figure_drawing,emily_2
-Drawings,Figure Drawing,Judith,,,Judith.jpg,,,,,,,,,figure_drawing,judith
-Drawings,Figure Drawing,Simone,,,Simone.jpg,,,,,,,,,figure_drawing,simone
-Drawings,Figure Drawing,Torrey,,,Torrey.jpg,,,,,,,,,figure_drawing,torrey
-Drawings,Figure Drawing,Veronique,,,Veronique.jpg,,,,,,,,,figure_drawing,veronique
-drawings,Figure Drawing,Mom & Dad Drawing,,,Mom & Dad drawing.jpg,,,,,,,,,figure_drawing,mom_&_dad_drawing
-drawings,Figure Drawing,Federer,,,federer.jpg,,,,,,,,,figure_drawing,federer
-Drawings,Wineries & Restaurants,Travigne,,,travigne.jpg,,,,,,,,,wineries,travigne
-Drawings,Wineries & Restaurants,Sequoia Grove,,,sequoia_grove.jpg,,,,,,,,,wineries,sequoia_grove
-Drawings,Wineries & Restaurants,V Sattui,,,v_sattui.jpg,,,,,,,,,wineries,v_sattui
-Drawings,Wineries & Restaurants,Sutter Home,,,sutter_home.jpg,,,,,,,,,wineries,sutter_home
-Drawings,Wineries & Restaurants,Charles Krug,,,charles_krug.jpg,,,,,,,,,wineries,charles_krug
-Drawings,Wineries & Restaurants,Sante Fe Bar & Grill,,,santa_fe_bar_and_grill.jpg,,,,,,,,,wineries,santa_fe_bar_and_grill
-chess,Unglazed,White Bishops - Viking Priests,,,white_bishops-front.jpg,,,,,,,,,unglazed,white_bishops-front
-chess,Unglazed,White Bishops - Backs,,,white_bishops-backs.jpg,,,,,,,,,unglazed,white_bishops-backs
-chess,Unglazed,Black Bishops - Zulu Medicine Women,,,black_bishops-front.jpg,,,,,,,,,unglazed,black_bishops-front
-chess,Unglazed,Black Bishops - back,,,black_bishops-back.jpg,,,,,,,,,unglazed,black_bishops-back
-chess,Unglazed,Black Knight - Black Panther,,,black_knight.jpg,,,,,,,,,unglazed,black_knight
-chess,Unglazed,White Knights - Polar Bears,,,white_knights-bears.jpg,,,,,,,,,unglazed,white_knights-bears
-chess,Unglazed,White Rooks - Viking Ships,,,white_rooks.jpg,,,,,,,,,unglazed,white_rooks
-chess,Unglazed,Black Rooks - Zulu Huts,,,black_rooks.jpg,,,,,,,,,unglazed,black_rooks.jpg
-chess,Unglazed,"Black Rook, Knight, Queen and King - Front",,,black_rook_knight_queen_king-unglazed-front.jpg,,,,,,,,,unglazed,black_rook_knight_queen_king-unglazed-front
-chess,Unglazed,"Black Rook, Knight, Queen and King - Back",,,black_rook_knight_queen_king-unglazed-back.jpg,,,,,,,,,unglazed,black_rook_knight_queen_king-unglazed-back
-chess,Unglazed,White Queen,,,white_queen.jpg,,,,,,,,,unglazed,white_queen
-chess,Unglazed,White King and Queen,,,white_king_and_queen.png,,,,,,,,,unglazed,white_king_and_queen
-chess,Unglazed,Pawn Lineup,,,pawn_lineup.jpg,,,,,,,,,unglazed,pawn_lineup
-chess,Unglazed,Piece Lineup,,,unglazed-lineup.jpg,,,,,,,,,unglazed,unglazed-lineup
-chess,Unglazed,White Pawns - Day 1,,,white_pawns-day_1.jpg,,,,,,,,,unglazed,white_pawns-day_1
-chess,Glazed,Black King and Queen and Knight,,,Black_King_and_Queen_and_Knight.jpg,,,,,,,,,glazed,black_king_and_queen_and_knight
-chess,Glazed,Black King and Queen - backs,,,Black_King_and_Queen-Backs.jpg,,,,,,,,,glazed,black_king_and_queen-backs
-chess,Glazed,Zulu Warriors vs the Viking Horde,,,Ready_to_play.jpg,,,,,,,,,glazed,ready_to_play
-chess,Glazed,The Black Side,,,The_Black_Side.jpg,,,,,,,,,glazed,the_black_side
-chess,Glazed,The White Side,,,The_White_Side.jpg,,,,,,,,,glazed,the_white_side
-chess,Glazed,White King and Bishop and Pawn,,,White Bishops.jpg,,,,,,,,,glazed,white_bishops
-chess,Glazed,White Queen and Bishop and Rook,,,White_Queen_and_Bishop_and_Rook.jpg,,,,,,,,,glazed,white_queen_and_bishop_and_rook
-chess,Glazed,Lineup - White,,,Lineup-White.jpg,,,,,,,,,glazed,lineup-white
-chess,Glazed,Lineup - Black,,,Lineup-Black.jpg,,,,,,,,,glazed,lineup-black
-chess,Glazed,Lineup - All,,,Lineup-All.png,,,,,,,,,glazed,lineup-all
-chess,Kiln,Kiln - 1,,,Kiln-1.jpg,,,,,,,,,kiln,kiln-1
-chess,Kiln,Kiln - 2,,,Kiln-2.jpg,,,,,,,,,kiln,kiln-2
-chess,Kiln,Kiln - 3,,,Kiln-3.png,,,,,,,,,kiln,kiln-3
-chess,Kiln,White Pieces,,,White_Pieces.jpg,,,,,,,,,kiln,White_Pieces
-chess,Kiln,Kiln - glazed,,,Kiln-glazed.jpg,,,,,,,,,kiln,kiln-glazed
-Ceramics,Jamuna,Jamuna 1,,,jamuna.jpg,2004,Ceramic Sculpture,,,,,Sculpture,Photo,jamuna,jamuna
-ceramics,Jamuna,Jamuna-41,,,jamuna-41.JPG,,,,,,,,,jamuna,jamuna-41
-ceramics,Jamuna,Jamuna-42,,,jamuna-42.JPG,,,,,,,,,jamuna,jamuna-42
-ceramics,Jamuna,Jamuna-43,,,jamuna-43.JPG,,,,,,,,,jamuna,jamuna-43
-ceramics,Jamuna,Jamuna-44,,,jamuna-44.JPG,,,,,,,,,jamuna,jamuna-44
-ceramics,Jamuna,Jamuna-45,,,jamuna-45.JPG,,,,,,,,,jamuna,jamuna-45
-ceramics,Jamuna,Jamuna-46,,,jamuna-46.JPG,,,,,,,,,jamuna,jamuna-46
-ceramics,Jamuna,Jamuna-47,,,jamuna-47.JPG,,,,,,,,,jamuna,jamuna-47
-ceramics,Jamuna,Jamuna-48,,,jamuna-48.JPG,,,,,,,,,jamuna,jamuna-48
-ceramics,Jamuna,Jamuna-49,,,jamuna-49.JPG,,,,,,,,,jamuna,jamuna-49
-ceramics,Jamuna,Jamuna-50,,,jamuna-50.JPG,,,,,,,,,jamuna,jamuna-50
-ceramics,Jamuna,Jamuna-51,,,jamuna-51.JPG,,,,,,,,,jamuna,jamuna-51
-ceramics,Jamuna,Jamuna-52,,,jamuna-52.JPG,,,,,,,,,jamuna,jamuna-52
-ceramics,Jamuna,Jamuna-53,,,jamuna-53.JPG,,,,,,,,,jamuna,jamuna-53
-ceramics,Jamuna,Jamuna-54,,,jamuna-54.JPG,,,,,,,,,jamuna,jamuna-54
-ceramics,Jamuna,Jamuna-55,,,jamuna-55.JPG,,,,,,,,,jamuna,jamuna-55
 Ceramics,2005,Blue Dish Small,,,blue_dish_small.jpg,,,,,,,,,2005,blue_dish_small
 Ceramics,2005,Blue Purple Bowl Large,,,blue_purple_bowl_large.jpg,,,,,,,,,2005,blue_purple_bowl_large
 Ceramics,2005,Crescent Olive,,,Crescent olive.jpg,,,,,,,,,2005,crescent_olive
@@ -719,7 +679,6 @@ Ceramics,2005,Table Small Round Snowflake 1,,,Table Small Round Snowflake_1.jpg,
 Ceramics,2005,Table Small Round Sp Brown 1,,,Table Small Round Sp Brown_1.jpg,,,,,,,,,2005,table_small_round_sp_brown_1
 Ceramics,2005,Table Waves,,,Table Waves.jpg,,,,,,,,,2005,table_waves
 Ceramics,2005,Textured Triangle Platter,,,Textured triangle platter.jpg,,,,,,,,,2005,textured_triangle_platter
-Ceramics,2007,Kiwi & Emerald Large Bowl,,,kiwi_emerald_large_bowl.jpg,2007,Terra Cotta Clay,,,,,,Need image,2007,kiwi_emerald_large_bowl
 Ceramics,2007,Bad Hairday Dish,,,bad_hairday_dish.jpg,,,,,,,,,2007,bad_hairday_dish
 Ceramics,2007,Kiwi and Emerald Plates-medium,,,kiwi_and_emerald_plates-medium.jpg,,,,,,,,,2007,kiwi_and_emerald_plates-medium
 Ceramics,2007,Kiwi and Emerald Plates-small,,,kiwi_and_emerald_plates-small.jpg,,,,,,,,,2007,kiwi_and_emerald_plates-small
@@ -740,11 +699,68 @@ Ceramics,Firing the Kiln,Second Layer After.jpg,,,second_layer_after.jpg.jpg,,,,
 Ceramics,Firing the Kiln,Second Layer Before,,,second_layer_before.jpg,,,,,,,,,firing_the_kiln,second_layer_before
 Ceramics,Firing the Kiln,Third Layer After,,,third_layer_after.jpg,,,,,,,,,firing_the_kiln,third_layer_after
 Ceramics,Firing the Kiln,Third Layer Before,,,third_layer_before.jpg,,,,,,,,,firing_the_kiln,third_layer_before
-not_for_publication,Shirts,Afire to Know the World (kid's shirt),,,Afire_to_Know_the_World-kids.jpg,2008,Ink on Cotton,,,,,Shirts,,shirts,afire_to_know_the_world-kids
-not_for_publication,Shirts,Afire to Know the World (nightshirt),,,Afire_to_Know_the_World-nightshirt.jpg,2008,Ink on Cotton,,,,,Shirts,,shirts,afire_to_know_the_world-nightshirt
-not_for_publication,Shirts,Afire to Know the World (shirt),,,Afire_to_Know_the_World-shirt.jpg,2008,Ink on Cotton,,,,,Shirts,,shirts,afire_to_know_the_world-shirt
-not_for_publication,Shirts,Thor shirt for Dantz (back),,,Thor_shirt_for_Dantz-back.jpg,2001,Ink on Cotton,,,,,Shirts,,shirts,thor_shirt_for_dantz-back
-not_for_publication,Shirts,Thor shirt for Dantz (front closeup),,,Thor_shirt_for_Dantz-front_closeup.jpg,2001,Ink on Cotton,,,,,Shirts,,shirts,thor_shirt_for_dantz-front_closeup
-not_for_publication,Shirts,Thor shirt for Dantz (front),,,Thor_shirt_for_Dantz-front.jpg,2001,Ink on Cotton,,,,,Shirts,,shirts,thor_shirt_for_dantz-front
-not_for_publication,Signs,Two Dragons and a Phoenix,TRUE,,two_dragons_and_a_phoenix.jpg,2012,Oil on Redwood,,,,,Oil,,signs,two_dragons_and_a_phoenix
-not_for_publication,Signs,Two Dragons and a Phoenix underpaint,,two_dragons_and_a_phoenix,two_dragons_and_a_phoenix_underpaint.jpg,2012,Oil on Redwood,,,,,Oil,,signs,two_dragons_and_a_phoenix_underpaint
+ceramics,Jamuna,Jamuna-41,,,jamuna-41.JPG,,,,,,,,,jamuna,jamuna-41
+ceramics,Jamuna,Jamuna-42,,,jamuna-42.JPG,,,,,,,,,jamuna,jamuna-42
+ceramics,Jamuna,Jamuna-43,,,jamuna-43.JPG,,,,,,,,,jamuna,jamuna-43
+ceramics,Jamuna,Jamuna-44,,,jamuna-44.JPG,,,,,,,,,jamuna,jamuna-44
+ceramics,Jamuna,Jamuna-45,,,jamuna-45.JPG,,,,,,,,,jamuna,jamuna-45
+ceramics,Jamuna,Jamuna-46,,,jamuna-46.JPG,,,,,,,,,jamuna,jamuna-46
+ceramics,Jamuna,Jamuna-47,,,jamuna-47.JPG,,,,,,,,,jamuna,jamuna-47
+ceramics,Jamuna,Jamuna-48,,,jamuna-48.JPG,,,,,,,,,jamuna,jamuna-48
+ceramics,Jamuna,Jamuna-49,,,jamuna-49.JPG,,,,,,,,,jamuna,jamuna-49
+ceramics,Jamuna,Jamuna-50,,,jamuna-50.JPG,,,,,,,,,jamuna,jamuna-50
+ceramics,Jamuna,Jamuna-51,,,jamuna-51.JPG,,,,,,,,,jamuna,jamuna-51
+ceramics,Jamuna,Jamuna-52,,,jamuna-52.JPG,,,,,,,,,jamuna,jamuna-52
+ceramics,Jamuna,Jamuna-53,,,jamuna-53.JPG,,,,,,,,,jamuna,jamuna-53
+ceramics,Jamuna,Jamuna-54,,,jamuna-54.JPG,,,,,,,,,jamuna,jamuna-54
+ceramics,Jamuna,Jamuna-55,,,jamuna-55.JPG,,,,,,,,,jamuna,jamuna-55
+chess,Glazed,Black King and Queen - backs,,,Black_King_and_Queen-Backs.jpg,,,,,,,,,glazed,black_king_and_queen-backs
+chess,Glazed,Black King and Queen and Knight,,,Black_King_and_Queen_and_Knight.jpg,,,,,,,,,glazed,black_king_and_queen_and_knight
+chess,Glazed,Lineup - All,,,Lineup-All.png,,,,,,,,,glazed,lineup-all
+chess,Glazed,Lineup - Black,,,Lineup-Black.jpg,,,,,,,,,glazed,lineup-black
+chess,Glazed,Lineup - White,,,Lineup-White.jpg,,,,,,,,,glazed,lineup-white
+chess,Glazed,The Black Side,,,The_Black_Side.jpg,,,,,,,,,glazed,the_black_side
+chess,Glazed,The White Side,,,The_White_Side.jpg,,,,,,,,,glazed,the_white_side
+chess,Glazed,White King and Bishop and Pawn,,,White Bishops.jpg,,,,,,,,,glazed,white_bishops
+chess,Glazed,White Queen and Bishop and Rook,,,White_Queen_and_Bishop_and_Rook.jpg,,,,,,,,,glazed,white_queen_and_bishop_and_rook
+chess,Glazed,Zulu Warriors vs the Viking Horde,,,Ready_to_play.jpg,,,,,,,,,glazed,ready_to_play
+chess,Kiln,Kiln - 1,,,Kiln-1.jpg,,,,,,,,,kiln,kiln-1
+chess,Kiln,Kiln - 2,,,Kiln-2.jpg,,,,,,,,,kiln,kiln-2
+chess,Kiln,Kiln - 3,,,Kiln-3.png,,,,,,,,,kiln,kiln-3
+chess,Kiln,Kiln - glazed,,,Kiln-glazed.jpg,,,,,,,,,kiln,kiln-glazed
+chess,Kiln,White Pieces,,,White_Pieces.jpg,,,,,,,,,kiln,White_Pieces
+chess,Unglazed,Black Bishops - back,,,black_bishops-back.jpg,,,,,,,,,unglazed,black_bishops-back
+chess,Unglazed,Black Bishops - Zulu Medicine Women,,,black_bishops-front.jpg,,,,,,,,,unglazed,black_bishops-front
+chess,Unglazed,Black Knight - Black Panther,,,black_knight.jpg,,,,,,,,,unglazed,black_knight
+chess,Unglazed,"Black Rook, Knight, Queen and King - Back",,,black_rook_knight_queen_king-unglazed-back.jpg,,,,,,,,,unglazed,black_rook_knight_queen_king-unglazed-back
+chess,Unglazed,"Black Rook, Knight, Queen and King - Front",,,black_rook_knight_queen_king-unglazed-front.jpg,,,,,,,,,unglazed,black_rook_knight_queen_king-unglazed-front
+chess,Unglazed,Black Rooks - Zulu Huts,,,black_rooks.jpg,,,,,,,,,unglazed,black_rooks.jpg
+chess,Unglazed,Pawn Lineup,,,pawn_lineup.jpg,,,,,,,,,unglazed,pawn_lineup
+chess,Unglazed,Piece Lineup,,,unglazed-lineup.jpg,,,,,,,,,unglazed,unglazed-lineup
+chess,Unglazed,White Bishops - Backs,,,white_bishops-backs.jpg,,,,,,,,,unglazed,white_bishops-backs
+chess,Unglazed,White Bishops - Viking Priests,,,white_bishops-front.jpg,,,,,,,,,unglazed,white_bishops-front
+chess,Unglazed,White King and Queen,,,white_king_and_queen.png,,,,,,,,,unglazed,white_king_and_queen
+chess,Unglazed,White Knights - Polar Bears,,,white_knights-bears.jpg,,,,,,,,,unglazed,white_knights-bears
+chess,Unglazed,White Pawns - Day 1,,,white_pawns-day_1.jpg,,,,,,,,,unglazed,white_pawns-day_1
+chess,Unglazed,White Queen,,,white_queen.jpg,,,,,,,,,unglazed,white_queen
+chess,Unglazed,White Rooks - Viking Ships,,,white_rooks.jpg,,,,,,,,,unglazed,white_rooks
+Drawings,Figure Drawing,Brian (been In the Battle),,,Brian_(Been_in_the_Battle).jpg,,,,,,,,,figure_drawing,brian_(been_in_the_battle)
+Drawings,Figure Drawing,Emiliy,,,Emiliy.jpg,,,,,,,,,figure_drawing,emiliy
+Drawings,Figure Drawing,Emily 2,,,Emily_2.jpg,,,,,,,,,figure_drawing,emily_2
+Drawings,Figure Drawing,Judith,,,Judith.jpg,,,,,,,,,figure_drawing,judith
+Drawings,Figure Drawing,Mother and Daughter,,,mother_and_daughter.jpg,,,,,,,,,figure_drawing,mother_and_daughter
+Drawings,Figure Drawing,Simone,,,Simone.jpg,,,,,,,,,figure_drawing,simone
+Drawings,Figure Drawing,Torrey,,,Torrey.jpg,,,,,,,,,figure_drawing,torrey
+Drawings,Figure Drawing,Veronique,,,Veronique.jpg,,,,,,,,,figure_drawing,veronique
+Drawings,Landscapes,Carmel Tree,,,carmel_tree.jpg,,,,,,,Wide,,landscapes,carmel_tree
+Drawings,Landscapes,Color Pencil Tree,,,color_pencil_tree.tif,,,,,,,,,landscapes,color_pencil_tree
+Drawings,Landscapes,Grapeleaves,,,grapeleaves-pen.jpg,,,,,,,,,landscapes,grapeleaves-pen
+Drawings,Landscapes,Grapes,,,grapes-pen.jpg,,,,,,,,,landscapes,grapes-pen
+Drawings,Landscapes,Stories To Tell,TRUE,,stories_to_tell.tif,,,,,,,,,landscapes,stories_to_tell
+Drawings,Landscapes,Stories To Tell 1,,stories_to_tell,IMG_6143.jpg,,,,,,,,,landscapes,img_6143
+Drawings,Landscapes,Stories To Tell 2,,stories_to_tell,IMG_6163.jpg,,,,,,,,,landscapes,img_6163
+Drawings,Landscapes,Stories To Tell 3,,stories_to_tell,IMG_6171.jpg,,,,,,,,,landscapes,img_6171
+Drawings,Landscapes,Stories To Tell 4,,stories_to_tell,IMG_6172.jpg,,,,,,,,,landscapes,img_6172
+Drawings,Landscapes,Up a Tree,,,up_a_tree.jpg,,,,,,,,,landscapes,up_a_tree
+Drawings,Portraits,Federer,,,federer.jpg,,,,,,,,,portraits,federer
+Drawings,Portraits,Mom & Dad Drawing,,,Mom & Dad drawing.jpg,,,,,,,,,portraits,mom_&_dad_drawing

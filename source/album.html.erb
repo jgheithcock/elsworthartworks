@@ -4,15 +4,21 @@ body_class: album_list
 ---
 
 <% current_page.data.subtitle = "#{category} : #{album}"%>
-<% contents.each do |item| %>
-  <% unless defined? parent_item %>
-    <% next unless (item[:parent].to_s.empty?) # skip items that have a parent defined %>
-  <% end %>
-<%# Set class to wide if width is greater than twice the height %>
-<%
-  section_class = (item[:tags].to_s.include? "Wide") ? "wide" : ""
-  section_class = "wide" if item[:height] && item[:width].to_f/item[:height].to_f > 2.0
-%>
+<% item_cnt = 0 %>
+<% top_level_items = contents.select { |item| item[:parent].to_s.empty? } %>
+<% top_level_items.each do |item| %>
+  <%# Set class to wide if width is greater than twice the height %>
+  <%
+    section_class = (item[:tags].to_s.include? "Wide") ? "wide" : ""
+    section_class = "wide" if item[:height] && item[:width].to_f/item[:height].to_f > 2.0
+    item_cnt += 1
+    item_cnt += 1 if section_class == "wide" # double count wide items
+    # Make the last item "wide" if it will be on its own.
+    if top_level_items.last == item
+      # If total number of items is odd, the last one will be by itself on a row
+      section_class = "wide" if item_cnt.odd?
+    end
+  %>
 <section class="<%= section_class  %>">
   <figure class="<%= item[:album] %>">
     <%= link_to image_tag(img_path(item), {:alt => item[:title]}), item_path(item) %>

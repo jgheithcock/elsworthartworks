@@ -14,12 +14,13 @@ contact:
     Lafayette, CA 94549
 favorites:
   oil:
-    circles: /images/oil/circles/morgan_at_21_1080.png
-    landscapes: /images/oil/landscapes/trinidad_sunset_1080.jpg
-    portraits: /images/oil/portraits/the_sun_king_1080.jpg
-    doorknockers: /images/oil/doorknockers/lady_knocker_1080.jpg
-    figures: /images/oil/figures/dryad_exposed_1080.jpg
-    "still life": /images/oil/still_life/elements_of_time_1080.jpg
+    animals: the_sun_king
+    circles: morgan_at_21
+    landscapes: trinidad_sunset
+    portraits: jacob-and-the-dragons
+    doorknockers: lady_knocker
+    figures: dryad_exposed
+    "still life": stargazer-lilies
 
 statement: "I hope to evoke a conversation between the viewer and something I have seen in nature. Perhaps when you look at a gnarled tree trunk in my artwork you might think of the evolving beauty of its enduring life span. Or you look at a figure and think beyond the lyricism of the lines. It is all about having more than just two or even three dimensions in a two-dimensional work."
 timeline:
@@ -85,12 +86,12 @@ awards:
     url: https://www.shpl.org/
 shows:
   current_shows:
+  past_shows:
     - show:
       name: "Botanica at the Village Theatre Art Gallery, Danville, CA"
       dates: 2024, July 13th - September 20th
       link: https://www.danville.ca.gov/calendar.aspx?eid=3177
       poster: /images/support/shows/botanica-art-show-jul-13-sep-20-2024.jpg
-  past_shows:
     - show:
       name: "Pictures of People, Web gallery at the de Young Museum"
       dates: 2022, March 3rd - July 10th
